@@ -1,0 +1,32 @@
+name: Build Task
+
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: latest
+
+    - name: Build
+      run: |
+        npm install
+        node lb_proxy
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v4
+      # If you're changing the branch from main,
+      # also change the `main` in `refs/heads/main`
+      # below accordingly.
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./out
