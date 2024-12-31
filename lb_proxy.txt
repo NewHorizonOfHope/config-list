@@ -195,6 +195,7 @@ outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com
 i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 dsl-app.s3.us-east-2.amazonaws.com
 mailer.amlegion.org
+ammmae150.news
 doh.amonsul.net
 anachem.online
 ananoos.com
@@ -271,6 +272,7 @@ adguardhome.atakorah.com
 atlasvpn.com
 atris.cyou
 dohtrial.att.net
+dns.auapi.fun
 auto-aufladen.de
 vanheim.ff.avast.com
 vpn-sd.ff.avast.com
@@ -324,6 +326,7 @@ beetvpn.com
 beevpn.com
 dns.belnet.be
 dns.bermeitinger.eu
+bestaitool.news
 bestfreevpn.com
 bestmod.site
 bestproxy.xyz
@@ -1351,7 +1354,6 @@ granules.us
 gratisproxy.nl
 gratisvpn.com
 greatestfreeproxy.com
-greatideasforlife.lol
 greenpass.info
 greenproxy.net
 greenssh.com
