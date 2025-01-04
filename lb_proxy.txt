@@ -419,7 +419,6 @@ dns.brahma.world
 bramka-proxy.pl
 bravedns.com
 tor.bravesoftware.com
-dns.bravoc.one
 brazilproxy.com
 brazilproxy.info
 breakwall.net
@@ -996,7 +995,6 @@ dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
-gustamadh.dynv6.net
 vpn.dzarlax.dev
 dzhot.us
 dnscache.e-utp.net
@@ -1467,6 +1465,7 @@ homeproxy.com
 homeproxy.net
 homevpn.eu
 homevpn.info
+homeworkhelp.click
 honeygain.me
 dns.hoody.com
 schoolmath.hop.sh
@@ -1512,7 +1511,6 @@ webproxy.ich-war-hier.de
 icitek.com
 mask.icloud.com
 mask-api.icloud.com
-mask-boot.icloud.com
 mask-canary.icloud.com
 mask-h2.icloud.com
 icpsuawn1zy5amys.com
@@ -1627,6 +1625,7 @@ vps2.jnraptor.net
 dns.joey01245.nl
 vpn.jogjacloud.com
 adguard.johanliebert.top
+joker81fansbase.site
 opencdn.jomodns.com
 jongserver.xyz
 adguard1.jsanagustin.net
@@ -1762,6 +1761,7 @@ litevpn.top
 loadlow.me
 dns.lobbygod.com
 locaproxy.com
+lochridge.org
 adguard.londonwebnerd.cloud
 doh.dns1.lonet.org
 doh.phdns1.lonet.org
@@ -2126,7 +2126,6 @@ dns.odinpl.com
 dns.ofdoom.net
 okado.online
 okayfreedom.com
-dns.olpploiopkuyhiopsfrt.info
 olympicproxy.net
 omegaproxy.com
 adguard.oms-ctr.ru
@@ -2887,14 +2886,9 @@ starssh.com
 ams1.startpage.com
 ams2.startpage.com
 eu-browse.startpage.com
-eu-proxy.startpage.com
 eu2-browse.startpage.com
-proxy.startpage.com
-proxy1.startpage.com
-proxy2.startpage.com
-proxy3.startpage.com
+error.proxy.startpage.com
 us-browse.startpage.com
-us-proxy.startpage.com
 dns.startupstack.tech
 starvpn.com
 staticnetcontent.com
