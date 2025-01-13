@@ -826,6 +826,7 @@ dns3.dns-ga.de
 doh.dns-ga.de
 secure-dns.dns-ga.de
 dns.dns-over-https.com
+dns-savage.com
 dns0.eu
 doh.dns4all.eu
 dns4me.net
@@ -1193,6 +1194,7 @@ freedomproxy.com
 freeeuroproxy.com
 freehiddenvpn.gq
 freehollandproxy.nl
+freelux.world
 freeme1001.com
 freemicvpn.com
 freenewslinks.com
@@ -1508,6 +1510,7 @@ webproxy.ich-war-hier.de
 icitek.com
 mask.icloud.com
 mask-api.icloud.com
+mask-boot.icloud.com
 mask-canary.icloud.com
 mask-h2.icloud.com
 icpsuawn1zy5amys.com
@@ -1670,6 +1673,7 @@ kiliclar.lol
 doh.killtw.im
 blog.kimiblock.top
 kingsurfproxy.com
+kinoshka.su
 dns1.klcd.eu
 dns2.klcd.eu
 klcknerrip.com
@@ -1879,6 +1883,7 @@ dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 dns.momou.ch
 monoprivacy.io
+monro-stom-plus.info
 monthlyssh.net
 monvpn.com
 zrh1-ns01.monzoon.net
@@ -1932,7 +1937,6 @@ myproxy.link
 myproxy.lol
 myproxysite.org
 myspaceunlock.com
-vm.mytm.cc
 mytunneling.com
 myturtle.net
 myvpn.com
@@ -1992,6 +1996,7 @@ us-nyc-w-p-1.nashkan.net
 us-saj-w-f-1.nashkan.net
 us-saj-w-p-1.nashkan.net
 natfrp.cloud
+nathanielgavin.lol
 nb66.me
 vpn.nbvalente.fr
 vpn.ncapi.io
@@ -2093,6 +2098,7 @@ novatech.fun
 dns.novg.net
 nowcache.com
 nowhiteflags.xyz
+noyourmean.xyz
 dns.npe.bz
 dns.npsolution.it
 nqma.net
@@ -2612,6 +2618,7 @@ dns.reckoningslug.name
 redhoodie.site
 redschool.info
 dns.redvau.lt
+reezus.us
 reflect4.me
 dns.reitmeier.me
 relayon.org
@@ -2636,6 +2643,7 @@ rifhchj.uk
 dns.rin.sh
 ringvpn.com
 riseup.net
+rnblyatclub.online
 dns.roedel.cloud
 dns.ronc.ru
 roodel.com
@@ -2708,6 +2716,7 @@ dns.scott-smith.us
 dns.scuola.org
 se3v5tjfff3aet.me
 adguard.sealyserver.com
+seanfat.club
 proxy.searchfiles.de
 2.dnscrypt-cert.dns.seby.io
 doh.seby.io
@@ -3008,6 +3017,7 @@ thecodeil.com
 thefreevpn.com
 login.thegalleryofart.info
 dns.thegoodsource.net
+themeaningofallmeaningsforallofthemeaningsmeanings.lol
 theproxies.net
 theproxy.bz
 theproxy.cc
@@ -3152,6 +3162,7 @@ nat64.tuxis.nl
 tuxlervpn.com
 tvone.info
 twingate.com
+twinklestarknights.com
 dns.twnic.tw
 twoproxy.net
 adguard.twotigers.xyz
@@ -3411,7 +3422,6 @@ videocollage.us
 videomy.online
 videonew.online
 videoproxy.site
-videounblock.com
 videounblocked.com
 videounblocker.net
 vidproxy.com
@@ -3625,7 +3635,6 @@ xbcpb668.com
 doh.xcom.pro
 xcomplus.com
 xenergy.cc
-www-bruh.xenon.lol
 doh.xfinity.com
 dot.xfinity.com
 doh2.gslb2.xfinity.com
@@ -3657,6 +3666,7 @@ ychen.cf
 ychen.gq
 yd6n63ptky.com
 yellowproxy.net
+yellowshiitake.com
 ylink.info
 yogavpn.com
 youcanhide.net
