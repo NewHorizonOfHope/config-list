@@ -95,7 +95,6 @@ searx.lwhr.xyz
 searx.lynnesbian.space
 go.mail.ru
 searx.mastodontech.de
-searx.maxxblow.de
 search.mdosch.de
 metacrawler.com
 metager.de
@@ -134,7 +133,6 @@ offtheradar.info
 search.ononoki.org
 ooglester.com
 searx.openhoofd.nl
-searx.openpandora.org
 search.opentunisia.org
 openworlds.info
 opnxng.com

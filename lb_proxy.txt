@@ -201,6 +201,7 @@ ananoos.com
 anatomical.design
 anchorfree.net
 dns.andrewnw.xyz
+androvpn.com
 doh.angry.im
 animeproxy.net
 aniscartujo.com
@@ -269,9 +270,9 @@ dandelionsprout.asuscomm.com
 dns.asysec.com
 adguardhome.atakorah.com
 atlasvpn.com
+atozproxy.com
 atris.cyou
 dohtrial.att.net
-dns.auapi.fun
 auto-aufladen.de
 vanheim.ff.avast.com
 vpn-sd.ff.avast.com
@@ -408,6 +409,7 @@ bolehvpn.net
 adguard.bonis.de
 adguard.bonsirven.eu
 boomproxy.com
+boomtunnel.com
 booomblaastfs.site
 booster456.com
 borderlessvpn.io
@@ -510,6 +512,7 @@ doh.cippapp.com
 ciproxy.de
 canadianshield.cira.ca
 dns.circl.lu
+circumvent.it
 mus.cisco.com
 ciscossh.com
 citizenvpn.com
@@ -519,6 +522,7 @@ clearvpn.com
 clickapp.info
 clickwork7secure.com
 cloaker.ca
+cloaker.us
 cloakvpn.com
 cloudbenders.fun
 apple-relay.cloudfare.com
@@ -973,6 +977,7 @@ takhtakh.domyah.net
 dontblockme.org
 dontfilter.us
 dns.dooks.uk
+doomshadow.com
 dot.pub
 ns1.dotls.org
 dns.dotnet.win
@@ -1000,6 +1005,7 @@ dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
+resolver2.dyndnsinternetguide.com
 vpn.dzarlax.dev
 dzhot.us
 dnscache.e-utp.net
@@ -1077,6 +1083,7 @@ expressvpn.net
 dns.extrawdw.net
 fra1.eyecay.xyz
 dns.ezyss.id
+f0lga.tech
 dns.f4a.fun
 f4fp.com
 jp1.f7b6h9.tk
@@ -1147,6 +1154,7 @@ firstcontact.site
 fishproxy.com
 fitnessdepotprices.com
 fixproxy.com
+dns.fizz.studio
 flarquix.xyz
 flashpull.com
 flashput.net
@@ -1262,6 +1270,7 @@ cluster-0.gac.edu
 cluster-1.gac.edu
 galeben.fr
 dns.gamban.com
+adguard.gambini.org
 proxy.gamecove.net
 gamers-nor.com
 gamingssh.com
@@ -1500,6 +1509,7 @@ dns.hshoe.cn
 hsselite.com
 html.cafe
 httpdserver.info
+dns.huas.me
 dns.hujiayucc.cn
 doth.huque.com
 dns.huseynov.work
@@ -2899,10 +2909,7 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
-error.proxy.startpage.com
-proxy3.startpage.com
 s4-us2.startpage.com
-us-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
 starvpn.com
@@ -3307,7 +3314,6 @@ unblockfreeproxy.com
 unblockit.app
 unblockit.club
 unblockit.foo
-unblockit.link
 unblockit.ltd
 unblockit.meme
 unblockit.one
@@ -3345,7 +3351,6 @@ unblockweb.one
 unblockweb.org
 unblockwebsite.online
 unblockwebsites.com
-unblockwebsites.us
 unblockyouku.com
 unblockyouku.org
 unblockyoutube.co
@@ -3391,7 +3396,6 @@ nindy-is.so-gorgeo.us.kg
 nora-is.so-gorgeo.us.kg
 nova-is.so-gorgeo.us.kg
 sitha-is.so-gorgeo.us.kg
-tetty-is.so-gorgeo.us.kg
 yussy-is.so-gorgeo.us.kg
 webproxy.us.com
 us-proxy.org
@@ -3543,7 +3547,6 @@ vpnwebsite.com
 vpnwelt.com
 antispam.vpsvpn.com
 go.vrpyourself.online
-vtcuong.site
 vyprvpn.com
 dns.w3ctag.org
 dns.wahr.top
