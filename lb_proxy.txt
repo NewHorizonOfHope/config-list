@@ -156,6 +156,7 @@ shield.afixer.app
 ahadns.net
 blitz.ahadns.com
 blitz-setup.ahadns.com
+ahoj.email
 airdns.org
 airvpn.org
 apple-relay.akamaized.net
@@ -607,7 +608,6 @@ akashiro.co.id
 antidnsvpn.co.cc
 binhexsolutions.co.uk
 clearvpn.co.uk
-croxyproxy.co.in
 pihole.datamatter.co.za
 ddelay.co.uk
 diskcrmvpn.co.cc
@@ -1211,7 +1211,6 @@ freeeuroproxy.com
 freehiddenvpn.gq
 freehollandproxy.nl
 freelux.world
-freeme1001.com
 freemicvpn.com
 freenewslinks.com
 freeopenproxy.com
@@ -1222,7 +1221,6 @@ freeproxy.io
 freeproxy.me
 freeproxy.top
 freeproxy.win
-freeproxyaccess.com
 freeproxyserver.co
 freeproxysites.co
 freeproxyunblockyoutube.com
@@ -1255,7 +1253,6 @@ dns.freopc.fr
 dns.freyja.pw
 frootvpn.com
 dns.froth.zone
-frysprinters.com
 awan.ftp.sh
 fun4school.store
 doh.funil.de
@@ -1357,7 +1354,6 @@ goodssh.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns-tunnel-check.googlezip.net
 goosevpn.com
 goproxy.asia
 performance.gosami.xyz
@@ -1608,6 +1604,7 @@ smellyal.isreally.pro
 smellypay.isreally.pro
 stuffyschicken.isreallycool.lol
 itopvpn.com
+itsayx.online
 pdns.itxe.net
 ivacy.com
 ivnkn.xyz
@@ -2413,6 +2410,7 @@ nl.dns.privex.io
 privoxy.org
 pro-tower.com
 prohome.info
+prointern.info
 project-evoex.de
 propage.info
 dns.propheci.xyz
@@ -2464,7 +2462,6 @@ proxy.org
 proxy.red
 proxy.rocks
 proxy.sh
-proxy.sx
 proxy.yt
 proxy-123.com
 proxy-2014.com
@@ -2550,8 +2547,10 @@ proxysite.us
 proxysite.video
 proxysneak.com
 proxysurfing.org
+proxythis.info
 proxytime.net
 proxytoplay.com
+proxyturbo.com
 proxyunblock.site
 proxyunblocker.org
 proxyvpn.eu
@@ -2565,6 +2564,8 @@ ptoserver.com
 publicdnsserver.com
 pukanuragan.ru
 dns.pumpkinvrar.com
+dns.pumplex.com
+2.dnscrypt-cert.pumplex.com
 pupilproxy.com
 puredns.org
 dns-privacy.puregeni.us
@@ -2618,6 +2619,7 @@ rabbithole.site
 racevpn.com
 dns.api.rackspacecloud.com
 radmin-vpn.com
+radmin-vpn.org
 dns.rafn.is
 ns.ral9005.org
 rapidprivacy.com
@@ -2696,7 +2698,6 @@ rusvpn.com
 rvpn.ws
 dns1.ryan-palmer.com
 vpn.rynet.link
-ryuto07219.site
 s4m.tech
 s4m.xyz
 safe-inet.com
@@ -2733,6 +2734,7 @@ schoolooks.com
 schoolproxy.co
 schooxy.com
 sciencesimplified.pro
+gravity.sciencevictory.org
 dns.scott-smith.us
 dns.scuola.org
 se3v5tjfff3aet.me
@@ -2808,6 +2810,7 @@ dns.silen.org
 dns.silentlybren.com
 simpleproxy.us
 simplevpn.net
+dns.simplylinux.ch
 dns.sindominio.net
 sinesprox.cloud
 dnsovertls.sinodun.com
@@ -2883,6 +2886,7 @@ squidproxyserver.com
 sriedmueadguard.casa
 adguard.sscw.win
 ssh-free.com
+sshagan.net
 sshdropbear.net
 sshkit.com
 sshmax.net
@@ -2909,6 +2913,7 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
+proxy3.startpage.com
 s4-us2.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
@@ -2991,9 +2996,11 @@ swissvpn.net
 switch.ch
 switchvpn.com
 switchvpn.net
+swordvpn.com
 dns.sy.st
 dns.syaifullah.com
 ibksturm.synology.me
+ihctw.synology.me
 doh.syshero.org
 dns.szpadel.ovh
 t-dz.com
@@ -3595,6 +3602,7 @@ webtester.cc
 webtunnel.org
 webtunnelx.com
 webxify.com
+webypass.info
 dns.wechat.com
 wellpoint.com
 wevpn.com
@@ -3648,6 +3656,7 @@ xbcpb668.com
 doh.xcom.pro
 xcomplus.com
 xenergy.cc
+www-bruh.xenon.lol
 doh.xfinity.com
 dot.xfinity.com
 doh2.gslb2.xfinity.com
