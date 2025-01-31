@@ -148,7 +148,6 @@ dns.adrianlam.com
 adsocialmediamarketing.com
 advancedvpn.com
 aerodrorne.vip
-dns.aerro.in
 affcdn.net
 affsoft.cc
 shield.afixer.app
@@ -2164,7 +2163,6 @@ onion.link
 onion.lt
 onion.ly
 onion.nu
-onion.pet
 onion.rip
 onion.sh
 onion.to
@@ -2516,6 +2514,7 @@ proxynova.com
 proxyof.com
 proxyone.net
 proxyoutlet.com
+proxypal.net
 proxypirates.com
 proxypremium.top
 proxyprivate.info
@@ -2642,7 +2641,6 @@ reezus.us
 reflect4.me
 dns.reitmeier.me
 relayon.org
-remotedesktop.com
 remotevpn.net
 dns.renardyre.com
 dns.repinger.com
@@ -2911,6 +2909,7 @@ eu-browse.startpage.com
 eu2-browse.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
+us1-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
 starvpn.com
@@ -2934,7 +2933,6 @@ stunnel.org
 stupidproxy.com
 dns.stvsk.ml
 doh.suche.org
-local.sufly.top
 dns.suhaila.dev
 suissl.com
 resolver.sunet.se
