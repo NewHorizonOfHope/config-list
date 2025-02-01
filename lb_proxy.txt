@@ -485,6 +485,7 @@ cedarbranches.com
 celo.net
 anycast.censurfridns.dk
 unicast.censurfridns.dk
+center-crm.store
 dns.cert.ee
 cfdjb.org
 ibuki.cgnat.net
@@ -492,7 +493,6 @@ dns.chadeyron.fr
 changemyip.com
 chaos-system.de
 dns.charraud.eu
-checkpoint.com
 dns.chenu.ch
 dns.chilimac.net
 chillglobal.com
@@ -703,6 +703,7 @@ coolbits.org
 corecloak.com
 doh.cornes.me
 corsproxy.io
+cosmohacker.space
 coverproxy.com
 doh.cox.net
 dot.cox.net
@@ -1395,6 +1396,7 @@ dns.hanmey.de
 hanniel.tech
 dns.hannielzhang.com
 happy-vpn.com
+harbaletsstudy.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
 query.hdns.io
@@ -1615,6 +1617,7 @@ jabber-germany.de
 jackyes.ovh
 jagoanssh.com
 jailbreaked.net
+jamesisbald.xyz
 tj.jamesxue.xyz
 janathanmahes-mysharepoint.com
 dns.janl.eu
@@ -1694,6 +1697,7 @@ klcknerrip.com
 knvpn.net
 ko-18948-tr.xyz
 www-proxy.koirdsuzu.com
+www-proxy.kokecoco.me
 adguard.konikoni428.com
 www-proxy.konstl01.xyz
 doh.kooman.org
@@ -1914,6 +1918,7 @@ dns.mrkaran.dev
 sail.msg.boats
 msr177.com
 dns.msxnet.ru
+mtagprox.com
 dns.mtoo.vip
 ns.mtsoln.com
 muchproxy.com
@@ -2650,6 +2655,7 @@ restaurantgift.us
 dnspub.restena.lu
 dns.retakecs.com
 rethinkdns.com
+www-proxy.retportal.com
 revelio.top
 revko.info
 doh.rezhajul.io
@@ -2663,6 +2669,7 @@ ringvpn.com
 riseup.net
 rnblyatclub.online
 dns.roedel.cloud
+romirely.tech
 dns.ronc.ru
 roodel.com
 roogen.com
@@ -2769,6 +2776,7 @@ dns.sellan.fr
 adguard.senthil.us
 dns.serdcebolit.ru
 dns1.serdcebolit.ru
+serkanarslan.com
 privatnas.servebeer.com
 serverhoya.com
 serverssh.net
@@ -2782,6 +2790,7 @@ d2.shabi.icu
 shadeyouvpn.com
 shadowsocks.org
 shadowsurf.com
+shadowtunnels.com
 shalenkov.dev
 sharejav.com
 sharevpn.org
@@ -2838,6 +2847,7 @@ skydragoness.com
 skynetwork.info
 skyssh.co
 skyvpn.net
+sleezy.nl
 slickvpn.com
 dns.slinkyman.net
 smartdnsproxy.com
@@ -3107,6 +3117,7 @@ tonvpn.com
 toolara.net
 dot.tooli.ca
 proxy.toolur.com
+top-proxy.site
 top10vpn.com
 toppal.tech
 topsecure.info
