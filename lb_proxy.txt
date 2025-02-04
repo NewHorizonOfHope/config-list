@@ -88,6 +88,7 @@ kids.5ososea.com
 dns.688447.xyz
 71745718.online
 7713.info
+777schoolutilities.website
 777surfer.info
 dns.7vpn.com
 87826100.xyz
@@ -127,7 +128,6 @@ acevpn.com
 acrea.cz
 activpn.com
 actmobile.com
-zone.actsministries.org
 adblockersite.com
 adblockluna.com
 adl.adfilter.net
@@ -197,7 +197,6 @@ ammmae150.news
 doh.amonsul.net
 anachem.online
 ananoos.com
-anatomical.design
 anchorfree.net
 dns.andrewnw.xyz
 androvpn.com
@@ -345,7 +344,6 @@ betterproxy.net
 bettervpn.com
 bgvpn.com
 bi-tree.ru
-bidehshomali.top
 proxyduke.bingle.pw
 ns3.bit-trail.nl
 bit123.biz
@@ -462,7 +460,6 @@ callies-online.site
 tor.calyxinstitute.org
 cantblockthis.org
 cantfindme.org
-caproxies.info
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
 carebuzz.io
@@ -693,7 +690,6 @@ confirmedvpn.com
 dns1.conne.net
 dns.connect.fail
 connectionvpn.com
-constitutional.design
 contassh.com
 contentabc.com
 dns.controld.com
@@ -754,7 +750,6 @@ cyberghostvpn.com
 cybersilent.com
 cyberssh.com
 dns.cybertonic.tech
-cybertruck.design
 cynntex.fun
 dns.cynthialabs.net
 dns.d365.in
@@ -810,7 +805,6 @@ dns1.digitale-gesellschaft.ch
 dns2.digitale-gesellschaft.ch
 dns.digitalsize.net
 directoryproxy.info
-disciplinary.design
 disconnect.me
 doh.disconnect.app
 fdns1.dismail.de
@@ -969,7 +963,6 @@ doh.lv
 doh.pub
 doh.sb
 doh.xyz
-dolopo.net
 domainownership.us
 doh.domreg.lt
 takhtakh.domyah.net
@@ -978,7 +971,6 @@ dontfilter.us
 dns.dooks.uk
 doomshadow.com
 dot.pub
-ns1.dotls.org
 dns.dotnet.win
 dotvpn.com
 doublehop.me
@@ -1042,7 +1034,6 @@ dns.ellichua.com
 emban-networks.com
 emeraldeyex.dev
 dns.emiliyan.com
-ems115.shop
 encrypt.me
 endente.com
 adguard.ender.fr
@@ -1081,7 +1072,6 @@ expressvpn.com
 expressvpn.net
 dns.extrawdw.net
 fra1.eyecay.xyz
-dns.ezyss.id
 f0lga.tech
 dns.f4a.fun
 f4fp.com
@@ -1183,7 +1173,6 @@ fortniters.info
 forwardproxie.com
 fproxy.net
 francis-proxy.top
-explore.francomedia.net
 frandcomfort.us
 free-proxy.com
 free-proxy.cz
@@ -1252,7 +1241,6 @@ dns.freopc.fr
 dns.freyja.pw
 frootvpn.com
 dns.froth.zone
-awan.ftp.sh
 fun4school.store
 doh.funil.de
 doh.funtopia.tv
@@ -1313,7 +1301,6 @@ ghostpath.com
 gibblets.top
 adguard.maison.gifino.fr
 gifttrees.us
-gingerbread.design
 dns.ginovs.nl
 gipvpn.com
 dns.girino.org
@@ -1582,6 +1569,7 @@ ipchanging.com
 ipfreely.io
 ipinator.com
 ipoac.nl
+ipprotectionauth.goog
 ipredator.se
 iprivatevpn.com
 iprovpn.com
@@ -1641,6 +1629,7 @@ vps2.jnraptor.net
 dns.joey01245.nl
 vpn.jogjacloud.com
 adguard.johanliebert.top
+johneldenring.lol
 joker81fansbase.site
 opencdn.jomodns.com
 jongserver.xyz
