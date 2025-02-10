@@ -23,7 +23,6 @@ searx.bissisoft.com
 search.bluelock.org
 boomle.com
 search.bowlman.org
-search.bus-hit.me
 searx.catfluori.de
 sx.catgirl.cloud
 search.aol.co.uk
@@ -79,7 +78,6 @@ search.im-in.space
 search.jpope.org
 jsearch.pw
 searx.juancord.xyz
-kagi.com
 search.kiwitalk.de
 search.kokomo.cloud
 trovu.komun.org
@@ -119,7 +117,6 @@ neeva.com
 searx.netzspielplatz.de
 nibblehole.com
 searxng.nicfab.eu
-searx.nightmare.life
 nigma.eu
 searx.nixnet.services
 searxng.no-logs.com
@@ -148,7 +145,6 @@ priv.au
 whoogle.privacydev.net
 search.privacytools.io
 search.in.projectsegfau.lt
-search.projectsegfau.lt
 search.us.projectsegfau.lt
 searx.prvcy.eu
 librex.pufe.org
