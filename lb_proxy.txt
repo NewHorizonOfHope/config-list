@@ -2381,7 +2381,6 @@ luxembourg.privacy-dns.pw
 romania.privacy-dns.pw
 privacyprotector.eu
 privado.io
-dns.privado.ovh
 orpi.privado.ovh
 privadovpn.com
 privateinternetaccess.com
