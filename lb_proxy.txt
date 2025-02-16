@@ -61,6 +61,7 @@ doh003.280blocker.net
 2fastsurfer.us
 2proxy.de
 2proxyweb.com
+2r34.com
 30t.online
 doh.30x.me
 351242444.xyz
@@ -109,6 +110,7 @@ dns.aaflalo.me
 dns-gcp.aaflalo.me
 dns-nyc.aaflalo.me
 doh.dns.apple.com.v.aaplimg.com
+aaronzweb.xyz
 abcproxy.com
 adguard.abd.ong
 dns.abdullahabas.de
@@ -134,7 +136,6 @@ adblockluna.com
 adl.adfilter.net
 per.adfilter.net
 syd.adfilter.net
-adfiltro.fun
 adfreedns.top
 adfreeproxy.com
 adguard.io
@@ -193,6 +194,7 @@ outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com
 37er19htfd.execute-api.us-east-1.amazonaws.com
 i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 dsl-app.s3.us-east-2.amazonaws.com
+amirabbasmousavi.news
 mailer.amlegion.org
 ammmae150.news
 doh.amonsul.net
@@ -340,6 +342,7 @@ bestvpnssh.com
 bestwon203.com
 bestyouproxytube.com
 bestyoutubeproxy.info
+www-proxy.bettercallghaith.wiki
 betternet.co
 betterproxy.net
 bettervpn.com
@@ -449,7 +452,6 @@ bypasser.us
 bypassfw.com
 bypassip.com
 bypasskey.com
-bypasstunnel.com
 api.bytelixir.com
 bytzvpn.com
 c-dns.com
@@ -714,6 +716,7 @@ crazyfastrace.lol
 crazysurfer.info
 createssh.com
 createssh.net
+creatine.wtf
 criarssh.com
 dns.criena.net
 crownproxy.com
@@ -1495,6 +1498,7 @@ hsselite.com
 html.cafe
 httpdserver.info
 dns.huas.me
+hugeph.art
 dns.hujiayucc.cn
 doth.huque.com
 dns.huseynov.work
@@ -1859,6 +1863,7 @@ testaghome.meshkov.info
 dns.mestdag.fr
 metal-masters.us
 metalinjection.us
+mfho.cc
 dns.mh4ckt3mh4ckt1c4s.xyz
 mhany.xyz
 esel.stusta.mhn.de
@@ -2889,6 +2894,7 @@ sslproxies.org
 sslsecureproxy.com
 sslunblocker.com
 doh.ntu.ssooss.win
+ag.ssrahul96.xyz
 dns.sstomp.nl
 stable-vpn.com
 stackfront.xyz
@@ -2900,10 +2906,7 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
-eu1-browse.startpage.com
 eu2-browse.startpage.com
-proxy1.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
@@ -3430,7 +3433,6 @@ videonew.online
 videoproxy.site
 videounblocker.net
 vidproxy.com
-viewyoutube.net
 vikingvpn.com
 dns.vinnyp.xyz
 dns.vinokurov.tk
@@ -3667,6 +3669,7 @@ dns.yandex.ru
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
+yasosy.pro
 dns.yatima.tv
 ychen.cf
 ychen.gq
