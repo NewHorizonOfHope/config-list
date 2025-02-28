@@ -213,7 +213,6 @@ animeproxy.net
 aniscartujo.com
 dns.anon.no
 anonine.com
-anonproxy.eu
 anonproxy.org
 anonvpn.io
 anonwebproxy.com
@@ -1125,7 +1124,6 @@ fastssh.com
 fasttime.info
 fastusaproxy.com
 fastvpn.im
-fastvpn.me
 favoriteshoes.us
 fbproxies.info
 ns0.fdn.fr
@@ -1364,7 +1362,6 @@ google-public-dns-a.google.com
 google-public-dns-b.google.com
 dns-tunnel-check.googlezip.net
 goosevpn.com
-goproxy.asia
 performance.gosami.xyz
 vpn.gosami.xyz
 gotrusted.com
@@ -1412,7 +1409,6 @@ resolver-eu.haringstad.com
 adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
-headproxy.com
 heiwanotameno.com
 us-ny-alula.heliumcloud.cc
 helloworld.cx
@@ -1731,7 +1727,6 @@ xray.krnl.eu
 kryptovpn.kryptotel.net
 adguard.kss.ovh
 dns.kukal.cz
-dns.kusoneko.moe
 dns.kuuhaku.moe
 kx-97795-tr.xyz
 dns.kxy.ink
@@ -1753,7 +1748,6 @@ iterator.lazada.com
 le-vpn.com
 adguard1.leadmon.net
 adguard.leadseason.eu
-leafyvpn.net
 ledfordmiddleschool.xyz
 leekemx.com
 adblock.leenit.kr
@@ -2436,7 +2430,6 @@ protonvpn.ch
 protonvpn.com
 protonvpn.net
 prounlock.org
-provpn.info
 provpnaccounts.com
 prox.pw
 prox.rocks
@@ -2542,6 +2535,7 @@ proxypal.net
 proxypirates.com
 proxypremium.top
 proxyprivate.info
+proxyproxy.net
 proxypx.com
 proxypy.org
 proxyrooms.com
@@ -2584,8 +2578,6 @@ ptoserver.com
 publicdnsserver.com
 pukanuragan.ru
 dns.pumpkinvrar.com
-dns.pumplex.com
-2.dnscrypt-cert.pumplex.com
 pupilproxy.com
 puredns.org
 dns-privacy.puregeni.us
@@ -3124,6 +3116,7 @@ dns.tierradeayala.com
 tigervpn.com
 tigrons.ru
 tikvpn.com
+tildenderek.store
 timetohide.me
 timmes.nl
 adb.timnichollsphotography.com
@@ -3352,7 +3345,6 @@ unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pro
-unblockit.rsvp
 unblockit.uno
 unblockmate.com
 unblockme.us
@@ -3382,7 +3374,6 @@ unblockweb.biz
 unblockweb.co
 unblockweb.one
 unblockweb.org
-unblockwebsite.online
 unblockwebsites.com
 unblockyouku.com
 unblockyouku.org
@@ -3419,6 +3410,18 @@ urban-vpn.com
 url10.org
 urology.wiki
 dns.koala.us.to
+nightlymoon.us.kg
+luna-is.so-gorgeo.us.kg
+mecca-is.so-gorgeo.us.kg
+mita-is.so-gorgeo.us.kg
+myrra-is.so-gorgeo.us.kg
+nana-is.so-gorgeo.us.kg
+nindy-is.so-gorgeo.us.kg
+nora-is.so-gorgeo.us.kg
+nova-is.so-gorgeo.us.kg
+sitha-is.so-gorgeo.us.kg
+tetty-is.so-gorgeo.us.kg
+yussy-is.so-gorgeo.us.kg
 webproxy.us.com
 us-proxy.org
 usa-proxy.org
@@ -3492,7 +3495,6 @@ vpn-fastest.com
 vpn-free.com
 vpn-free.download
 vpn-professional.company
-vpn-server.xyz
 vpn4all.com
 vpn99.net
 vpnaccounts.com
@@ -3542,7 +3544,6 @@ vpnplus.to
 vpnprivacy.com
 vpnprivacy.services
 vpnpro.com
-vpnproxy.online
 vpnproxy.org
 vpnproxy.pw
 vpnproxy.site
@@ -3572,7 +3573,6 @@ vpnwebsite.com
 vpnwelt.com
 antispam.vpsvpn.com
 go.vrpyourself.online
-vtcuong.site
 vyprvpn.com
 dns.w3ctag.org
 dns.wahr.top
@@ -3676,7 +3676,6 @@ xbcpb668.com
 doh.xcom.pro
 xcomplus.com
 xenergy.cc
-www-bruh.xenon.lol
 doh.xfinity.com
 dot.xfinity.com
 doh2.gslb2.xfinity.com
@@ -3730,12 +3729,10 @@ youtubeunblocked.org
 yovbak.com
 yoyovpn.org
 ytcroxyproxy.com
-yui.cat
 dns.yuu-g.net
 yuvelirtut.website
 yuyuproxy.com
 yuyuproxy.online
-yxorproxy.com
 dns.daemon.za.net
 zacebookpk.com
 adguard.zachitect.com
