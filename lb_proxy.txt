@@ -208,6 +208,7 @@ dsl-app.s3.us-east-2.amazonaws.com
 amirabbasmousavi.news
 mailer.amlegion.org
 ammmae150.news
+amnezia.org
 doh.amonsul.net
 anachem.online
 ananoos.com
@@ -406,7 +407,6 @@ dns.blokada.org
 bloquer.fr
 rfree1.blue-shield.at
 rfree2.blue-shield.at
-www-proxy2.blueboy.cf
 bluemood.me
 bluesnap.com
 blufvpn.com
@@ -448,6 +448,7 @@ brovpn.io
 browsebridge.com
 browsec.com
 browser.lol
+browserling.com
 doh.bt.com
 btguard.com
 bubbleset.com
@@ -615,7 +616,6 @@ dns.cloudtrust.solutions
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.cmrg.net
-pope.cnblw.me
 doh.cnetwork.cloud
 10bestvpn.co.uk
 akashiro.co.id
@@ -811,6 +811,7 @@ doh.denypradana.com
 adguard.depieri.net
 deproxyserver.com
 desbloquearredes.online
+desec.io
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
@@ -1094,11 +1095,9 @@ dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
 eurproxy.com
-evacraft.xyz
 evpn.net
 evyy.net
 ewon.biz
-excitedmurashin.com
 expatshield.com
 expressapisv2.net
 expressvpn.com
@@ -1166,6 +1165,7 @@ dns.filipccz.eu
 filterbypass.me
 finalbreaths.xyz
 finchvpn.com
+fineproxy.org
 finevpn.org
 antistalkerfree-eu.europe-west1.firebasedatabase.app
 xcomvpn-7000b-default-rtdb.firebaseio.com
@@ -1268,7 +1268,6 @@ freevpnplanet.com
 freevpnsoftware.net
 freewebproxy.eu
 freewebproxyserver.net
-freeworldwideproxy.app
 freexite.com
 freeyouproxytube.com
 freeyoutube.net
@@ -1381,6 +1380,7 @@ dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
 dns-tunnel-check.googlezip.net
+tunnel.googlezip.net
 goosevpn.com
 performance.gosami.xyz
 vpn.gosami.xyz
@@ -1429,7 +1429,6 @@ happy-vpn.com
 harbaletsstudy.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
-hdjptube.site
 query.hdns.io
 ordns.he.net
 heiwanotameno.com
@@ -1463,6 +1462,7 @@ hideme.be
 hidemebro.com
 hidemefast.net
 hidemenow.net
+hidemium.io
 hidemy.io
 hidemy.name
 hidemyass.com
@@ -1655,7 +1655,6 @@ jamesisbald.xyz
 tj.jamesxue.xyz
 janathanmahes-mysharepoint.com
 dns.janl.eu
-px.jarnus.xyz
 jayshaun.com
 jellyvpn.com
 doh.jeroenhd.nl
@@ -1763,6 +1762,7 @@ kyoheitensai.com
 agh.kyusang.win
 dns.l337.site
 lablancer.com
+dns.labnekotest.site
 doh.lacontrevoie.fr
 www-proxy.ladifsoftware.com
 lantern.io
@@ -1926,7 +1926,6 @@ www-proxy.migastep.com
 dns.mihanentalpo.me
 dns.mikeliu.org
 mikezhang.xyz
-milanopuma.ir
 minilla.store
 miniprox.com
 miniprox.info
@@ -2071,6 +2070,7 @@ vpn.ncapi.io
 ne1.ca
 dns.neeb.it
 needunblock.com
+nekoray.org
 nenam.eu
 adguard.neon0404.space
 neonos.me
@@ -2259,6 +2259,7 @@ ns2.opennameserver.org
 ns3.opennameserver.org
 ns4.opennameserver.org
 openproxy.space
+openproxylist.com
 opentunnel.net
 openvpn.cc
 openvpn.com
@@ -2317,7 +2318,6 @@ papervpn.info
 paradise-human.shop
 dns.pari.network
 parkviewenglish.buzz
-parsazr.ir
 pashagame456.com
 a.passcloud.xyz
 i.passcloud.xyz
@@ -2525,6 +2525,7 @@ proxy.yt
 proxy-123.com
 proxy-2014.com
 proxy-2015.info
+proxy-best.com
 proxy-bypass.com
 proxy-german.de
 proxy-internet.info
@@ -2554,6 +2555,7 @@ proxybrowsing.com
 proxybuss.com
 proxycloud.net
 proxycloyd.com
+proxycompass.com
 proxydrop.com
 proxydude.red
 proxydude.xyz
@@ -2574,6 +2576,7 @@ proxyisp.com
 proxyist.com
 proxyium.com
 proxyium.org
+proxylister.com
 proxylistpro.com
 proxyload.net
 proxymaster.me
@@ -2598,6 +2601,7 @@ proxyscrape.com
 proxyserver.buzz
 proxyserver.com
 proxyserverlist24.top
+proxyshare.com
 proxysheep.com
 proxysite.cc
 proxysite.cloud
@@ -2615,6 +2619,7 @@ proxysneak.com
 proxysurfing.org
 proxythis.info
 proxytime.net
+proxytitan.com
 proxytoplay.com
 proxyturbo.com
 proxyunblock.site
@@ -2780,6 +2785,7 @@ safeservedns.com
 doh.safesurfer.io
 safetysurf.net
 safeunblock.com
+safing.io
 vpn.sakhwow.ru
 sakirdakproxy.tk
 samj.codes
@@ -2930,6 +2936,7 @@ guard.sntrk.ru
 dove.soapclient.com
 socialnetworkinfo.us
 socks-proxy.net
+sockslist.us
 www-proxy.sodemc.com
 clientdns3.softcom.net
 free-vpn.en.softonic.com
@@ -3090,7 +3097,6 @@ t92.online
 tailnet.ru
 tailscale.com
 talk2m.com
-tancheetiong.online
 tbjr6.com
 tbunet.com
 tcpvpn.com
@@ -3725,7 +3731,6 @@ workhost.eu
 workingvpn.com
 workproxy.net
 my.worksheetsforteachers.org
-parrotballs.worksheetsforteachers.xyz
 worldgravityapp.com
 worldvpn.net
 worldwideproxy4u.win
@@ -3778,6 +3783,7 @@ ychen.gq
 yd6n63ptky.com
 yellowproxy.net
 yellowshiitake.com
+yesbutno.wtf
 ylink.info
 yogavpn.com
 youcanhide.net
