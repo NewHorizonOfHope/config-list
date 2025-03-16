@@ -1043,7 +1043,6 @@ doh.eddi.net
 dns.edgeburnmedia.com
 edgedcircles.com
 edgy-dns.com
-dns.edison42.dev
 dns.editechstudio.com
 edpuzzle.space
 dns.tuna.tsinghua.edu.cn
@@ -1664,7 +1663,6 @@ jetssh.com
 jfalling.com
 adguard.jfchenier.ca
 dns.jhangy.us
-dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 jkdns.me
@@ -1753,7 +1751,6 @@ dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
 kryptovpn.kryptotel.net
-adguard.kss.ovh
 dns.kukal.cz
 dns.kuuhaku.moe
 kx-97795-tr.xyz
@@ -1889,6 +1886,7 @@ maxvpn.info
 dns.maybe.icu
 mazevpn.com
 dns.mbrjun.cn
+mc-sft.cn
 ispcapi.mcafee.com
 msc.mcafee.com
 safeconnect.mcafee.com
@@ -2732,6 +2730,7 @@ revko.info
 doh.rezhajul.io
 newd.rezyro.com
 resolver.rferee.dev
+rhehrbrb.wiki
 rhys1901.biz
 ricko.is
 dns.rin.sh
@@ -2999,8 +2998,11 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
+error.proxy.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
+us-browse.startpage.com
 us1-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
@@ -3536,7 +3538,6 @@ vitaproxy.com
 vload.net
 vobas.com
 dns.vod11.xyz
-dns.vojtat.cz
 vonvpn.com
 vpn0109.voodonline.fr
 vorlif.org
