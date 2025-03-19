@@ -51,13 +51,13 @@ cloud.198.games
 1banproxy.com
 1clickvpn.com
 1clickvpn.net
-dns.23-4.cn
 233py.com
 dns.240527.xyz
 24tunnel.com
 doh003.280blocker.net
 28383829.com
 28383829.site
+2a87.com
 proxy.2d.su
 2fastsurfer.com
 2fastsurfer.eu
@@ -65,6 +65,7 @@ proxy.2d.su
 2proxy.de
 2proxyweb.com
 2r34.com
+2ub.top
 30t.online
 doh.30x.me
 351242444.xyz
@@ -134,6 +135,7 @@ resolver2.absolight.net
 resolver3.absolight.net
 block.abstergo.it
 doh.iucc.ac.il
+accessmeproxy.com
 acdtop.com
 aceproxy.com
 acevpn.com
@@ -177,9 +179,7 @@ dns.alekberg.net
 dns2.alekberg.net
 dnses.alekberg.net
 dnsnl.alekberg.net
-dnsnl-noads.alekberg.net
 dnsse.alekberg.net
-dnsse-noads.alekberg.net
 alhapi.com
 alhvp.com
 alidns.com
@@ -287,7 +287,9 @@ atozproxy.com
 atris.cyou
 dohtrial.att.net
 atvsh.ir
+dns.auapi.fun
 auto-aufladen.de
+avanquestusa.com
 vanheim.ff.avast.com
 vpn-sd.ff.avast.com
 vpn.avg.tools.avast.com
@@ -327,6 +329,7 @@ sg-dns1.bancuh.com
 base99.com
 doh.battle.christmas
 bazooki-infra.dev
+bdns.io
 bdns.link
 bdns.nu
 bdns.pro
@@ -444,6 +447,7 @@ bright4good.eco
 brightvpn.com
 britishproxy.com
 dns.brono.cloud
+brothebro.com
 brovpn.io
 browsebridge.com
 browsec.com
@@ -468,6 +472,7 @@ bypasser.us
 bypassfw.com
 bypassip.com
 bypasskey.com
+bypasstunnel.com
 api.bytelixir.com
 bytzvpn.com
 c-dns.com
@@ -616,7 +621,6 @@ dns.cloudtrust.solutions
 ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.cmrg.net
-doh.cnetwork.cloud
 10bestvpn.co.uk
 akashiro.co.id
 antidnsvpn.co.cc
@@ -710,6 +714,7 @@ confirmedvpn.com
 dns1.conne.net
 dns.connect.fail
 connectionvpn.com
+constitutional.design
 contassh.com
 contentabc.com
 dns.controld.com
@@ -826,6 +831,7 @@ dns.digitale-gesellschaft.ch
 dns1.digitale-gesellschaft.ch
 dns2.digitale-gesellschaft.ch
 dns.digitalsize.net
+diglet.org
 directoryproxy.info
 disconnect.me
 doh.disconnect.app
@@ -987,6 +993,7 @@ doh.lv
 doh.pub
 doh.sb
 doh.xyz
+dolopo.net
 domainownership.us
 doh.domreg.lt
 takhtakh.domyah.net
@@ -1093,6 +1100,7 @@ dns.mayx.eu.org
 arashi.net.eu.org
 sukidayo.eu.org
 eurproxy.com
+everyproxies.info
 evpn.net
 evyy.net
 ewon.biz
@@ -1215,6 +1223,7 @@ free-proxyserver.com
 free-proxysite.com
 free-signal.com
 free-vpn.cn
+free-vpn.xyz
 free-webproxy.com
 free2surfvpn.com
 freeanimesonline.com
@@ -1242,6 +1251,7 @@ freeproxy.io
 freeproxy.me
 freeproxy.top
 freeproxy.win
+freeproxyaccess.com
 freeproxyserver.co
 freeproxysites.co
 freeproxyunblockyoutube.com
@@ -1291,6 +1301,7 @@ dns.gamban.com
 adguard.gambini.org
 proxy.gamecove.net
 obamna.gamefr.xyz
+gameroz1.ir
 gamers-nor.com
 gamingssh.com
 dns.beta.gandi.net
@@ -1460,6 +1471,7 @@ hideme.be
 hidemebro.com
 hidemefast.net
 hidemenow.net
+hidemesoftware.com
 hidemium.io
 hidemy.io
 hidemy.name
@@ -1537,6 +1549,7 @@ hugeph.art
 dns.hujiayucc.cn
 doth.huque.com
 dns.huseynov.work
+hustlersuniversity.pro
 ad.huyct.net
 dns.huyhoangit.net
 hyperbyte.net
@@ -1576,6 +1589,7 @@ noads.imbuffering.com
 dns.imchristian.de
 dns.immanuelschaffer.de
 doh.immerda.ch
+imnotaproxy.com
 http-dns.imoim.net
 imperio.top
 dns1.in-berlin.de
@@ -1752,6 +1766,7 @@ adblock.krctech.dev
 xray.krnl.eu
 kryptovpn.kryptotel.net
 dns.kukal.cz
+dns.kusoneko.moe
 dns.kuuhaku.moe
 kx-97795-tr.xyz
 dns.kxy.ink
@@ -1864,7 +1879,6 @@ dns.maitrekuc.fr
 mallocapp.com
 mallocprivacy.com
 dns.mandre.dev
-dns.maolaohei.xyz
 maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
@@ -1877,6 +1891,7 @@ masters-of-cloud.de
 masterssh.com
 masthisis.ir
 dns.mateo.ovh
+adsadkjsadjksakldjxx.math-solver.online
 mathhelpnow.site
 mathlearning.tech
 mathnotes.help
@@ -2081,6 +2096,7 @@ net-ml.online
 netaltr.com
 netnut.io
 netscop.net
+netsneak.com
 netvpn.us
 dns.netvpn.net
 cube.neubsi.at
@@ -2129,6 +2145,7 @@ ny1.nixnet.xyz
 doh.niyawe.de
 njal.la
 njtzzrvg0lwj3bsn.info
+nntime.com
 nocensor.work
 pi1.node15.com
 nodepay.ai
@@ -2217,6 +2234,7 @@ onion.dog
 onion.gq
 onion.link
 onion.lt
+onion.lu
 onion.ly
 onion.nu
 onion.rip
@@ -2294,6 +2312,7 @@ p99nxpivfscyverz.me
 packetriot.net
 dns.paesa.es
 unblockit.pages.dev
+vpn-ru-msk.pakharenko.ru
 paladinvpn.com
 pamukada.com
 pandapow.co
@@ -2328,6 +2347,7 @@ rpz-public-resolver1.rrdns.pch.net
 dns.peb-schmidt.de
 peekproxy.com
 check.peer2profit.site
+penkun0286.xyz
 fuchur.pentament.de
 peoplesproxy.com
 pepetio.xyz
@@ -2369,6 +2389,7 @@ dns1.pietjacobs.be
 pingproxy.com
 funny.pinkertonmc.com
 www-funny.pinkertonmc.com
+pinkproxy.xyz
 piraproxy.org
 pirataproxy.com
 piratebayproxy.co
@@ -2478,9 +2499,12 @@ protonvpn.ch
 protonvpn.com
 protonvpn.net
 prounlock.org
+provpn.info
 provpnaccounts.com
 prox.pw
 prox.rocks
+proxandthecity.com
+proxbomb.com
 proxery.com
 proxfree.com
 proxied.org
@@ -2508,8 +2532,11 @@ proxite.net
 proxite.org
 proxite.ws
 proxmecallmenames.com
+proxmesomethingdirty.com
+proxmyass.com
 proxpn.com
 proxssl.com
+proxtrot.com
 proxtube.com
 proxy.cc
 proxy.lol
@@ -2598,6 +2625,7 @@ proxyscope.com
 proxyscrape.com
 proxyserver.buzz
 proxyserver.com
+proxyserver.rocks
 proxyserverlist24.top
 proxyshare.com
 proxysheep.com
