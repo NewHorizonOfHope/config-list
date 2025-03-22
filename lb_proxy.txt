@@ -422,7 +422,6 @@ bodvpn.com
 dns.bofh.in
 boghag.party
 boi9osyg1uwtyafn.com
-doh.boje8.me
 bolehvpn.net
 adguard.bonis.de
 adguard.bonsirven.eu
@@ -1677,6 +1676,7 @@ jetssh.com
 jfalling.com
 adguard.jfchenier.ca
 dns.jhangy.us
+dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 jkdns.me
@@ -2690,10 +2690,12 @@ dns12.quad9.net
 dns13.quad9.net
 dns9.quad9.net
 2.dnscrypt-cert.quad9.net
+quic.lol
 quickbypass.com
 doh.quickline.ch
 dot.quickline.ch
 quickprox.com
+quickproxies.com
 quicksilvervpn.com
 dns.quiet.rocks
 quintex.com
@@ -2766,6 +2768,7 @@ ringvpn.com
 riseup.net
 rnblyatclub.online
 rocketube.online
+rockwell.website
 dns.roedel.cloud
 romirely.tech
 dns.ronc.ru
@@ -2961,6 +2964,7 @@ smartproxy.com
 smartydns.com
 snowproxy.com
 guard.sntrk.ru
+dove.soapagent.com
 dove.soapclient.com
 socialnetworkinfo.us
 socks-proxy.net
@@ -2971,6 +2975,7 @@ free-vpn.en.softonic.com
 solaxy.live
 soleilvpn-app.com
 solidproxy.net
+somelikeitproxy.com
 sourceproxy.com
 spacedns.org
 spacevpn.io
@@ -3058,6 +3063,7 @@ stupidproxy.com
 dns.stvsk.ml
 doh.sublime9.xyz
 doh.suche.org
+suedeproxy.info
 dns.suhaila.dev
 resolver.sunet.se
 sunnygyl.com
@@ -3104,6 +3110,7 @@ surfsjark.com
 surfskip.com
 surfsneaker.com
 surfsuark.com
+surfwebsite.org
 dns.surobe.com
 surtshark.com
 dns.sv-zauner.at
@@ -3134,6 +3141,7 @@ tcpvpn.com
 tecdrive.site
 dns1.techeasy.org
 doh.technochat.in
+technofix.ir
 dns.technologycage.com
 dns.technostriker.com
 rx.techomespace.com
@@ -3244,6 +3252,7 @@ topsun.pw
 toptip.cc
 topvpn.cc
 topvpnguides.com
+tor-gateways.de
 tor2web.fi
 tor2web.in
 tor2web.io
@@ -3418,6 +3427,7 @@ unblockedproxy.info
 unblockedproxy.us
 unblockedrussian.com
 unblockedscene.com
+unblockedschool.com
 unblockedsite.biz
 unblockedsite.club
 unblockedsite.fun
@@ -3446,6 +3456,7 @@ unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockmate.com
 unblockme.us
@@ -3475,6 +3486,7 @@ unblockweb.biz
 unblockweb.co
 unblockweb.one
 unblockweb.org
+unblockwebsite.online
 unblockwebsites.com
 unblockyouku.com
 unblockyouku.org
@@ -3517,11 +3529,13 @@ usa-proxy.org
 adfree.usableprivacy.net
 usafastproxy.info
 usaip.eu
+usaip.net
 usawebproxy.com
 usawebproxy.net
 userload.co
 userproxy.com
 uskt.info
+usproxies.info
 usvpn.cf
 uswebproxy.com
 uswebproxy.net
@@ -3555,6 +3569,7 @@ videounblock.com
 videounblocked.com
 videounblocker.net
 vidproxy.com
+viewyoutube.net
 vikingvpn.com
 dns.vinnyp.xyz
 dns.vinokurov.tk
@@ -3594,8 +3609,10 @@ vpnapplication.com
 vpnarea.com
 vpnbaron.com
 vpnbook.com
+vpnbookpk.com
 vpnbrowse.com
 vpncentral.com
+vpncity.info
 vpnclientapp.com
 vpndaily.com
 vpndeluxe.com
@@ -3634,6 +3651,7 @@ vpnplus.to
 vpnprivacy.com
 vpnprivacy.services
 vpnpro.com
+vpnproxy.online
 vpnproxy.org
 vpnproxy.pw
 vpnproxy.site
@@ -3654,6 +3672,7 @@ vpntunnel.net
 vpntunnel.se
 vpnudp.com
 vpnuk.net
+vpnumbrella.com
 vpnunlimited.com
 vpnunlimitedapp.com
 vpnv6.com
@@ -3686,6 +3705,7 @@ dns.engineer.web.id
 doh.this.web.id
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 webbrowser.live
+webevade.com
 webjax.ir
 weblockapp.com
 doh.webnmail.de
@@ -3743,11 +3763,13 @@ wlvpn.com
 wobti.com
 wonderland.ws
 clearweb.woodbridge.club
+workbypass.com
 workdigi.com
 workhost.eu
 workingvpn.com
 workproxy.net
 my.worksheetsforteachers.org
+workstudyplay.com
 worldgravityapp.com
 worldvpn.net
 worldwideproxy4u.win
@@ -3807,6 +3829,7 @@ youcanhide.net
 net01.youcef.io
 youfreeproxytube.com
 younblocked.com
+youproxything.com
 youproxytube.com
 your-dns.run
 your-freedom.de
@@ -3825,6 +3848,7 @@ dns.yuu-g.net
 yuvelirtut.website
 yuyuproxy.com
 yuyuproxy.online
+yxorproxy.com
 dns.daemon.za.net
 zacebookpk.com
 adguard.zachitect.com
