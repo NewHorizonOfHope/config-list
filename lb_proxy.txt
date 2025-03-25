@@ -1512,6 +1512,7 @@ holavpnextension.com
 holavpnrussia.com
 holax.io
 holyubvpn.com
+beta.holyunblocker.org
 home-server.store
 homemail.info
 homeproxy.com
@@ -1680,6 +1681,7 @@ dns.jichi.io
 dns.jinwoo.dev
 dns.jiyi.eu
 jkdns.me
+www-fp.jkw.st
 vps.jmarkin.ru
 adg.jnorton.us
 green2.jnraptor.net
@@ -1843,6 +1845,7 @@ doh.phdns4.lonet.org
 doh.phdns5.lonet.org
 lookingglass.site
 lopana.com
+lotofabric.ru
 loubonde.xyz
 n5.lsasss.com
 dns.lsho.top
@@ -2138,6 +2141,7 @@ ninjacloak.com
 ninjaproxy.eu
 ninjavpn.io
 ninjaweb.xyz
+nirbytes.com
 dns.nixnet.xyz
 lux1.nixnet.xyz
 lv1.nixnet.xyz
@@ -3018,7 +3022,6 @@ sslproxies.org
 sslsecureproxy.com
 sslunblocker.com
 doh.ntu.ssooss.win
-ag.ssrahul96.xyz
 dns.sstomp.nl
 stable-vpn.com
 stackfront.xyz
@@ -3032,7 +3035,6 @@ browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
@@ -3222,7 +3224,6 @@ dot.tiar.app
 jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
-dns.tierradeayala.com
 tigervpn.com
 tigrons.ru
 tikvpn.com
@@ -3785,7 +3786,6 @@ wyx.cloud
 x9fnzrtl4x8pynsf.com
 adb-home.xaoimoon.fr
 pub.xapktech.xyz
-xbcpb668.com
 doh.xcom.pro
 xcomplus.com
 xenergy.cc
