@@ -168,7 +168,6 @@ agurydog.website
 ahadns.net
 blitz.ahadns.com
 blitz-setup.ahadns.com
-ahoj.email
 airdns.org
 airvpn.org
 apple-relay.akamaized.net
@@ -284,7 +283,6 @@ atozproxy.com
 atris.cyou
 dohtrial.att.net
 atvsh.ir
-dns.auapi.fun
 auto-aufladen.de
 avanquestusa.com
 vanheim.ff.avast.com
@@ -769,6 +767,7 @@ creatine.wtf
 criarssh.com
 dns.criena.net
 crownproxy.com
+croxy.com
 croxy.network
 croxy.org
 croxy.red
@@ -1385,6 +1384,7 @@ giveproxy.com
 gizlen.net
 gizlibaglanti.com
 h.gjrick.tw
+sdns22.gkonuralp.com
 glacius.top
 dns.glf.wtf
 global-proxy.com
@@ -1564,9 +1564,9 @@ dns.hotta.page
 doh.hottis.de
 howdy.id
 hoxx.com
+hoxx.net
 hoyofun.xyz
 hshh.org
-dns.hshoe.cn
 hsselite.com
 html.cafe
 httpdserver.info
@@ -1666,6 +1666,8 @@ is-super.cool
 dns.is0mino.com
 mickedi.isgood.host
 dns.ishan.pw
+ishark.com
+isharkvpn.com
 isityet.net
 dns.islandnet.com
 ispunblock.com
@@ -1737,6 +1739,7 @@ k2vpn.io
 dns.k3nny.fr
 kaiwu.xyz
 dns.kamilszczepanski.com
+adguard.kantinyoyok.xyz
 dns.kapite.in
 dns.karadag.me
 dns.karfamily.net
@@ -3058,6 +3061,7 @@ browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
+proxy1.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
@@ -3540,6 +3544,7 @@ resolver.unstoppable.io
 untraceable.us
 untracer.com
 dns.unx.io
+updatedproxies.com
 dns.uplenk.com
 uproxy.online
 ur-browser.com
