@@ -1796,6 +1796,7 @@ dart.kpsn.org
 adblock.krctech.dev
 xray.krnl.eu
 kryptovpn.kryptotel.net
+dns.kugoapps.com
 dns.kukal.cz
 dns.kusoneko.moe
 dns.kuuhaku.moe
@@ -3268,6 +3269,7 @@ tlz.asia
 tmhhd.tk
 tnvpn.com
 d.toairs.com
+tokit.site
 tonvpn.com
 toolara.net
 dot.tooli.ca
@@ -3720,7 +3722,6 @@ yunyun.is.my.waifu.cz
 waitfree.us
 walln.com
 dns.wang.art
-wantaquddin.com
 dns.wargan.io
 abel.waringer-atg.de
 dns.warma.me
@@ -3835,6 +3836,7 @@ dns.xuming.studio
 dns.xusqui.com
 xvbelink.com
 xvpn.io
+dns.xwdmw.xyz
 v2.xx3210766.live
 dns.yameenassotally.com
 2.dnscrypt-cert.browser.yandex.net
