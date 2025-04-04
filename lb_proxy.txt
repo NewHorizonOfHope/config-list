@@ -29,7 +29,6 @@ dns.0x55.net
 123music.app
 123mymusic.net
 123proxy.app
-123proxy.biz
 123proxy.cool
 123proxy.me
 123proxyx.com
@@ -55,8 +54,6 @@ cloud.198.games
 dns.240527.xyz
 24tunnel.com
 doh003.280blocker.net
-28383829.com
-28383829.site
 2a87.com
 proxy.2d.su
 2fastsurfer.com
@@ -68,6 +65,7 @@ proxy.2d.su
 2ub.top
 30t.online
 doh.30x.me
+33bitbank.com
 351242444.xyz
 dns.354688.xyz
 doh.360.cn
@@ -90,7 +88,6 @@ dns.52306.org
 vpn.52oupa.com
 www-vpn.52oupa.com
 57824.com
-5963anrue.lol
 family.5ososea.com
 kids.5ososea.com
 dns.688447.xyz
@@ -168,14 +165,12 @@ agurydog.website
 ahadns.net
 blitz.ahadns.com
 blitz-setup.ahadns.com
+ahoj.email
 airdns.org
 airvpn.org
-apple-relay.akamaized.net
 akunssh.net
 dns.albony.xyz
 aldhaferi.store
-dnsnl.alekberg.net
-dnsse.alekberg.net
 alhapi.com
 alhvp.com
 alidns.com
@@ -246,10 +241,14 @@ anyip.io
 ad.anym0re.ru
 doh.apad.pro
 ag.apollohct.com
-apple-relay.apple.com
 doh.dns.apple.com
 mask-api.fe2.apple-dns.net
-mask.apple-dns.net
+canary.mask.apple-dns.net
+africa-mask.wrr.mask.apple-dns.net
+apac-mask.wrr.mask.apple-dns.net
+emea-mask.wrr.mask.apple-dns.net
+north-america-mask.wrr.mask.apple-dns.net
+south-america-mask.wrr.mask.apple-dns.net
 appleproxy.com
 dns.applewebkit.dev
 doh.applied-privacy.net
@@ -276,13 +275,13 @@ astrill.com
 astrill.org
 astrovpn.co
 dandelionsprout.asuscomm.com
-dns.asysec.com
 adguardhome.atakorah.com
 atlasvpn.com
 atozproxy.com
 atris.cyou
 dohtrial.att.net
 atvsh.ir
+dns.auapi.fun
 auto-aufladen.de
 avanquestusa.com
 vanheim.ff.avast.com
@@ -325,7 +324,6 @@ base99.com
 doh.battle.christmas
 bazooki-infra.dev
 bdns.io
-bdns.link
 bdns.nu
 bdns.pro
 beapasswpn.com
@@ -505,7 +503,6 @@ dns.chadeyron.fr
 changemyip.com
 chaos-system.de
 dns.charraud.eu
-checkmate.my
 dns.chenu.ch
 dns.chilimac.net
 chillglobal.com
@@ -537,9 +534,7 @@ cloaker.ca
 cloaker.us
 cloakvpn.com
 cloudbenders.fun
-apple-relay.cloudfare.com
 dns.cloudfiction.eu
-apple-relay.cloudflare.com
 dns.233py.com.cdn.cloudflare.net
 dns.cloudflare.com
 cloudflare-dns.com
@@ -955,7 +950,6 @@ rdd01.dnscry.pt
 rdu01.dnscry.pt
 sea01.dnscry.pt
 sgn01.dnscry.pt
-sin01.dnscry.pt
 sin02.dnscry.pt
 sin03.dnscry.pt
 sjc01.dnscry.pt
@@ -1157,7 +1151,6 @@ fastestvpn.com
 fastestvpn.info
 fastfoxvpn.com
 fastfreeproxy.info
-apple-relay.fastly-edge.com
 fastp.org
 fastpro.info
 fastproxy.nl
@@ -1418,6 +1411,7 @@ tunnel.googlezip.net
 goosevpn.com
 performance.gosami.xyz
 vpn.gosami.xyz
+gostarlight.xyz
 gotrusted.com
 gowork.info
 gpreport.us
@@ -2438,6 +2432,7 @@ plainproxies.com
 helios.plan9-dns.com
 kronos.plan9-dns.com
 pluton.plan9-dns.com
+draco.plan9-ns2.com
 play5r.com
 playproxy.com
 secure-dns.pleumkungz.com
@@ -2632,6 +2627,7 @@ proxyhub.in
 proxyist.com
 proxyium.com
 proxyium.org
+www-cdn.proxyiumi.com
 proxylister.com
 proxylistpro.com
 proxyload.net
@@ -2690,7 +2686,6 @@ psiphon3.com
 dns.psociety.de
 ptoserver.com
 publicdnsserver.com
-pukanuragan.ru
 dns.pumpkinvrar.com
 pupilproxy.com
 puredns.org
@@ -2990,6 +2985,7 @@ sleezy.nl
 slickvpn.com
 dns.slinkyman.net
 smartdnsproxy.com
+lunarsync.smartfoloo.space
 dns.smartguard.io
 smartproxy.com
 smartydns.com
@@ -3063,6 +3059,7 @@ eu-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
 proxy1.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
