@@ -196,6 +196,8 @@ outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com
 37er19htfd.execute-api.us-east-1.amazonaws.com
 i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 dsl-app.s3.us-east-2.amazonaws.com
+american-proxy.com
+americaproxy.info
 amirabbasmousavi.news
 mailer.amlegion.org
 ammmae150.news
@@ -211,6 +213,7 @@ animeproxy.net
 aniscartujo.com
 dns.anon.no
 anonine.com
+anonproxy.eu
 anonproxy.org
 anonvpn.io
 anonwebproxy.com
@@ -298,6 +301,7 @@ awabo.com
 award-vpn.com
 awebproxy.com
 awhoer.net
+axaxa.fun
 azirevpn.com
 doh.azoris.ovh
 dns.azsopro.net
@@ -398,7 +402,6 @@ doh.blockerdns.com
 blockless.com
 new-proxy-sites.blogspot.com
 ukvpns.blogspot.ru
-adguard.blogssl.com
 dns.blokada.org
 bloquer.fr
 rfree1.blue-shield.at
@@ -434,6 +437,7 @@ brazilproxy.com
 brazilproxy.info
 breakwall.net
 dns.brembeck.cloud
+ag.brianlee.fun
 bright4good.eco
 brightvpn.com
 britishproxy.com
@@ -641,6 +645,7 @@ ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.cmrg.net
 10bestvpn.co.uk
+adguard.aa4.co.uk
 akashiro.co.id
 antidnsvpn.co.cc
 binhexsolutions.co.uk
@@ -760,7 +765,6 @@ createssh.com
 createssh.net
 creatine.wtf
 criarssh.com
-dns.criena.net
 crownproxy.com
 croxy.com
 croxy.network
@@ -814,7 +818,6 @@ darknet.to
 proxy.darkvpn.com
 mail.data.haus
 ns.data.haus
-doh.datacore.ch
 doh.datahata.by
 datatech.icu
 dns.datenquark.de
@@ -1049,6 +1052,7 @@ dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
+dns.dynx.pro
 vpn.dzarlax.dev
 dzhot.us
 dnscache.e-utp.net
@@ -1058,7 +1062,6 @@ adguard.easez.net
 easyhandshake.com
 easyproxy.tech
 easyvpn.com
-eazy.wtf
 ebookdz.com
 ebumna.net
 ecoweb-network.com
@@ -1069,7 +1072,6 @@ dns.edgeburnmedia.com
 edgedcircles.com
 edgy-dns.com
 dns.editechstudio.com
-edpuzzle.space
 dns.tuna.tsinghua.edu.cn
 eduacation.lol
 adguard.ef67daisuki.club
@@ -1084,7 +1086,6 @@ dns.eliv.kr
 dns.ellichua.com
 emban-networks.com
 emeraldeyex.dev
-dns.emiliyan.com
 encrypt.me
 endente.com
 adguard.ender.fr
@@ -1146,7 +1147,6 @@ familyfirst.church
 dns.fancyorg.at
 farewellkou.click
 dns.farshidhakimy.de
-fast-receive.com
 fastestvpn.com
 fastestvpn.info
 fastfoxvpn.com
@@ -1230,7 +1230,6 @@ www-proxy.formen.cc
 fortniters.info
 forwardproxie.com
 fproxy.net
-francis-proxy.top
 frandcomfort.us
 free-proxy.com
 free-proxy.cz
@@ -1308,7 +1307,6 @@ doh.funtopia.tv
 dns.furrydns.de
 doh.futa.app
 doh.futa.gg
-dns.futuredns.me
 g-a-y.pro
 gabstorm.com
 cluster-0.gac.edu
@@ -1323,7 +1321,6 @@ gamers-nor.com
 gamingssh.com
 dns.beta.gandi.net
 gatcha.org
-gclouddns.com
 gecko.fun
 geckovpn.xyz
 geekproxy.com
@@ -1437,13 +1434,11 @@ dns.guardmydns.com
 guardster.com
 guavi.com
 dns2.guidocioni.it
-gumm.org
 dns.gutwe.in
 gvirabi.com
 gwopboyded.com
 gztech.me
 h-vpn.org
-h0w.cc
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
@@ -1459,7 +1454,6 @@ resolver-eu.haringstad.com
 adguard.hartley.cloud
 query.hdns.io
 ordns.he.net
-heiwanotameno.com
 us-ny-alula.heliumcloud.cc
 dns.hellozhao.com
 helpmehide.net
@@ -1530,7 +1524,6 @@ holavpn.net
 holavpnextension.com
 holavpnrussia.com
 holax.io
-holyubvpn.com
 beta.holyunblocker.org
 home-server.store
 homemail.info
@@ -1600,7 +1593,6 @@ dns.ihaveacloud.com
 iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
-ikhebdorst.nl
 iksde.com
 ilumu.com
 ilysk.lol
@@ -1623,7 +1615,6 @@ adblock.indianets.net
 indiaproxy.win
 indo-ssh.com
 dns.indust.me
-dns.indybanipal.com
 dns.inforlogia.com
 doh.infracell.net
 infvpn.com
@@ -1635,7 +1626,6 @@ instantunblock.com
 intego.com
 dns.interhub.cc
 interncloud.info
-internetbypass.com
 internetcloak.com
 intervpn.com
 intl-alliance.com
@@ -1685,7 +1675,6 @@ ixl.plus
 jabber-germany.de
 jackyes.ovh
 jagoanssh.com
-jailbreaked.net
 jamesisbald.xyz
 tj.jamesxue.xyz
 janathanmahes-mysharepoint.com
@@ -1771,6 +1760,7 @@ kirushop.xyz
 dns1.klcd.eu
 dns2.klcd.eu
 klcknerrip.com
+knowurcson.store
 knvpn.net
 ko-18948-tr.xyz
 proxy.kokecoco.me
@@ -1965,14 +1955,12 @@ www-proxy.migastep.com
 dns.mihanentalpo.me
 dns.mikeliu.org
 mikezhang.xyz
-minilla.store
 miniprox.com
 miniprox.info
 netcup.mismat.ch
 mitmproxy.org
 doh.mmmalia.com
 dns.mnet-online.de
-mnrv.trade
 dns.mo0on15.com
 moamao.shop
 dnstls.mobik.com
@@ -1990,7 +1978,6 @@ dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 dns.momou.ch
 monoprivacy.io
-monro-stom-plus.info
 monthlyssh.net
 monvpn.com
 zrh1-ns01.monzoon.net
@@ -2110,7 +2097,6 @@ ne1.ca
 dns.neeb.it
 needunblock.com
 nekoray.org
-nenam.eu
 adguard.neon0404.space
 neonos.me
 dns.neowutran.ovh
@@ -2444,7 +2430,6 @@ pointtoserver.com
 polandgrows.com
 polargrizzly.com
 polaris.cx
-polarvoid.store
 polisitogel.accountant
 polisitogel.beauty
 polisitogel.builders
@@ -2725,7 +2710,6 @@ quickproxies.com
 quicksilvervpn.com
 dns.quiet.rocks
 quintex.com
-quotivatehub.com
 ant.dns.qwer.pw
 dog.dns.qwer.pw
 frog.dns.qwer.pw
@@ -2804,7 +2788,6 @@ roonyx.com
 dns.rootlab.top
 roskomnadzorgorivadu.ru
 dns.rotunneling.net
-roundrockisd.online
 o.rsaikat.com
 au.rslvr.eu
 bg.rslvr.eu
@@ -2858,14 +2841,12 @@ dns.scapetical.com
 dns.scarx.net
 proxy.schel.li
 dns.schlagheck.berlin
-vps4.scho.io
 school-websites.us
 schoolnewsletter.us
 schoology.college
 schoology.help
 schoology123.org
 schoolooks.com
-schoolproxy.co
 schooxy.com
 schoprox.com
 sciencesimplified.pro
@@ -3056,10 +3037,10 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
+eu1-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
 proxy1.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
@@ -3321,7 +3302,6 @@ trickbyte.com
 trilightzone.org
 trueproxy.com
 trust.zone
-dns.trust404.win
 trustedproxies.com
 truta.org
 dns.tryk.app
@@ -3544,7 +3524,6 @@ untraceable.us
 untracer.com
 dns.unx.io
 updatedproxies.com
-dns.uplenk.com
 uproxy.online
 ur-browser.com
 urban-vpn.com
@@ -3826,6 +3805,7 @@ xitenow.com
 xitesite.com
 xjumper.com
 dns.xlion.tw
+xmr.land
 xn--durhre-yxa.de
 xperienc.com
 xsfwow.com
@@ -3875,6 +3855,7 @@ yuvelirtut.website
 yuyuproxy.com
 yuyuproxy.online
 yxorproxy.com
+adg.yybyy.wiki
 dns.daemon.za.net
 zacebookpk.com
 adguard.zachitect.com
