@@ -285,6 +285,7 @@ atris.cyou
 dohtrial.att.net
 atvsh.ir
 dns.auapi.fun
+aurora-softworks.xyz
 auto-aufladen.de
 avanquestusa.com
 vanheim.ff.avast.com
@@ -347,6 +348,7 @@ bestfreevpn.com
 bestproxy.xyz
 bestssh.net
 bestukvpn.com
+bestvideoproxy.com
 bestvpn.org
 bestvpnprovider.info
 bestvpnrating.com
@@ -375,6 +377,7 @@ tky-dns.bitdefender.net
 bitping.com
 dns.bitservices.io
 dns-tls.bitwiseshift.net
+bizfast.info
 blacklogic.com
 blackvpn.com
 2.dnscrypt-cert.blahdns.com
@@ -461,6 +464,7 @@ dns.busold.ws
 dns.butterfly87.sbs
 bvpn.com
 byewall.com
+bypass.pw
 bypassable.com
 bypassed.wtf
 bypasser.us
@@ -477,6 +481,7 @@ dns.cahlen.com
 calculusproblems.online
 callies-online.site
 tor.calyxinstitute.org
+canadaproxy.info
 cantblockthis.org
 cantfindme.org
 2.dnscrypt-cert.captnemo.in
@@ -505,6 +510,7 @@ cfdjb.org
 ibuki.cgnat.net
 dns.chadeyron.fr
 changemyip.com
+changemyip.uk
 chaos-system.de
 dns.charraud.eu
 dns.chenu.ch
@@ -536,6 +542,7 @@ clearvpn.com
 clickwork7secure.com
 cloaker.ca
 cloaker.us
+cloakpoint.com
 cloakvpn.com
 cloudbenders.fun
 dns.cloudfiction.eu
@@ -745,11 +752,13 @@ dns.controld.com
 freedns.controld.com
 cool-proxy.net
 coolbits.org
+coolproxy.org
 corecloak.com
 doh.cornes.me
 corsproxy.io
 cosmohacker.space
 coverproxy.com
+covertproxy.com
 doh.cox.net
 dot.cox.net
 dohdot.coxlab.net
@@ -760,6 +769,7 @@ e.cpfrx.info
 www.i.cpfrx.info
 crawlbase.com
 crazyfastrace.lol
+crazyproxy.org
 crazysurfer.info
 createssh.com
 createssh.net
@@ -857,6 +867,7 @@ dns2.digitale-gesellschaft.ch
 dns.digitalsize.net
 diglet.org
 directoryproxy.info
+dirtyworkproxy.com
 disconnect.me
 doh.disconnect.app
 fdns1.dismail.de
@@ -874,6 +885,7 @@ dns.watch
 dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
+dns-free.link
 dns1.dns-ga.de
 dns2.dns-ga.de
 doh.dns-ga.de
@@ -1303,6 +1315,7 @@ frootvpn.com
 dns.froth.zone
 fun4school.store
 doh.funil.de
+funknetwork.com
 doh.funtopia.tv
 dns.furrydns.de
 doh.futa.app
@@ -1365,6 +1378,7 @@ ghostpath.com
 gibblets.top
 adguard.maison.gifino.fr
 gifttrees.us
+gingerbread.design
 dns.ginovs.nl
 gipvpn.com
 dns.girino.org
@@ -1813,6 +1827,7 @@ yarp.lefolgoc.net
 legaladvisor.us
 legalweb.info
 br.servers.legat.ml
+externalmobiel.lekdijk.online
 lelux.fi
 dns.lepilleur.com
 dns.lermer.nl
@@ -1955,6 +1970,7 @@ www-proxy.migastep.com
 dns.mihanentalpo.me
 dns.mikeliu.org
 mikezhang.xyz
+dns.milkpie.one
 miniprox.com
 miniprox.info
 netcup.mismat.ch
@@ -2006,6 +2022,7 @@ vpnto.bhadrikais.my.id
 dns.iki.my.id
 dns.lista.my.id
 dns.mikrotikrumahan.my.id
+dns.pnh.my.id
 dns.repinger.my.id
 dns.velyn.my.id
 dns.vmath.my.id
@@ -3037,10 +3054,8 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
-eu1-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
-proxy1.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
@@ -3245,7 +3260,6 @@ dns.tls-data.de
 tlsext.com
 tlz.asia
 tmhhd.tk
-tnvpn.com
 d.toairs.com
 tokit.site
 tonvpn.com
@@ -3262,7 +3276,6 @@ topvpn.cc
 topvpnguides.com
 tor-gateways.de
 tor2web.fi
-tor2web.in
 tor2web.io
 tor2web.it
 tor2web.org
@@ -3476,7 +3489,6 @@ unblockproxy.us
 unblockproxy.win
 unblocks.net
 unblocksite.biz
-unblocksite.ch
 unblocksite.fun
 unblocksite.id
 unblocksite.org
@@ -3750,6 +3762,7 @@ whitehatvpn.com
 whoer.net
 whoisping.com
 whyproxy.com
+dns.wibenson.cloud
 widevpn.com
 wikimedia-dns.org
 wiksa.com
@@ -3808,7 +3821,6 @@ dns.xlion.tw
 xmr.land
 xn--durhre-yxa.de
 xperienc.com
-xsfwow.com
 dns.xuming.studio
 dns.xusqui.com
 xvbelink.com
@@ -3833,7 +3845,6 @@ ylink.info
 yogavpn.com
 youcanhide.net
 net01.youcef.io
-youfreeproxytube.com
 younblocked.com
 youproxything.com
 youproxytube.com
@@ -3876,7 +3887,6 @@ adguard-kartoffel.zernico.de
 zerotier.com
 zerotunnel.com
 zerovpn-app.com
-zexusdigital.online
 dns.zfsystem.tech
 zippyproxy.com
 doh.zknt.org
