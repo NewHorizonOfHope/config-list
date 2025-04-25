@@ -72,6 +72,7 @@ doh.30x.me
 dns.354688.xyz
 doh.360.cn
 dot.360.cn
+3bbb.me
 3dcosas.xyz
 3dns.eu
 3jjxxl.tech
@@ -422,6 +423,7 @@ dns.blokada.org
 bloquer.fr
 rfree1.blue-shield.at
 rfree2.blue-shield.at
+bluegray.us
 bluemood.me
 bluesnap.com
 blufvpn.com
@@ -552,6 +554,7 @@ ciscossh.com
 citizenvpn.com
 dns.clanless.ovh
 dns.clanto.cloud
+classicpen.us
 clearvpn.com
 clickwork7secure.com
 cloaker.ca
@@ -769,6 +772,7 @@ freedns.controld.com
 cool-proxy.net
 coolbits.org
 coolproxy.org
+coproxy.io
 corecloak.com
 doh.cornes.me
 corsproxy.io
@@ -805,6 +809,7 @@ croxyproxy.blog
 croxyproxy.com
 croxyproxy.net
 croxyproxy.rocks
+croxyproxycom.org
 croxyproxys.com
 croxyproxyvpn.com
 crushus.com
@@ -871,6 +876,7 @@ adguard.depieri.net
 deproxyserver.com
 desbloquearredes.online
 desec.io
+desertsand.us
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
@@ -954,7 +960,6 @@ han01.dnscry.pt
 hel01.dnscry.pt
 hkg01.dnscry.pt
 hkg02.dnscry.pt
-hrk01.dnscry.pt
 isb01.dnscry.pt
 ist01.dnscry.pt
 jhb01.dnscry.pt
@@ -1098,12 +1103,15 @@ vpn.dzarlax.dev
 dzhot.us
 dnscache.e-utp.net
 earnapp.com
+earth-vpn.net
 earthvpn.com
 adguard.easez.net
 konnnitiha----saiko.easterndns.com
 easyhandshake.com
 easyproxy.tech
 easyvpn.com
+easyvpn.zone
+eblan.pro
 ebookdz.com
 ebumna.net
 ecoweb-network.com
@@ -1116,6 +1124,7 @@ edgy-dns.com
 dns.editechstudio.com
 dns.tuna.tsinghua.edu.cn
 eduacation.lol
+educationdean.us
 adguard.ef67daisuki.club
 tor.eff.org
 dns.efficientdocuments.com
@@ -1303,7 +1312,9 @@ free-proxyserver.com
 free-proxysite.com
 free-signal.com
 free-vpn.cn
+free-vpn.pro
 free-vpn.xyz
+free-vpnapp.com
 free-webproxy.com
 free2surfvpn.com
 freeanimesonline.com
@@ -1510,6 +1521,7 @@ guardianvpn.net
 dns.guardmydns.com
 guardster.com
 guavi.com
+guestappearance.us
 dns2.guidocioni.it
 dns.gutwe.in
 gvirabi.com
@@ -1541,7 +1553,6 @@ herbalserver.me
 betternet-backend.herokuapp.com
 heroproxy.com
 httpdns-push.heytapmobile.com
-hfgx.shop
 hiddendigital.info
 hiddenproxy.net
 hide.me
@@ -1893,6 +1904,7 @@ kx-97795-tr.xyz
 dns.kxy.ink
 kyoheitensai.com
 agh.kyusang.win
+l-am-sigma.pro
 dns.l337.site
 adamz2eso.l5.ca
 lablancer.com
@@ -2010,10 +2022,12 @@ mailkyb.co
 mailproxy.info
 mainprox.com
 mainssh.com
+maintainbrain.us
 dns.maitrekuc.fr
 mallocapp.com
 mallocprivacy.com
 dns.mandre.dev
+mapspublications.us
 maqgie.xyz
 dns.marasov.id
 dns.marbledfennec.net
@@ -2081,6 +2095,7 @@ miniprox.com
 miniprox.info
 netcup.mismat.ch
 mitmproxy.org
+mkslcl.xyz
 doh.mmmalia.com
 dns.mnet-online.de
 dns.mo0on15.com
@@ -2166,6 +2181,7 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
+dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -2329,6 +2345,7 @@ ns8469rfvth42.xyz
 nslookup.io
 nsv4w.com
 ntwrkh.pro
+nucleusvpn.com
 dns.nullgate.net
 nullsbrawly.xyz
 dns.numerus.com
@@ -2490,6 +2507,7 @@ dns.peb-schmidt.de
 peekproxy.com
 check.peer2profit.site
 penkun0286.xyz
+penrepair.us
 fuchur.pentament.de
 peoplesproxy.com
 pepetio.xyz
@@ -2559,6 +2577,7 @@ pluralsight.gq
 pm1239-bd.xyz
 pm7051-br.xyz
 pm9352-bd.xyz
+xcxx.pointed.cc
 pointtoserver.com
 polandgrows.com
 polargrizzly.com
@@ -2610,6 +2629,7 @@ premiumproxy.net
 presidentalhistory.wiki
 dns2.prima-solusindo.com
 primeproxy23.info
+primevpn.pro
 dns.princex.net
 princez.uk
 agh.printk.info
@@ -2976,6 +2996,7 @@ vpn.sakhwow.ru
 sakirdakproxy.tk
 samj.codes
 cloud.samutz.com
+sandmining.us
 sandparticles.us
 saoudiproxy.info
 dns.sarak.as
@@ -3241,6 +3262,7 @@ kadowaki.super-modding.quest
 super123.org
 super123proxy.com
 superbproxy.com
+supercoolcomputersandstuff.win
 superfreevpn.com
 superproxy123.com
 dns.superstefan.win
@@ -3258,6 +3280,7 @@ surfbytes.info
 surfcovertly.com
 surfdoge.pro
 surfeasy.com
+surfeasy.mobi
 surfly.com
 surfmenow.com
 surfmo.com
@@ -3677,6 +3700,7 @@ unifiedvpn.com
 galileo.math.unipd.it
 unkn0wngb.lol
 unknownproxy.com
+unlimitedvpn.net
 unlimitedvpnapp.com
 unlocator.com
 unmoor.com
@@ -3720,6 +3744,7 @@ utunnel.io
 uvpn.me
 dns.vaioswolke.xyz
 doh.valscosmos.com
+valuepremium.us
 vanilcraft.ru
 tor.vasi.li
 dns.vault81.de
@@ -3915,6 +3940,7 @@ webtunnelx.com
 webxify.com
 webypass.info
 dns.wechat.com
+wedding-present.us
 wellpoint.com
 wevpn.com
 doh.wewitro.net
@@ -3944,6 +3970,7 @@ wlvpn.com
 wobti.com
 wonderland.ws
 clearweb.woodbridge.club
+woodenclock.us
 workbypass.com
 workdigi.com
 workhost.eu
