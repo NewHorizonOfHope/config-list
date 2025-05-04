@@ -54,6 +54,7 @@ onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
 233py.com
 dns.240527.xyz
 24tunnel.com
+educational-site.24x7.hk
 doh003.280blocker.net
 28383829.com
 2a87.com
@@ -61,6 +62,7 @@ proxy.2d.su
 2fastsurfer.com
 2fastsurfer.eu
 2fastsurfer.us
+namenims.fr.to.2fine.de
 2proxy.de
 2proxyweb.com
 2r34.com
@@ -213,6 +215,7 @@ mailer.amlegion.org
 ammmae150.news
 amnezia.org
 doh.amonsul.net
+an-us.pro
 anachem.online
 ananoos.com
 anchorfree.net
@@ -254,13 +257,6 @@ ad.anym0re.ru
 doh.apad.pro
 ag.apollohct.com
 doh.dns.apple.com
-mask-api.fe2.apple-dns.net
-canary.mask.apple-dns.net
-africa-mask.wrr.mask.apple-dns.net
-apac-mask.wrr.mask.apple-dns.net
-emea-mask.wrr.mask.apple-dns.net
-north-america-mask.wrr.mask.apple-dns.net
-south-america-mask.wrr.mask.apple-dns.net
 appleproxy.com
 dns.applewebkit.dev
 doh.applied-privacy.net
@@ -311,6 +307,7 @@ awabo.com
 award-vpn.com
 awebproxy.com
 awhoer.net
+sakura-site-rammerhead.ax1951.com
 axaxa.fun
 anyralnestridentrodinfisxu.ayrnatales.net
 azirevpn.com
@@ -340,6 +337,7 @@ base99.com
 doh.battle.christmas
 bazooki-infra.dev
 bdns.io
+bdns.link
 bdns.pro
 beapasswpn.com
 dns.beardic.cn
@@ -373,7 +371,6 @@ betterproxy.net
 bettervpn.com
 bgvpn.com
 bi-tree.ru
-bia2dige.ir
 bigma.org
 bingle.icu
 bingle.pw
@@ -429,7 +426,6 @@ blufvpn.com
 bmetrics.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
-boda-vip.net
 bodvpn.com
 dns.bofh.in
 boghag.party
@@ -753,10 +749,8 @@ doh.viatech.com.tw
 webproxy.com.de
 dns.comff.net
 rammerhead.command.enterprises
-commonapp.college
 commons.host
 easy-vpn.comodo.com
-compsci.college
 comss.one
 comss.ru
 confirmedvpn.com
@@ -771,6 +765,7 @@ freedns.controld.com
 cool-proxy.net
 coolbits.org
 coolproxy.org
+dns.cooluc.com
 coproxy.io
 corecloak.com
 doh.cornes.me
@@ -828,7 +823,6 @@ cubedns.com
 cubixpvp.net
 qual.cuprum.ru
 curd.io
-cv-unfiltered.xyz
 dns.cwlys.com
 cyberghostvpn.com
 cybershield.cc
@@ -913,9 +907,6 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns-free.link
-dns1.dns-ga.de
-dns2.dns-ga.de
-doh.dns-ga.de
 dns.dns-over-https.com
 dns-savage.com
 dns0.eu
@@ -1094,6 +1085,7 @@ dns.dyn1.de
 ueni.dyndns.org
 adbox-v9.dynipv6.de
 im-in-the-thick-of-it-everybody-knows.dynorex.com
+gustamadh.dynv6.net
 dns.dynx.pro
 vpn.dzarlax.dev
 dzhot.us
@@ -1207,9 +1199,9 @@ familyfirst.church
 dns.fancyorg.at
 farewellkou.click
 dns.farshidhakimy.de
+tenhh.farted.net
 fastestvpn.com
 fastestvpn.info
-fastfoxvpn.com
 fastfreeproxy.info
 fastp.org
 fastpro.info
@@ -1260,7 +1252,6 @@ fishingandgunoutdoors.com
 fishproxy.com
 fitnessdepotprices.com
 fixproxy.com
-dns.fizz.studio
 flarquix.xyz
 flashpull.com
 flashput.net
@@ -1318,7 +1309,6 @@ freebypassproxy.com
 freecanadavpn.com
 freecavpn.com
 hkname.freecdn.one
-freecloudvpn.com
 freeconnect.link
 freedevpn.com
 freedom.cx
@@ -1350,7 +1340,6 @@ freesafeip.com
 freesupervpn.com
 freesurfproxy.com
 freetrialvpn.com
-freeukvpn.com
 freevideoproxy.com
 freevmess.com
 freevpn.cloud
@@ -1386,12 +1375,10 @@ doh.futa.gg
 g-a-y.pro
 cluster-0.gac.edu
 cluster-1.gac.edu
-galeben.fr
 dns.gamban.com
 adguard.gambini.org
 proxy.gamecove.net
 obamna.gamefr.xyz
-gameroz1.ir
 gamers-nor.com
 gamingssh.com
 dns.beta.gandi.net
@@ -1517,6 +1504,7 @@ guestappearance.us
 dns2.guidocioni.it
 dns.gutwe.in
 gvirabi.com
+gwardgxd.baby
 gwopboyded.com
 gztech.me
 h-vpn.org
@@ -1527,13 +1515,11 @@ hamachi-blog.com
 dns.hanahira.dev
 adguard.haneulo.com
 dns.hanmey.de
-hanniel.tech
 dns.hannielzhang.com
 happy-vpn.com
 harbaletsstudy.com
 resolver-eu.haringstad.com
 adguard.hartley.cloud
-fair.hashable.org
 query.hdns.io
 ordns.he.net
 us-ny-alula.heliumcloud.cc
@@ -1546,7 +1532,6 @@ herbalserver.me
 betternet-backend.herokuapp.com
 heroproxy.com
 httpdns-push.heytapmobile.com
-hiddendigital.info
 hiddenproxy.net
 hide.me
 hide.mn
@@ -1554,7 +1539,6 @@ hide-me.org
 hide-my-ip.com
 hide-my-ip.org
 hideallip.com
-hideandgo.com
 hideapplication.com
 hidebuzz.com
 hidebuzz.me
@@ -1614,7 +1598,7 @@ holavpnrussia.com
 holavpnworld.com
 holax.io
 beta.holyunblocker.org
-mythica.home.kg
+kyrgyzstan-travel.home.kg
 home-server.store
 homemail.info
 homeproxy.com
@@ -1676,14 +1660,10 @@ ibvpn.com
 webproxy.ich-war-hier.de
 icitek.com
 mask.icloud.com
-mask-api.icloud.com
-mask-boot.icloud.com
-mask-canary.icloud.com
 mask-h2.icloud.com
 icpsuawn1zy5amys.com
 tienpham.id.vn
 idcloak.com
-idealvpn.com
 idolproxy.com
 adguard.shuting.idv.tw
 ietors.com
@@ -1811,6 +1791,7 @@ adg.jnorton.us
 green2.jnraptor.net
 vps1.jnraptor.net
 vps2.jnraptor.net
+narp.fr.to.joe.dj
 dns.joey01245.nl
 vpn.jogjacloud.com
 adguard.johanliebert.top
@@ -2182,7 +2163,6 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
-dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -2533,6 +2513,7 @@ dns.phillipjberry.net
 photonsecure.com
 phpbido.com
 phproxysite.com
+malachi.is.dumb.physiosagart.de
 doh.centraleu.pi-dns.com
 dot.centraleu.pi-dns.com
 doh.pi-dns.com
@@ -2833,6 +2814,7 @@ dns.psociety.de
 ptoserver.com
 publicdnsserver.com
 publicproxy.org
+puckerbucket.xyz
 timeisblind.puffballofevil.com
 dns.pumpkinvrar.com
 pupilproxy.com
@@ -3115,6 +3097,7 @@ dnsovertls1.sinodun.com
 dnsovertls2.sinodun.com
 dnsovertls3.sinodun.com
 sinovpn.com
+waermoster.sistemasplenario.ar
 sitdns.com
 site2unblock.com
 siteblockedbypass.com
@@ -3479,7 +3462,6 @@ totalvpn.com
 doh.totoro.pub
 touchvpn.net
 towervpn.com
-dns.tracker.ink
 tradeadspace.info
 trafflink.xyz
 traffmonetizer.com
@@ -3749,6 +3731,7 @@ usvpn.cf
 uswebproxy.com
 uswebproxy.net
 utopianpal.com
+willitwork.utrealestatedreamteam.com
 utube.cc
 utunnel.io
 uvpn.me
@@ -3793,6 +3776,7 @@ vobas.com
 dns.vod11.xyz
 vonvpn.com
 vpn0109.voodonline.fr
+lanschool.leno.vopros.kz
 vorlif.org
 vornz.com
 vpernet.com
@@ -4035,6 +4019,7 @@ dns.yandex.ru
 common.dot.dns.yandex.net
 family.dot.dns.yandex.net
 safe.dot.dns.yandex.net
+yapidor.pro
 yasosy.pro
 dns.yatima.tv
 lion.yazilimatolye.com
