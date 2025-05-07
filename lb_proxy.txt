@@ -371,6 +371,7 @@ betterproxy.net
 bettervpn.com
 bgvpn.com
 bi-tree.ru
+bigjimmy.xyz
 bigma.org
 bingle.icu
 bingle.pw
@@ -896,7 +897,6 @@ districtnewyork.com
 divalane.com
 divaloo.com
 divavu.com
-dltuykfgp.top
 hihohornsluttlekidspop.dmdistribution.net
 dns.expert
 dns.google
@@ -1085,7 +1085,6 @@ dns.dyn1.de
 ueni.dyndns.org
 adbox-v9.dynipv6.de
 im-in-the-thick-of-it-everybody-knows.dynorex.com
-gustamadh.dynv6.net
 dns.dynx.pro
 vpn.dzarlax.dev
 dzhot.us
@@ -1705,7 +1704,6 @@ instant-vpn.com
 instantunblock.com
 intego.com
 dns.interhub.cc
-interncloud.info
 internetcloak.com
 intervpn.com
 intl-alliance.com
@@ -1720,7 +1718,6 @@ ipinator.com
 iportal.me
 ipprotectionauth.goog
 ipredator.se
-iprivatevpn.com
 iprovpn.com
 iproyal.com
 ipsharkk.com
@@ -1849,7 +1846,6 @@ kiliclar.lol
 doh.killtw.im
 blog.kimiblock.top
 kingsurfproxy.com
-kinoshka.su
 kirushop.xyz
 dns1.klcd.eu
 dns2.klcd.eu
@@ -1869,7 +1865,6 @@ koxy.de
 notebooks.kozow.com
 kproxy.asia
 kproxy.com
-kproxy.in
 kproxysite.com
 dart.kpsn.org
 adblock.krctech.dev
@@ -1978,7 +1973,6 @@ lukscasino-479-tr.xyz
 lukscasino-542-tr.xyz
 lukscasino-929-tr.xyz
 dns.luma-medien.com
-power.lumeacopiilorploiesti.ro
 lumes.jp
 luminati.io
 luminatinet.com
@@ -2023,7 +2017,6 @@ masterssh.com
 masthisis.ir
 dns.mateo.ovh
 dns.mathewakhil.online
-mathhelpnow.site
 mathlearning.tech
 mathnotes.help
 mathnotes.icu
@@ -2058,7 +2051,6 @@ testaghome.meshkov.info
 dns.mestdag.fr
 metal-masters.us
 metalinjection.us
-mfho.cc
 dns.mh4ckt3mh4ckt1c4s.xyz
 mhany.xyz
 esel.stusta.mhn.de
@@ -2214,7 +2206,6 @@ natfrp.cloud
 nathanielgavin.lol
 vpn.nbvalente.fr
 vpn.ncapi.io
-ne1.ca
 dns.neeb.it
 needunblock.com
 nekoray.org
@@ -2365,7 +2356,6 @@ onedown.info
 oneproxy.biz
 oneproxy.xyz
 onestreaming.org
-onevanalla.site
 onion.am
 onion.cab
 onion.casa
@@ -2577,7 +2567,6 @@ polisitogel.hair
 polisitogel.limo
 polisitogel.living
 polisitogel.luxe
-polisitogel.show
 polisitogel.webcam
 loilonote.poo.li
 science-exp.port0.org
@@ -2692,7 +2681,6 @@ proxy.am
 proxy.cc
 proxy.gd
 proxy.lol
-proxy.nu
 proxy.org
 proxy.red
 proxy.rocks
@@ -2712,12 +2700,10 @@ proxy-site.net
 proxy-works.com
 proxy-youtube.com
 proxy0101.com
-proxy2014.net
 proxy2link.com
 proxy2you.com
 proxy4down.com
 proxy4free.me
-proxy4freedom.com
 proxy62.com
 proxy7.club
 proxyadult.org
@@ -2853,7 +2839,6 @@ doh.quickline.ch
 dot.quickline.ch
 quickprox.com
 quickproxies.com
-quicksilvervpn.com
 dns.quiet.rocks
 quintex.com
 ant.dns.qwer.pw
@@ -2889,7 +2874,6 @@ rayneau.fr
 rayobyte.com
 dns.rbn.gr
 rcsm.ir
-readandmath.today
 login.readinghelper.online
 www-p.reaper.mx
 dns.reckoningslug.name
@@ -2934,12 +2918,10 @@ dns.ronc.ru
 roodel.com
 roogen.com
 roonyx.com
-hotdogs.root.sx
 pluh.root.sx
 dns.rootlab.top
 roskomnadzorgorivadu.ru
 dns.rotunneling.net
-fol.l.rren.ch
 o.rsaikat.com
 au.rslvr.eu
 bg.rslvr.eu
@@ -2954,7 +2936,6 @@ dns.rubyfish.cn
 ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
 yoursuper.rude.li
-adg.rueiliu.space
 rumpelsepp.org
 doh.runsel.id
 rushproxy.com
@@ -2982,7 +2963,6 @@ safeunblock.com
 safing.io
 vpn.sakhwow.ru
 sakirdakproxy.tk
-samj.codes
 cloud.samutz.com
 sandmining.us
 sandparticles.us
@@ -3058,6 +3038,7 @@ sescloud.club
 setupvpn.com
 dns.sev.monster
 sf-helper.com
+sfmcut.com
 pates.services.sfr.fr.casepp.sfr.fr
 www-8.shaammy.ir
 d2.shabi.icu
@@ -3141,7 +3122,6 @@ signup.soapclient.com
 socialnetworkinfo.us
 socks-proxy.net
 sockslist.us
-www-proxy.sodemc.com
 clientdns3.softcom.net
 free-vpn.en.softonic.com
 solaxy.live
@@ -3153,7 +3133,6 @@ sourceproxy.com
 spacedns.org
 scienceandmore.spacetechnology.net
 spacevpn.io
-spanish101.college
 sparklabs.com
 doh-01.spectrum.com
 doh-02.spectrum.com
@@ -3204,11 +3183,16 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
+eu-proxy.startpage.com
+eu1-browse.startpage.com
 eu2-browse.startpage.com
-error.proxy.startpage.com
+proxy.startpage.com
+proxy1.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
+us-proxy.startpage.com
 us1-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
@@ -3315,7 +3299,6 @@ dns.szpadel.ovh
 t-dz.com
 dns.t-ipnet.de
 dns.t53.de
-t92.online
 tailnet.ru
 tailscale.com
 talk2m.com
@@ -3430,7 +3413,6 @@ tonvpn.com
 toolara.net
 dot.tooli.ca
 proxy.toolur.com
-top-proxy.site
 top10vpn.com
 toppal.tech
 topsecure.info
@@ -3491,7 +3473,6 @@ tujenasnaszato.xyz
 tunnelbear.com
 turbohide.org
 turbossh.com
-turbotrackvpn.com
 turbovpn.co
 turbovpn.com
 turmericrecipes.com
@@ -3684,8 +3665,6 @@ underage-gambling.site
 undofilters.com
 dns.unerror.network
 ines.zfn.uni-bremen.de
-flipclevergrid.unids.com
-flipcleverplay.unids.com
 unifiedvpn.com
 galileo.math.unipd.it
 universityproxy.net
@@ -3718,7 +3697,6 @@ webproxy.us.com
 us-proxy.org
 usa-proxy.org
 adfree.usableprivacy.net
-usafastproxy.info
 usaip.eu
 usaip.net
 usawebproxy.com
@@ -3903,7 +3881,6 @@ doh.this.web.id
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 webbrowser.live
 webevade.com
-webjax.ir
 weblockapp.com
 doh.webnmail.de
 weboproxy.com
@@ -4040,7 +4017,6 @@ younblocked.com
 youproxything.com
 youproxytube.com
 your-dns.run
-your-freedom.de
 yourcheat.com
 yourinternetproxy.info
 youtube-proxy.com
