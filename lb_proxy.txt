@@ -117,7 +117,6 @@ dns.8887744.xyz
 922proxy.com
 dns.9999.sg
 99proxy.com
-9w9.org
 dns.a47.me
 doh.aaaab3n.moe
 adb.aadityakushwaha.com
@@ -188,7 +187,6 @@ alhvp.com
 alidns.com
 aliveproxies.com
 httpdns-sc.aliyuncs.com
-alleesph.online
 dns.alloxr.info
 vps.alloxr.info
 allunblocked.com
@@ -410,7 +408,6 @@ blewpass.com
 us1.blissdns.net
 blocka.net
 blockaway.net
-blockawayproxy.net
 blockedsiteaccess.com
 doh.blockerdns.com
 blockless.com
@@ -522,7 +519,6 @@ cfdjb.org
 ibuki.cgnat.net
 dns.chadeyron.fr
 changemyip.com
-changemyip.uk
 chaos-system.de
 dns.charraud.eu
 dns.chenu.ch
@@ -1077,7 +1073,6 @@ osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-vpschito.duckdns.org
 dukun.de
 dutchproxy.nl
 dvprovider.icu
@@ -1309,7 +1304,6 @@ freecanadavpn.com
 freecavpn.com
 hkname.freecdn.one
 freeconnect.link
-freedevpn.com
 freedom.cx
 freedome-vpn.net
 freedomproxy.com
@@ -1663,6 +1657,7 @@ mask-h2.icloud.com
 icpsuawn1zy5amys.com
 tienpham.id.vn
 idcloak.com
+idinahui.pro
 idolproxy.com
 adguard.shuting.idv.tw
 ietors.com
@@ -1856,7 +1851,6 @@ ko-18948-tr.xyz
 proxy.kokecoco.me
 www-proxy.kokecoco.me
 adguard.konikoni428.com
-www-proxy.konstl01.xyz
 doh.kooman.org
 korzhov.dev
 dns.kosan.moe
@@ -1884,6 +1878,7 @@ adamz2eso.l5.ca
 lablancer.com
 doh.lacontrevoie.fr
 www-proxy.ladifsoftware.com
+laflame.us
 lantern.io
 largero.com
 larpicidecentralproxy.org
@@ -1939,8 +1934,6 @@ linkideo.com
 linkmefree.net
 linkmetube.com
 dns.linkr.ninja
-omar.linxy.eu
-omarcreatedthis.linxy.eu
 lionssh.com
 quickvpn.lipisoft.com
 africadns1.liquidtelecom.net
@@ -3183,16 +3176,13 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
-eu-proxy.startpage.com
-eu1-browse.startpage.com
 eu2-browse.startpage.com
-proxy.startpage.com
+error.proxy.startpage.com
 proxy1.startpage.com
 proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
-us-proxy.startpage.com
 us1-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
@@ -3444,6 +3434,7 @@ totalvpn.com
 doh.totoro.pub
 touchvpn.net
 towervpn.com
+dns.tracker.ink
 tradeadspace.info
 trafflink.xyz
 traffmonetizer.com

@@ -135,7 +135,6 @@ wtf.roflcopter.fr
 roteserver.de
 search.rubberverse.xyz
 searchencrypt.com
-searx.bar
 searx.ch
 searx.info
 searx.ir
