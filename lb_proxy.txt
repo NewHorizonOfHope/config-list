@@ -1147,8 +1147,6 @@ proxy.eti.pw
 ettego.com
 arashi.eu.org
 armorrush.eu.org
-dns.de.futuredns.eu.org
-dns.us.futuredns.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
 arashi.net.eu.org
@@ -1246,6 +1244,7 @@ fishingandgunoutdoors.com
 fishproxy.com
 fitnessdepotprices.com
 fixproxy.com
+dns.fizz.studio
 flarquix.xyz
 flashpull.com
 flashput.net
@@ -1646,7 +1645,6 @@ i2pd.xyz
 vd.i81.ru
 vpn.i81.ru
 beepboopbop.iamadeveloper.dev
-dns.iamanuragh.in
 dns.iamninja.ru
 iblocker.info
 ibvpn.com
@@ -2148,6 +2146,7 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
+dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -2210,7 +2209,6 @@ dns.aa.net.uk
 doh.infotek.net.id
 doh.max.net.id
 ns.net.kg
-net-ml.online
 netaltr.com
 netnut.io
 netscop.net
@@ -2429,7 +2427,6 @@ overplay.net
 vps-33e5a7f3.vps.ovh.us
 ovpn.com
 ovpn.to
-dns.ovpn.bond
 oxylabs.io
 oxywebproxy.sbs
 oystervpn.com
@@ -2911,7 +2908,6 @@ dns.ronc.ru
 roodel.com
 roogen.com
 roonyx.com
-pluh.root.sx
 dns.rootlab.top
 roskomnadzorgorivadu.ru
 dns.rotunneling.net
@@ -3178,8 +3174,6 @@ browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
 error.proxy.startpage.com
-proxy1.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
@@ -3981,6 +3975,7 @@ xvbelink.com
 xvpn.io
 dns.xwdmw.xyz
 v2.xx3210766.live
+ya-krutoi.pro
 dns.yameenassotally.com
 2.dnscrypt-cert.browser.yandex.net
 dns.yandex.ru
