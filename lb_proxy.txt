@@ -57,6 +57,7 @@ cloud.198.games
 onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
 dns.23-4.cn
 233py.com
+kazuma-fumo.24-7.ro
 dns.240527.xyz
 24tunnel.com
 educational-site.24x7.hk
@@ -87,6 +88,7 @@ dns.354688.xyz
 doh.360.cn
 dot.360.cn
 3bbb.me
+haihu-by-scrsa.3cm.us
 3dcosas.xyz
 3dns.eu
 3jjxxl.tech
@@ -258,7 +260,6 @@ amnezia.org
 doh.amonsul.net
 home.amq.ro
 an-us.pro
-anachem.online
 ananoos.com
 anchorfree.net
 dns.andrewnw.xyz
@@ -408,7 +409,6 @@ bdns.nu
 bdns.pro
 beapasswpn.com
 dns.beardic.cn
-shop.beautydiskount.ru
 bebasid.com
 bebra.ai
 justhost.bedro.cloud
@@ -584,13 +584,12 @@ dns.cahlen.com
 register.cakk.us
 calculusproblems.online
 solve.proof.california-red.com
+dns.caliph.dev
 callies-online.site
 bananakun.camdvr.org
 canadaproxy.info
 cantblockthis.org
 cantfindme.org
-idea.read.capella-technologies.com
-focus.lab.capetownblogger.com
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
 carebuzz.io
@@ -623,6 +622,7 @@ lab.graph.central64.com
 dns.cert.ee
 area.world.cervezamolay.com
 cfdjb.org
+suken.cfmr.ro
 ibuki.cgnat.net
 dns.chadeyron.fr
 core.goal.challengepursuit.com
@@ -630,7 +630,9 @@ changemyip.com
 chaos-system.de
 dismantled.charbel.cl
 dns.charraud.eu
+ougonokaze.cheftayebeh.ir
 dns.chenu.ch
+ilikefeet.chickenkiller.com
 freedns.kiuo-utopias.chickenkiller.com
 mathhomeworkplus.chickenkiller.com
 mathiseasy.chickenkiller.com
@@ -654,7 +656,6 @@ c.cicitt.ch
 cienen.com
 kusogakill.cinedemedianoche.cl
 doh.cippapp.com
-ciproxy.de
 canadianshield.cira.ca
 dns.circl.lu
 circumvent.it
@@ -873,6 +874,8 @@ dns.joaofidelix.com.br
 12bucklemyshoe.kalbas.com.vn
 auditing.lepetitprince.com.np
 logisticsacademy.logistica.com.mx
+encryption.madereramilano.com.ar
+manaututors.manausclass.com.br
 packetyo.nanbang.com.tr
 dns.netraptor.com.au
 new-proxy.com.de
@@ -951,7 +954,6 @@ croxy.com
 croxy.network
 croxy.org
 croxy.red
-croxy.rocks
 croxy-proxy.com
 croxyproxy.best
 croxyproxy.blog
@@ -1009,7 +1011,6 @@ dns.dallinbryce.com
 danhcan.top
 dns.home.daniil.it
 adguard.dantynes.cyou
-darkfat.com
 darknet.to
 proxy.darkvpn.com
 mail.data.haus
@@ -1095,8 +1096,8 @@ dns.dns-53.com
 dns.dns-53.uk
 dns.dns-53.us
 dns-free.link
+secure-dns.dns-ga.de
 dns.dns-over-https.com
-dns-savage.com
 dns0.eu
 doh.dns4all.eu
 dns4me.net
@@ -1203,6 +1204,7 @@ doh.dnscrypt.uk
 v.dnscrypt.uk
 dnsforfamily.com
 dnsforge.de
+dnsguard.pub
 dns.dnshome.de
 jiyuu.dnsitalia.org
 doh.dnslify.com
@@ -1279,7 +1281,6 @@ dukun.de
 dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
-netnotworking.dynamicnetwork.ro
 ueni.dyndns.org
 adbox-v9.dynipv6.de
 sagamihara.dynv6.net
@@ -1324,7 +1325,6 @@ education-lesson-pre-algebra-lesson68.eduarmor.com
 educationdean.us
 adguard.ef67daisuki.club
 tor.eff.org
-dns.efficientdocuments.com
 scifi0.eigenlicht.us
 hole.elbschloss.xyz
 elearning.electronicajck.com
@@ -1357,7 +1357,6 @@ owenforzonoiseeyou.entergod.com
 dns.enzonix.com
 eonvpn.com
 epicbrowser.com
-epix.epicgamer.org
 123-24.eport.gr
 bl.eq.md
 shield1.eranext.net
@@ -1386,6 +1385,7 @@ evyy.net
 ewon.biz
 bio.write.examinedbytopmen.com
 expatshield.com
+cool.explosionlearning.org
 expressapisv2.net
 expressvpn.com
 expressvpn.net
@@ -1440,6 +1440,7 @@ history.essay.fayknowles.com
 fbproxies.info
 ns0.fdn.fr
 ns1.fdn.fr
+audit.feedcube.org
 feeproxy.com
 dns.fehlsprache.de
 trains.fenac.nl
@@ -1508,7 +1509,6 @@ for-privacy.net
 rf4.forestberrypi.com
 www-rf4.forestberrypi.com
 forestvpn.com
-proxy.forkbomb.xyz
 www-proxy.formen.cc
 fortniters.info
 forwardproxie.com
@@ -1609,6 +1609,7 @@ doh.futa.app
 doh.futa.gg
 cats.fuzzylookups.com
 dogs.fuzzylookups.com
+foxes.fuzzylookups.com
 g-a-y.pro
 gabstorm.com
 cluster-0.gac.edu
@@ -1740,6 +1741,7 @@ greenssh.com
 dnsblock.grisumedia.de
 dns.grqu.de
 wow.grupompr.com
+minionsandgru.grupopilar.cl
 vps.grussenmeyer.com
 gsdkhjgsbgsdsjhvdskjlg.ru
 gamgasyoppakuteri-zenttodabi.gslb.info
@@ -1789,6 +1791,7 @@ turtle.happyforever.com
 ycsd-instructure.happyforever.com
 yessir.happyforever.com
 harbaletsstudy.com
+monkeydoo.hardsoft.nu
 resolver-eu.haringstad.com
 adguard.hartley.cloud
 dylanigotchu.hbmc.net
@@ -1797,6 +1800,7 @@ ordns.he.net
 chimpanzinibananini.hec.to
 dogebyvcsa.hec.to
 hooda.math.hec.to
+nodamirai.hec.to
 us-ny-alula.heliumcloud.cc
 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 sage.skills.hellasinside.com
@@ -2008,6 +2012,7 @@ indiaproxy.win
 indo-ssh.com
 dns.indust.me
 dns.indybanipal.com
+the.infocommthailand.com
 dns.inforlogia.com
 doh.infracell.net
 infvpn.com
@@ -2363,6 +2368,7 @@ lotofabric.ru
 loubonde.xyz
 bolt.louis-ip.com
 eiken-jp.lozan.com
+koolaid.lozan.com
 worldwaronehistory.lozan.com
 n5.lsasss.com
 ltlxvxjjmvhn.me
@@ -2469,6 +2475,7 @@ testaghome.meshkov.info
 dns.mestdag.fr
 metal-masters.us
 metalinjection.us
+info.metropolitanstaffingsolutions.com
 fucklightspeed.mgotz.com
 dns.mh4ckt3mh4ckt1c4s.xyz
 mhany.xyz
@@ -2833,6 +2840,7 @@ dns.ofdoom.net
 sleepykirby.ofmdirect.com
 okado.online
 okayfreedom.com
+dns.olpploiopkuyhiopsfrt.info
 olympicproxy.net
 omegaproxy.com
 adguard.oms-ctr.ru
@@ -2931,6 +2939,7 @@ dns.oryxlabs.com
 os4work.com
 edu.osobi.ro
 osobiacademy.osobi.ro
+tails.ospa.fi
 ospylac.com
 osqcsmm.shop
 this.is.for.lightspeedpal.ostrovsky.sk
@@ -3346,6 +3355,7 @@ purevpn.fr
 purevpn-tools.com
 pushokey.com
 pushvpn.com
+start.puto.me
 pxaa.com
 pyproxy.com
 doh.pyry.me
@@ -3461,6 +3471,7 @@ ricko.is
 lexiapowerup.ricksolinas.com
 dns.rin.sh
 elishawisabaddie.rinet.fi
+next.rinet.ai
 ringvpn.com
 riseup.net
 rnblyatclub.online
@@ -3789,10 +3800,8 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
-error.proxy.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
-us-browse.startpage.com
 us1-browse.startpage.com
 us2-browse.startpage.com
 dns.startupstack.tech
@@ -3880,6 +3889,7 @@ surfshark.sg
 surfshark.sk
 surfsharkbiz.com
 surfsharkdeals.com
+dns.surfsharkdns.com
 surfsharkstatus.com
 surfshell.io
 surfsjark.com
@@ -3922,6 +3932,7 @@ tailnet.ru
 tailscale.com
 talk2m.com
 mass.prep.tanenbaumchat.org
+please-man-i-need-it-just-watch-dexterrrr.tar.nz
 tbjr6.com
 tbunet.com
 its-spatter.blood-spatter.tcm-studios.info
@@ -4379,6 +4390,7 @@ willitwork.utrealestatedreamteam.com
 utube.cc
 utunnel.io
 uvpn.me
+v.recipes
 edge-v6x.v6.rocks
 greenzone.v6.army
 lawless-zone.v6.rocks
@@ -4474,6 +4486,7 @@ encryption.vlad.md
 vload.net
 vobas.com
 dns.vod11.xyz
+tools.vonar.ch
 vonvpn.com
 vpn0109.voodonline.fr
 lanschool.leno.vopros.kz
