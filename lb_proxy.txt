@@ -168,6 +168,7 @@ acrea.cz
 activatevpn.com
 activpn.com
 actmobile.com
+i-hate-link-leakers-cyptopia-made-this.adaptor.cl
 schoolsucks.adaptor.cl
 adblockersite.com
 adblockluna.com
@@ -323,6 +324,7 @@ asheranztwitch.online
 dns.ashleyjackson.net
 terms.skill.asleepingturtle.com
 survey.aspdebugger.com
+task.major.assholetenants.com
 dns.asterimoon.com
 astrill.com
 astrill.org
@@ -571,6 +573,7 @@ dns.cahlen.com
 register.cakk.us
 calculusproblems.online
 solve.proof.california-red.com
+notes.sage.california-red.com
 dns.caliph.dev
 callies-online.site
 bananakun.camdvr.org
@@ -619,6 +622,7 @@ dismantled.charbel.cl
 dns.charraud.eu
 ougonokaze.cheftayebeh.ir
 dns.chenu.ch
+gooberman123.com.chickenkiller.com
 ilikefeet.chickenkiller.com
 freedns.kiuo-utopias.chickenkiller.com
 mathhomeworkplus.chickenkiller.com
@@ -865,7 +869,6 @@ logisticsacademy.logistica.com.mx
 encryption.madereramilano.com.ar
 manaututors.manausclass.com.br
 packetyo.nanbang.com.tr
-dns.netraptor.com.au
 new-proxy.com.de
 proxy.com.de
 proxy-service.com.de
@@ -1302,6 +1305,7 @@ dns.eddi.net
 doh.eddi.net
 dns.edgeburnmedia.com
 edgedcircles.com
+dns.edgy.network
 edgy-dns.com
 dns.editechstudio.com
 edpuzzle.space
@@ -1310,7 +1314,6 @@ education-lesson-pre-algebra-lesson68.eduarmor.com
 educationdean.us
 adguard.ef67daisuki.club
 tor.eff.org
-dns.efficientdocuments.com
 scifi0.eigenlicht.us
 hole.elbschloss.xyz
 elearning.electronicajck.com
@@ -1357,7 +1360,6 @@ arashi.eu.org
 armorrush.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
-arashi.net.eu.org
 rammerhead.eu.org
 sukidayo.eu.org
 eurproxy.com
@@ -1461,6 +1463,7 @@ firstcontact.site
 fishproxy.com
 fitnessdepotprices.com
 fixproxy.com
+dns.fizz.studio
 gothgirlsareawesome.flamex.hm
 flarquix.xyz
 flashpull.com
@@ -1995,6 +1998,7 @@ internetcloak.com
 interssh.com
 intervpn.com
 intl-alliance.com
+orbit.debate.invest.io
 invisv.com
 app.edu.iownyour.org
 use.edu.iownyour.org
@@ -2197,6 +2201,7 @@ kproxy.com
 kproxysite.com
 dart.kpsn.org
 adblock.krctech.dev
+recap.grade.kredytlinia.pl
 xray.krnl.eu
 kryptovpn.kryptotel.net
 dns.kugoapps.com
@@ -2240,6 +2245,7 @@ peoplewhosay67arecornballs.laviewddns.com
 taihenomatasesimasita.laviewddns.com
 useinterstellar.laviewddns.com
 iterator.lazada.com
+alumn.history.ldop.com
 le-vpn.com
 adguard1.leadmon.net
 adguard.leadseason.eu
@@ -2479,7 +2485,6 @@ aleks.readtheory.com.mooo.com
 propeller.catapzlt.rohu.mooo.com
 morbitzer.de
 morevpn.com
-dns.moulticast.net
 movieproxy.com
 moyazyinomoyasi.com
 vpn.mozilla.org
@@ -2561,6 +2566,7 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
+dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -3083,6 +3089,7 @@ privacyprotector.eu
 privado.io
 orpi.privado.ovh
 privadovpn.com
+examccctestedd.privatedns.org
 privateinternetaccess.com
 privateproxy.me
 privatesurfforme.net
@@ -3708,7 +3715,10 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
+eu1-browse.startpage.com
 eu2-browse.startpage.com
+proxy1.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
@@ -3808,6 +3818,7 @@ surprise.pics
 surtshark.com
 dns.sv-zauner.at
 dns.svoi.dev
+poptee-liawheufhwae-awef.swanndvr.net
 ramm-ume-pro.swanndvr.net
 rammerhead-10.swanndvr.net
 swapip.com
@@ -4687,7 +4698,6 @@ ytcroxyproxy.com
 yui.cat
 friends-are.awesome.yukon.ar
 dns.yuu-g.net
-yuvelirtut.website
 yuyuproxy.com
 yxorproxy.com
 adg.yybyy.wiki
