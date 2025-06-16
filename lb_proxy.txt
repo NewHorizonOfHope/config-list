@@ -93,6 +93,7 @@ calm-hawk-529.3kh0.org
 happy-sun-587.3kh0.org
 3proxy.de
 dns.3wv.de
+3x.nz
 dns.4-the.win
 notfound-google.404.mn
 doh.42l.fr
@@ -196,6 +197,7 @@ shield.afixer.app
 research.africa.com
 gov.goal.agilewhitecloud.com
 agmath.xyz
+wha.agmlabs.com
 ahadns.net
 blitz.ahadns.com
 blitz-setup.ahadns.com
@@ -278,6 +280,7 @@ anonymous-proxies.net
 anonymous-proxy-servers.net
 anonymousblog.info
 anonymouse.org
+anonymousengine.com
 anonymousvpn.info
 anonymousvpn.org
 anonymox.net
@@ -336,6 +339,7 @@ atlasvpn.com
 atozproxy.com
 atris.cyou
 dohtrial.att.net
+dns.auapi.fun
 stevenisafemboy.auraria.org
 auto-aufladen.de
 use.autoglass.my
@@ -576,10 +580,12 @@ solve.proof.california-red.com
 notes.sage.california-red.com
 dns.caliph.dev
 callies-online.site
+tor.calyxinstitute.org
 bananakun.camdvr.org
 canadaproxy.info
 cantblockthis.org
 cantfindme.org
+idea.read.capella-technologies.com
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
 carebuzz.io
@@ -869,6 +875,7 @@ logisticsacademy.logistica.com.mx
 encryption.madereramilano.com.ar
 manaututors.manausclass.com.br
 packetyo.nanbang.com.tr
+dns.netraptor.com.au
 new-proxy.com.de
 proxy.com.de
 proxy-service.com.de
@@ -881,6 +888,7 @@ nya.qualitypaperindustries.com.np
 dns.redhosting.com.ar
 chat-isinterstellargood.safira.com.my
 cloudbarfbagisback.saugatnepal.com.np
+mathvideos.sharmaraju.com.np
 visit.sistemasplenario.com.ar
 doge.sundblad.com.ar
 surfshark.com.au
@@ -890,9 +898,11 @@ webproxy.com.de
 6922.yugadiluitel.com.np
 dns.comff.net
 rammerhead.command.enterprises
+commonapp.college
 commons.host
 easy-vpn.comodo.com
 math.tests.comprotusjuguetes.com
+compsci.college
 pluhster.computersforpeace.net
 comss.one
 comss.ru
@@ -951,6 +961,7 @@ croxyproxy.best
 croxyproxy.com
 croxyproxy.net
 croxyproxy.rocks
+croxyproxy.us
 croxyproxys.com
 croxyproxyvpn.com
 crushus.com
@@ -979,6 +990,7 @@ qual.cuprum.ru
 curd.io
 amir1.cuza16.ro
 cozy.cuza16.ro
+cv-unfiltered.xyz
 dns.cwlys.com
 vocab.real.cyberbeatnation.net
 cyberghostvpn.com
@@ -996,6 +1008,7 @@ dns.d96.info
 dns.daarrk.tech
 dabmix.com
 executor.dadyal.pk
+friedeggs.dagmaar.com
 dns.dallinbryce.com
 danhcan.top
 dns.home.daniil.it
@@ -1314,6 +1327,7 @@ education-lesson-pre-algebra-lesson68.eduarmor.com
 educationdean.us
 adguard.ef67daisuki.club
 tor.eff.org
+dns.efficientdocuments.com
 scifi0.eigenlicht.us
 hole.elbschloss.xyz
 elearning.electronicajck.com
@@ -1360,6 +1374,7 @@ arashi.eu.org
 armorrush.eu.org
 dns.fullaccesstointernet.jp.eu.org
 dns.mayx.eu.org
+arashi.net.eu.org
 rammerhead.eu.org
 sukidayo.eu.org
 eurproxy.com
@@ -1743,6 +1758,7 @@ gvirabi.com
 gwopboyded.com
 gztech.me
 h-vpn.org
+ohnothatsbad.h0rst.us
 schoolnotes.h0rst.us
 potatojuice.h0stname.net
 artiom.made.this.h0stname.net
@@ -2163,6 +2179,7 @@ pihole.aws.ketan.dev
 dns.keviland.com
 kevinai.org
 dns.keweon.center
+ok.keybusinessconnection.com
 adg.khon.dev
 adguard.kiboko.it
 kickassproxy.com
@@ -2334,6 +2351,7 @@ lumes.jp
 luminati.io
 luminatinet.com
 lurk.info
+the.luxflow.net
 orau.lz0724.com
 addns1.m-it.ro
 mabuktogel.builders
@@ -2360,6 +2378,7 @@ mainprox.com
 mainssh.com
 maintainbrain.us
 dns.maitrekuc.fr
+we.make-it.ro
 course.quiz.makovecz.com
 mallocapp.com
 mallocprivacy.com
@@ -2566,7 +2585,6 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
-dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -2780,7 +2798,6 @@ dns.ofdoom.net
 sleepykirby.ofmdirect.com
 okado.online
 okayfreedom.com
-dns.olpploiopkuyhiopsfrt.info
 olympicproxy.net
 omegaproxy.com
 adguard.oms-ctr.ru
@@ -3325,7 +3342,6 @@ tiger.dns.qwer.pw
 mahiro-9.1project.r-o-o-t.net
 resolver.r0cket.net
 r1bnc.com
-resolve2.r9x.cc
 ra4wvpn.com
 dns.rabbitdns.org
 family.rabbitdns.org
@@ -3362,6 +3378,7 @@ imintheskibofiteverybodyknows.recca.cl
 interhead.recca.cl
 rammerstellar.recca.cl
 dns.reckoningslug.name
+ixl.recruitment7.com
 redhoodie.site
 redproxy.info
 applet.redragon.net
@@ -3673,6 +3690,7 @@ dns.spirio.fr
 sporium.org
 sportsballhub.com
 physicaleducation.sportseducationinstructors.org
+math.spotifyfans.art
 game.spynick.com
 spys.one
 spysurfing.com
@@ -3715,10 +3733,7 @@ ams1.startpage.com
 ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
-eu1-browse.startpage.com
 eu2-browse.startpage.com
-proxy1.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
@@ -4724,6 +4739,7 @@ zenmate.com
 cheifsarebad.zenrelax.ro
 zenrows.com
 zenvpn.net
+doh.zephyrus.id
 adguard-kartoffel.zernico.de
 zerotier.com
 zerotunnel.com
