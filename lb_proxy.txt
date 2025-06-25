@@ -187,7 +187,6 @@ dns-family.adguard.com
 dns-unfiltered.adguard.com
 adguard-dns.com
 adguard-vpn.com
-adguard-vpn.online
 adresseip.com
 dns.adrianlam.com
 adsocialmediamarketing.com
@@ -262,7 +261,6 @@ ananoos.com
 anchorfree.net
 dns.andrewnw.xyz
 angle.goal.andrewshomelabs.com
-androvpn.com
 doh.angry.im
 animeproxy.net
 aniscartujo.com
@@ -341,7 +339,6 @@ dns.asysec.com
 adguardhome.atakorah.com
 atlasvpn.com
 atozproxy.com
-atris.cyou
 dohtrial.att.net
 dns.auapi.fun
 stevenisafemboy.auraria.org
@@ -420,6 +417,7 @@ beepassvpn.com
 beetvpn.com
 beevpn.com
 dns.belnet.be
+bentnailfarm4121.com
 dns.bermeitinger.eu
 bestaitool.news
 bestfreevpn.com
@@ -504,6 +502,7 @@ blufvpn.com
 bmetrics.org
 dns.bmwhocking.com
 dns.bobstrecansky.com
+d.bod.lol
 boda-vip.net
 bodvpn.com
 dns.bofh.in
@@ -553,6 +552,7 @@ travel.bsfa.info
 use.bsfa.info
 doh.bt.com
 btguard.com
+btunnel.in
 goose.buckyfan.net
 buffered.com
 zainisashithead.bugaloop.com
@@ -590,7 +590,6 @@ bananakun.camdvr.org
 canadaproxy.info
 cantblockthis.org
 cantfindme.org
-idea.read.capella-technologies.com
 2.dnscrypt-cert.captnemo.in
 doh.captnemo.in
 carebuzz.io
@@ -794,6 +793,7 @@ akashiro.co.id
 googie.anchorchain.co.za
 antidnsvpn.co.cc
 binhexsolutions.co.uk
+btunnel.co.in
 cars-a.co.za
 clearvpn.co.uk
 pihole.datamatter.co.za
@@ -1063,7 +1063,6 @@ desertsand.us
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
 dns.dev-umbrellagov.com
-portal.devicars.com
 learn.devmon.ru
 study.know.devreler.com
 dewassh.net
@@ -1291,7 +1290,6 @@ osefcorp.duckdns.org
 punono.duckdns.org
 tuandns.duckdns.org
 tungdnsne.duckdns.org
-vpschito.duckdns.org
 blahaj.duia.us
 butidontwanttacos.duia.us
 dualpower.duia.eu
@@ -1303,7 +1301,6 @@ dutchproxy.nl
 dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
-resolver1.dyndnsinternetguide.com
 adbox-v9.dynipv6.de
 sagamihara.dynv6.net
 t9rke-5zq1m.dynv6.net
@@ -1348,6 +1345,7 @@ education-lesson-pre-algebra-lesson68.eduarmor.com
 educationdean.us
 adguard.ef67daisuki.club
 tor.eff.org
+dns.efficientdocuments.com
 scifi0.eigenlicht.us
 hole.elbschloss.xyz
 elearning.electronicajck.com
@@ -1500,6 +1498,7 @@ fishproxy.com
 fitnessdepotprices.com
 chart.books.fivepals.com
 fixproxy.com
+dns.fizz.studio
 gothgirlsareawesome.flamex.hm
 flarquix.xyz
 flashpull.com
@@ -1613,7 +1612,6 @@ freewebproxy.eu
 freexite.com
 freeyouproxytube.com
 freeyoutube.net
-french-vpn.com
 dns.freopc.fr
 dns.freyja.pw
 frlolyt.site
@@ -1740,7 +1738,6 @@ goodssh.com
 dns.google.com
 google-public-dns-a.google.com
 google-public-dns-b.google.com
-dns-tunnel-check.googlezip.net
 tunnel.googlezip.net
 goosevpn.com
 performance.gosami.xyz
@@ -1982,7 +1979,6 @@ link-two.ibewlocalzero.com
 iblocker.info
 ibvpn.com
 webproxy.ich-war-hier.de
-icitek.com
 mask.icloud.com
 mask-h2.icloud.com
 lab.clever.icp-seigyo.com
@@ -2236,7 +2232,6 @@ anarchychessbetterthenregularchess.kmodem.org
 login.knr.cl
 knvpn.net
 ko-18948-tr.xyz
-www-proxy.koirdsuzu.com
 www-proxy.kokecoco.me
 hr.komor.bid
 adguard.konikoni428.com
@@ -2365,6 +2360,8 @@ literally.info
 litevpn.top
 loadlow.me
 dns.lobbygod.com
+localto.net
+localtonet.com
 locaproxy.com
 lochridge.org
 browser.lolo.pro
@@ -2410,7 +2407,6 @@ mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 banana123.macao.org
-maddw.com
 use.madefalva.ro
 magiccloak.net
 mahnor.com
@@ -2445,7 +2441,6 @@ masterssh.com
 dns.mateo.ovh
 ynbziad.math-solver.com
 dns.mathewakhil.online
-mathlearning.tech
 mathnotes.help
 mathnotes.icu
 matterhero.org
@@ -2687,6 +2682,7 @@ bdedu.ne1.co
 nrr.ne1.co
 dns.neeb.it
 needunblock.com
+arain.neighborhoodcloud.com
 z-brokethescaler.neighborhoodcloud.com
 nekoray.org
 smart.quiz.nelsonshack.com
@@ -2694,7 +2690,6 @@ adguard.neon0404.space
 neonos.me
 dns.neowutran.ovh
 dns.aa.net.uk
-doh.infotek.net.id
 doh.max.net.id
 ns.net.kg
 dog.vpn.net.br
@@ -2742,7 +2737,6 @@ doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 nicsezcheckfbi.gov
 dns1.nielsdb.be
-nightowlvpn.com
 nimbleway.com
 dns.ningkelle.id
 ninjabrowse.com
@@ -2950,7 +2944,6 @@ ospylac.com
 osqcsmm.shop
 this.is.for.lightspeedpal.ostrovsky.sk
 thisisforlightspeedbythewayjustsoyouknoweggs.ostrovsky.sk
-dns.oszx.co
 interstellar.otil.cl
 topic.idea.ottosulbmec.com
 ourproxy.net
@@ -3105,7 +3098,6 @@ teach.essay.porcineplacenta.com
 science-exp.port0.org
 doh.port53.dk
 croze.port82.net
-portalssh.com
 dns.porteii.com
 portmap.io
 portssh.com
@@ -3167,7 +3159,6 @@ nl.dns.privex.io
 privoxy.org
 pro-tower.com
 chinesekidscheeksarentsafearoundme.procrastin.ar
-prohome.info
 prointern.info
 project-evoex.de
 dns.propheci.xyz
@@ -3477,7 +3468,6 @@ blobx.ro0t.hm
 skibidirizz.robinhud.com
 topdown.robtop.xyz
 topyea.robtop.xyz
-rocketprox.com
 rockwell.website
 dns.roedel.cloud
 romirely.tech
@@ -3794,6 +3784,8 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
+proxy1.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
@@ -4158,7 +4150,6 @@ ublocker.info
 ufovpn.io
 ufreevpn.com
 ugdsoft.com
-uinlive-time.com
 webproxy.uk.com
 ukwebproxy.eu
 debate.major.ulrik.net
@@ -4733,7 +4724,6 @@ xjumper.com
 dns.xlion.tw
 xn--durhre-yxa.de
 xperienc.com
-xsfwow.com
 hailey-complex.xst.cl
 kofi-was-here-noob.xst.cl
 dns.xuming.studio
