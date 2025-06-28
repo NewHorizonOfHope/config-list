@@ -79,12 +79,10 @@ namenims.fr.to.2fine.de
 2ub.top
 30t.online
 doh.30x.me
-free.30x.ru
 351242444.xyz
 dns.354688.xyz
 doh.360.cn
 dot.360.cn
-haihu-by-scrsa.3cm.us
 3dcosas.xyz
 3dns.eu
 3jjxxl.tech
@@ -104,7 +102,6 @@ bannana.web-doge.42web.io
 ns2.4netguides.org
 paper.guide.4nets.org
 4proxy.de
-6x9ne.4twenty.us
 4youproxyweb.com
 alidns.51top.info
 dns.52306.org
@@ -151,7 +148,6 @@ aboba.pro
 data.focus.abonament.net
 abouts.lol
 doh.abraservice.xyz
-jp.absl.ro
 res-acst1.absolight.net
 res-acst2.absolight.net
 res-acst3.absolight.net
@@ -199,6 +195,7 @@ shield.afixer.app
 research.africa.com
 gov.goal.agilewhitecloud.com
 agmath.xyz
+ebooks-edu.agmlabs.com
 wha.agmlabs.com
 ahadns.net
 blitz.ahadns.com
@@ -364,7 +361,6 @@ awhoer.net
 sakura-site-rammerhead.ax1951.com
 speedy.ax1951.com
 axaxa.fun
-anyralnestridentrodinfisxu.ayrnatales.net
 learn.azimei.cn
 teachers.azimei.cn
 azirevpn.com
@@ -380,7 +376,6 @@ freevpnme.b-cdn.net
 hola-client-cdn4.b-cdn.net
 b-dns.se
 dns.b33.space
-i.am.selling.b33r.us
 dns.b612.me
 dns.b72.com
 baconmania.click
@@ -518,7 +513,6 @@ borderlessvpn.io
 doh.bortzmeyer.fr
 cloudns.bosco.ovh
 pakupaku.bounceme.net
-igottridentrodinfischop.bowmansarrow.us
 vectorgpt.boxathome.net
 boxpn.com
 dns.braene.com
@@ -622,7 +616,6 @@ lab.graph.central64.com
 dns.cert.ee
 area.world.cervezamolay.com
 cfdjb.org
-suken.cfmr.ro
 ibuki.cgnat.net
 dns.chadeyron.fr
 core.goal.challengepursuit.com
@@ -790,7 +783,6 @@ dns.cmrg.net
 10bestvpn.co.uk
 adguard.aa4.co.uk
 akashiro.co.id
-googie.anchorchain.co.za
 antidnsvpn.co.cc
 binhexsolutions.co.uk
 btunnel.co.in
@@ -817,7 +809,6 @@ dns.oliviertv.co.za
 onlineproxy.co.uk
 alvaromarzogarbayo.pimp.co.za
 pooblet.co.za
-proxay.co.uk
 proxify.co.uk
 proxywebsite.co.uk
 quickproxy.co.uk
@@ -861,6 +852,7 @@ dns.ceai.com.tw
 budget.chodos.com.ar
 dns.cloud88.com.au
 about.cmbazan.com.ar
+state.lab.covi.com.ar
 croxyproxy.com.in
 echan.faizinternational.com.np
 info.faizinternational.com.np
@@ -881,7 +873,6 @@ dns.joaofidelix.com.br
 auditing.lepetitprince.com.np
 logisticsacademy.logistica.com.mx
 encryption.madereramilano.com.ar
-manaututors.manausclass.com.br
 grid.brain.marcenes.com.br
 packetyo.nanbang.com.tr
 dns.netraptor.com.au
@@ -906,7 +897,6 @@ doh.viatech.com.tw
 webproxy.com.de
 6922.yugadiluitel.com.np
 dns.comff.net
-rammerhead.command.enterprises
 commonapp.college
 commons.host
 easy-vpn.comodo.com
@@ -1062,6 +1052,7 @@ desec.io
 desertsand.us
 adguard.lege.despagne.net
 doh-primary-pool.detoxifypornblocker.com
+dev-ngrok.com
 dns.dev-umbrellagov.com
 learn.devmon.ru
 study.know.devreler.com
@@ -1302,6 +1293,7 @@ dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
 adbox-v9.dynipv6.de
+gustamadh.dynv6.net
 sagamihara.dynv6.net
 t9rke-5zq1m.dynv6.net
 dns.dynx.pro
@@ -1498,7 +1490,6 @@ fishproxy.com
 fitnessdepotprices.com
 chart.books.fivepals.com
 fixproxy.com
-dns.fizz.studio
 gothgirlsareawesome.flamex.hm
 flarquix.xyz
 flashpull.com
@@ -1749,6 +1740,7 @@ fractioncaculator.govt.hu
 gowork.info
 gpreport.us
 gracarno.com
+basic.idea.gracesiefer.com
 doge.gracyjohns.cl
 graef.in
 grammarhelpers.com
@@ -1904,6 +1896,7 @@ holavpnextension.com
 holavpnrussia.com
 holavpnworld.com
 holax.io
+hi.hollandweather.net
 beta.holyunblocker.org
 kyrgyzstan-travel.home.kg
 home-server.store
@@ -2199,6 +2192,7 @@ dns.kastner-online.de
 katonetwork.com
 kavkaz.monster
 dns.kawa.tf
+base.train.kdits.ca
 ram.kdot.cam
 dns.kebree.fr
 keenow.com
@@ -2326,6 +2320,7 @@ verynicewebsite.letz.dev
 dns.levonet.sk
 lewsha.lol
 dns2.lezainski.com
+kagurabachilover.lgmnow.com
 dns.lgprk.com
 dns.liberador.net
 libertyvpn.net
@@ -2624,6 +2619,7 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
+dns.mzjtechnology.com
 dns.mzrme.cn
 n0.eu
 dns.n23.io
@@ -2837,6 +2833,7 @@ dns.ofdoom.net
 sleepykirby.ofmdirect.com
 okado.online
 okayfreedom.com
+tokyo-by-scrsa.okzk.com
 dns.olpploiopkuyhiopsfrt.info
 olympicproxy.net
 omegaproxy.com
@@ -3422,6 +3419,7 @@ imintheskibofiteverybodyknows.recca.cl
 interhead.recca.cl
 rammerstellar.recca.cl
 dns.reckoningslug.name
+vladimirloljk.lollipopyum.liveastheman.reconectar.cl
 ixl.recruitment7.com
 redhoodie.site
 redproxy.info
@@ -3465,6 +3463,7 @@ riseup.net
 rnblyatclub.online
 blob.ro0t.hm
 blobx.ro0t.hm
+reallysmart.robertofreire.ca
 skibidirizz.robinhud.com
 topdown.robtop.xyz
 topyea.robtop.xyz
@@ -3771,6 +3770,7 @@ dns.sstomp.nl
 stable-vpn.com
 stackfront.xyz
 auraaa.staffordesq.com
+stage-ngrok.com
 use.star.is
 tests.data.stardustcommercialservices.com
 stargate.one
@@ -3784,7 +3784,6 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
-proxy1.startpage.com
 proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
@@ -4022,6 +4021,7 @@ jp.tiar.app
 doh.tiarap.org
 jp.tiarap.org
 prestonhitgrandmasterinyorkmate.tice-industries.com
+world.guide.ticinostudio.com
 tigervpn.com
 tigrons.ru
 tikvpn.com
@@ -4657,6 +4657,7 @@ wikimedia-dns.org
 wiksa.com
 dns-1.wil.cloud
 dns-2.wil.cloud
+tests.excel.wild1.net
 wildproxy.info
 education.wildsurf.net
 pirate.wildsurf.net
@@ -4807,7 +4808,6 @@ zerotier.com
 zerotunnel.com
 zerovpn-app.com
 zexusdigital.online
-dns.zfsystem.tech
 zippyproxy.com
 doh.zknt.org
 zonevpn.com
