@@ -987,11 +987,9 @@ vynox.ctx.cl
 cubedns.com
 qual.cuprum.ru
 curd.io
-amir1.cuza16.ro
 cozy.cuza16.ro
 cv-unfiltered.xyz
 dns.cwlys.com
-vocab.real.cyberbeatnation.net
 cyberghostvpn.com
 cybershield.cc
 cybersilent.com
@@ -1060,7 +1058,6 @@ dewassh.net
 mainframe.dewed.de
 dns.dgea.fr
 dialertoserver.com
-utopia.tests.dianmarisa.com
 dns.diarbagus.id
 dev.dietpc.org
 help.dietpc.org
@@ -1086,7 +1083,6 @@ divalane.com
 divaloo.com
 divavu.com
 coolgams.dk-condos.com
-hihohornsluttlekidspop.dmdistribution.net
 kahoot.it.dmtr.ru
 easydomain.dnet.hu
 dns.expert
@@ -1293,7 +1289,6 @@ dvprovider.icu
 dns.dyn1.de
 ueni.dyndns.org
 adbox-v9.dynipv6.de
-gustamadh.dynv6.net
 sagamihara.dynv6.net
 t9rke-5zq1m.dynv6.net
 dns.dynx.pro
@@ -1375,7 +1370,6 @@ shield1.eranext.net
 doh.ersei.net
 dns.esnube.es
 mylo.estic.org
-ela.edu.estudiomenoyo.com
 eth.link
 opennic1.eth-services.de
 proxy.eti.pw
@@ -1402,7 +1396,6 @@ expressvpn.net
 dns.extrawdw.net
 extremevpn.com
 fra1.eyecay.xyz
-ezwebsites.ezwebsites.com
 f0lga.tech
 use.f4.is
 dns.f4a.fun
@@ -1415,7 +1408,6 @@ paku.f5.si
 shark-pan.f5.si
 socchanpxy.f5.si
 jp1.f7b6h9.tk
-dns.f97.xyz
 idea.lab.fabriquilla25.com
 faceless.me
 proxy.facil.wtf
@@ -1490,6 +1482,7 @@ fishproxy.com
 fitnessdepotprices.com
 chart.books.fivepals.com
 fixproxy.com
+dns.fizz.studio
 gothgirlsareawesome.flamex.hm
 flarquix.xyz
 flashpull.com
@@ -1533,7 +1526,6 @@ stop-it-now-stop-it-now.foxgateway.com
 we-need-more.foxgateway.com
 bokkinauuu.fpr.net
 cosmogamy.fpr.net
-zi000.fpr.net
 fproxy.net
 frandcomfort.us
 know.orbit.frawst.com
@@ -1752,7 +1744,6 @@ greenproxy.net
 greenssh.com
 dnsblock.grisumedia.de
 dns.grqu.de
-wow.grupompr.com
 minionsandgru.grupopilar.cl
 vps.grussenmeyer.com
 gamgasyoppakuteri-zenttodabi.gslb.info
@@ -1809,10 +1800,6 @@ fair.hashable.org
 dylanigotchu.hbmc.net
 query.hdns.io
 ordns.he.net
-chimpanzinibananini.hec.to
-dogebyvcsa.hec.to
-hooda.math.hec.to
-nodamirai.hec.to
 us-ny-alula.heliumcloud.cc
 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 sage.skills.hellasinside.com
@@ -1935,7 +1922,6 @@ hoxx.net
 hoyofun.xyz
 ajmal.hpc.tw
 greenbeandean.hs.vc
-be.hse.tw
 code.edu.hse.tw
 hshh.org
 hsselite.com
@@ -1990,7 +1976,6 @@ worldbookonline.ignorelist.com
 youreagoodmanarthurmorgan.ignorelist.com
 dns.ihaveacloud.com
 hellotaka.iiiii.info
-yozora.iiiii.info
 iij.jp
 ikarosalpha.xyz
 dns.ikataruto.com
@@ -2086,7 +2071,6 @@ smellyal.isreally.pro
 smellypay.isreally.pro
 stuffyschicken.isreallycool.lol
 itopvpn.com
-itsayx.online
 pdns.itxe.net
 ivacy.com
 ivacyvpn.com
@@ -2112,12 +2096,9 @@ sm6.jake.eu
 tesutorender.jake.eu
 jamesisbald.xyz
 tj.jamesxue.xyz
-janathanmahes-mysharepoint.com
 dns.janl.eu
 transit.javierblog.com
 state.gov.jaycloudlab.com
-jayshaun.com
-starving-kids.jaytex.org
 woodshop.jbworks.com
 jcdns.fun
 lowlow.jellyfl1x.es
@@ -2197,7 +2178,6 @@ ram.kdot.cam
 dns.kebree.fr
 keenow.com
 keepanonymous.com
-dns.keke125.com
 doh.kekew.info
 doh.kel.pe
 kepard.com
@@ -2218,7 +2198,6 @@ doh.killtw.im
 blog.kimiblock.top
 kingsurfproxy.com
 howto.piano.kiptrak.com
-good.kje.us
 dns1.klcd.eu
 dns2.klcd.eu
 klcknerrip.com
@@ -2332,7 +2311,6 @@ likeproxy.com
 limevpn.com
 limitlessproxy.com
 silly.lindhesidan.se
-yozora.lindhesidan.se
 theman.lingxi-ai.net
 www-pa.linkall.uk
 linkideo.com
@@ -2359,7 +2337,6 @@ localto.net
 localtonet.com
 locaproxy.com
 lochridge.org
-browser.lolo.pro
 adguard.londonwebnerd.cloud
 doh.dns1.lonet.org
 doh.phdns1.lonet.org
@@ -2385,7 +2362,6 @@ lumes.jp
 luminati.io
 luminatinet.com
 lurk.info
-the.luxflow.net
 orau.lz0724.com
 addns1.m-it.ro
 mabuktogel.builders
@@ -2411,7 +2387,6 @@ mainprox.com
 mainssh.com
 maintainbrain.us
 dns.maitrekuc.fr
-we.make-it.ro
 course.quiz.makovecz.com
 mallocapp.com
 mallocprivacy.com
@@ -2451,7 +2426,6 @@ pluhbruh.mctwisted.pro
 adguard.meddy94.de
 mediahint.com
 mediavpn.com
-web0213.medscience.cl
 dns.meeo.win
 gomkey.meexpress.net
 testguard.meexx.de
@@ -2522,7 +2496,6 @@ mockblock.com
 sage.area.modeemi.net
 ps1.modr.club
 edu.moldeo.org
-history-of-earth.moldeo.org
 only-shooting-stars-breakthe.moldeo.org
 dns.molinero.dev
 naganohara-yoimiya.momokko.moe
@@ -2554,7 +2527,6 @@ mullvad.net
 lab.proof.multi.hk
 blockerads.multimediaconcept.fr
 in.multiverse.college
-use.muna.com
 dns.murgi.de
 this-is-for-wave-bru.music-menges.si
 sci.brain.musictherapyinscotland.com
@@ -2596,7 +2568,6 @@ newhomeowners.org.myhousesetup.com
 myip.io
 myip-proxy.info
 myiphide.com
-igottridentrodinfischtrust.myjamesonline.net
 sites.scholar.academic.mylogisoft.com
 blackhole.myon.lu
 portmapper.myonlineportal.net
@@ -2690,15 +2661,12 @@ doh.max.net.id
 ns.net.kg
 dog.vpn.net.br
 netaltr.com
-mapper.netinfotechnology.com
 unblocker.netlify.app
 netnut.io
 netscop.net
 netsneak.com
 netvpn.us
 dns.netvpn.net
-free.vbucks.generator.networkindia.com
-free.robux.networkindia.com
 kywantsmyautographonfood.networkoutpost.com
 cube.neubsi.at
 dns.neubsi.at
@@ -2912,7 +2880,6 @@ openvpn.cc
 openvpn.com
 openvpn.net
 openvpn-ssh.com
-flipgrid.opior.com
 musssssstttttttaaaaaaarrrdddddd.df.cissp.or.id
 this.revolution.been.televised.df.cissp.or.id
 hitman.malam.or.id
@@ -3006,7 +2973,6 @@ peoplesproxy.com
 pepetio.xyz
 school.pepikutan.net
 perfect-privacy.com
-perfectvpn.net
 perlproxy.com
 homework.maths.percentages.perona.cl
 darya.persiannit.net
@@ -3044,7 +3010,6 @@ dns.pierzchlewicz.pl
 dns1.pietjacobs.be
 mind.gov.ping24.com
 pingproxy.com
-www-funny.pinkertonmc.com
 pinkproxy.xyz
 piraproxy.org
 pirataproxy.com
@@ -3341,7 +3306,6 @@ purevpn.fr
 purevpn-tools.com
 pushokey.com
 pushvpn.com
-start.puto.me
 pxaa.com
 pyproxy.com
 doh.pyry.me
@@ -3408,7 +3372,6 @@ dns.rayanbab.com
 rayneau.fr
 rayobyte.com
 learn.razorlan.info
-use.razorlan.info
 dns.rbn.gr
 rcsm.ir
 login.readinghelper.online
@@ -3444,7 +3407,6 @@ restaurantgift.us
 dnspub.restena.lu
 dns.retakecs.com
 rethinkdns.com
-zixypy.reticence.lol
 www-proxy.retportal.com
 revelio.top
 revko.info
@@ -3457,7 +3419,6 @@ ricko.is
 lexiapowerup.ricksolinas.com
 dns.rin.sh
 elishawisabaddie.rinet.fi
-next.rinet.ai
 ringvpn.com
 riseup.net
 rnblyatclub.online
@@ -3492,7 +3453,6 @@ adguard.ruby.ci
 dns.rubyfish.cn
 ea-dns.rubyfish.cn
 uw-dns.rubyfish.cn
-yoursuper.rude.li
 rumpelsepp.org
 error404becausepar1scantlose.run.place
 doh.runsel.id
@@ -3508,7 +3468,6 @@ s4m.tech
 s4m.xyz
 scienceforkids.saahee.cn
 math.sachhot.com
-desmos.saf-eng.com
 safe-inet.com
 safeguardianvpn.com
 safenetbrowser.com
@@ -3698,7 +3657,6 @@ snowproxy.com
 guard.sntrk.ru
 dove.soapagent.com
 dove.soapclient.com
-signup.soapclient.com
 socialnetworkinfo.us
 socks-proxy.net
 sockslist.us
@@ -3710,7 +3668,6 @@ soleilvpn-app.com
 trade.my.solidarychain.com
 solidproxy.net
 somelikeitproxy.com
-rizzohiosigmajasin111.com.soon.it
 jcmswebsiteunblocker.soon.it
 konata-ice.soon.it
 maxkershoe.soon.it
@@ -3774,7 +3731,6 @@ stage-ngrok.com
 use.star.is
 tests.data.stardustcommercialservices.com
 stargate.one
-task.words.starlordbob.com
 starruby.us
 starrynight.site
 starssh.com
@@ -3784,7 +3740,29 @@ ams2.startpage.com
 browse.startpage.com
 eu-browse.startpage.com
 eu2-browse.startpage.com
-proxy2.startpage.com
+0690507e4c69e7d1da0e56cd7e7ce768c6ae2a37-m.proxy2.startpage.com
+071b0b75a8a0dea3d3266cf4c27e4e9cc5904bf1-m.proxy2.startpage.com
+0f10a5be06a8728acc04117db4ae585eeb6f0a7c-m.proxy2.startpage.com
+1072af3707c6acd58e5b31b7095c59e68e2cab2d-m.proxy2.startpage.com
+51adaa24950b5ae734d2e0c57de066a594b4f26c-m.proxy2.startpage.com
+5e09fc93ce99c78b65a1f1f59dfd4ef1642c43e0-m.proxy2.startpage.com
+787c4a5adcddca0674ecfe0dddd514d2d46139d4-m.proxy2.startpage.com
+919c91e2bf0e1a45ad4a5675d820e77eca24f2ca-m.proxy2.startpage.com
+9531846e6bbd581c5786e61dd1929a979ff3cdee-m.proxy2.startpage.com
+954caece8378ac5993d56437e3c9eabf5593ee43-m.proxy2.startpage.com
+aa0306afdb78e7bd45ae0c0ac008ed4e7827095c-m.proxy2.startpage.com
+afb330044df935dd0d3d998ce999e29fa847e2a4-m.proxy2.startpage.com
+c4f92c1c6b0cfd3cf7d1582c561b728430f5a1b1-m.proxy2.startpage.com
+c7ec4c1f196105611cb035607ecdf874eac6fa0c-m.proxy2.startpage.com
+c88cdace3108b445cacaa7c96d5f3507d9ba59dd-m.proxy2.startpage.com
+cbd855fe64108c251da311b0c94438636a668b4f-m.proxy2.startpage.com
+dbe14ae5b635e8745edd60c8c064b63a7b074d95-m.proxy2.startpage.com
+e5cc9434802fe531b5916b71cdf9e1d506927e54-m.proxy2.startpage.com
+ec6d7472a3e10dd9568350e6be2d78e2af6419f1-m.proxy2.startpage.com
+f98314bb4bfefd128071d499a0540af5055eef07-m.proxy2.startpage.com
+f9884876a65d888ab3744c2323f37a32e9151dd6-m.proxy2.startpage.com
+fa3dcdb34df035071c8ea603f4fa906f8a98c276-m.proxy2.startpage.com
+session.proxy2.startpage.com
 proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
@@ -3812,7 +3790,6 @@ welcomemessigoat.strangled.net
 dns.strassmair.org
 streamvia.com
 streamvpn.com
-you.know.that.im.strokin.it
 pleasekeep.strokin.it
 strongvpn.com
 class.proof.studiovk.com
@@ -3884,7 +3861,6 @@ surprise.pics
 surtshark.com
 dns.sv-zauner.at
 dns.svoi.dev
-poptee-liawheufhwae-awef.swanndvr.net
 popteeeee-lkshfeakwueh-ew.swanndvr.net
 ramm-ume-pro.swanndvr.net
 rammerhead-10.swanndvr.net
@@ -4064,8 +4040,6 @@ tor2web.io
 tor2web.it
 tor2web.org
 tor2web.ru
-tor2web.su
-tor4pay.com
 torguard.biz
 torguard.net
 torguard.org
@@ -4676,7 +4650,6 @@ wlvpn.com
 wobti.com
 lilliwnnapfeswa9z.wolnoscwkieszeni.pl
 wonderland.ws
-clearweb.woodbridge.club
 woodenclock.us
 shop.woodworker.cl
 workbypass.com
@@ -4787,7 +4760,6 @@ zakaria.website
 zalmos.com
 learning.zanity.net
 bananakun.zapto.org
-hudzonlzzzzzhj.zavoj.ch
 tststststststststststststststststststststs.zavoj.ch
 xyz.zaylovesparker.xyz
 zburger.top
