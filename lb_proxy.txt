@@ -180,6 +180,7 @@ adresseip.com
 dns.adrianlam.com
 adsocialmediamarketing.com
 adultproxy.men
+advanced.name
 builtlikearat.advanced-orchestra.site
 piie.advanced-orchestra.site
 advancedvpn.com
@@ -240,6 +241,7 @@ outsideproxy-2-9f1b1809ba7c1b7a.elb.us-east-1.amazonaws.com
 i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 dsl-app.s3.us-east-2.amazonaws.com
 american-proxy.com
+americanvpn.org
 americaproxy.info
 amirabbasmousavi.news
 mailer.amlegion.org
@@ -485,7 +487,9 @@ blockaway.net
 blockedsiteaccess.com
 doh.blockerdns.com
 blockless.com
+dailyproxylist24.blogspot.com
 new-proxy-sites.blogspot.com
+pro0oxy.blogspot.com
 ukvpns.blogspot.ru
 dns.blokada.org
 bloquer.fr
@@ -1059,7 +1063,6 @@ dns.decky.eu
 www-plo.declan-reid.me
 dns.decloudus.com
 lol-asha.dedyn.io
-deep-henchman-excuse.cfd
 deepwebvpn.net
 doh.defaultroutes.de
 colson.defcon-industries.com
@@ -1345,6 +1348,7 @@ easyvpn.com
 easyvpn.zone
 ebookdz.com
 ebumna.net
+echolink.org
 echous.info
 ecoweb-network.com
 ecxs.asia
@@ -1465,6 +1469,7 @@ fastproxynetwork.com
 fastssh.com
 fasttime.info
 fastusaproxy.com
+fastvpn.com
 fastvpn.im
 fastvpn.me
 favoriteshoes.us
@@ -1525,6 +1530,7 @@ dns01.flm9.net
 ns1.flodns.net
 ns2.flodns.net
 resolv.flokinet.net
+floppydata.com
 dns.floriantinney.de
 flowvpn.com
 agh.fltn.us
@@ -1595,6 +1601,7 @@ freeproxy.me
 freeproxy.top
 freeproxy.win
 freeproxyaccess.com
+freeproxylist.ru
 freeproxyserver.co
 freeproxysites.co
 freeproxyunblockyoutube.com
@@ -1647,7 +1654,6 @@ cluster-1.gac.edu
 bu-abdulla.gafton.eu
 galacticspace.galaxysoft.ro
 dns.gamban.com
-adguard.gambini.org
 proxy.gamecove.net
 gamers-nor.com
 work.quiz.gamersuk.org
@@ -1671,6 +1677,8 @@ play-games-at.geometry-games.online
 rammerhead.geometry-games.online
 shameless-plug-for.geometry-games.online
 unblocked-games-at.geometry-games.online
+geonix.com
+geonode.com
 vocab.media.georgas.org
 geosurf.com
 geosurf.io
@@ -2565,6 +2573,7 @@ msr177.com
 dns.msxnet.ru
 mtagprox.com
 dns.mtoo.vip
+mtpro.xyz
 ns.mtsoln.com
 muchproxy.com
 mullvad.net
@@ -2631,7 +2640,6 @@ mywebtunnel.com
 area51.mywire.org
 fwgw.orangepipc.mywire.org
 mzhlhrfr8z.info
-dns.mzjtechnology.com
 dns.mzrme.cn
 dns.n23.io
 recap.class.nadiaplatform.com
@@ -2704,6 +2712,7 @@ unblocker.netlify.app
 netnut.io
 netscop.net
 netsneak.com
+netvpn.app
 netvpn.us
 dns.netvpn.net
 gym.clas.swork.networkindia.com
@@ -2760,6 +2769,7 @@ sink.nolo.ltd
 paulo.nom.za
 ttag.dns.nomu.pw
 kiri.nonexiste.net
+noodlevpn.com
 nordaccount.com
 nordcdn.com
 gg.nordparrot.ro
@@ -2788,6 +2798,7 @@ nice.noviolencia.ar
 poiuytrewq.novipro.ca
 nowcache.com
 nowhiteflags.xyz
+noyourmean.xyz
 dns.npe.bz
 dns.npsolution.it
 nqma.net
@@ -2992,6 +3003,7 @@ peoplesproxy.com
 pepetio.xyz
 school.pepikutan.net
 perfect-privacy.com
+zealginjoka.periodico.am
 perlproxy.com
 homework.maths.percentages.perona.cl
 darya.persiannit.net
@@ -3204,6 +3216,7 @@ proxy-2014.com
 proxy-best.com
 proxy-bypass.com
 proxy-german.de
+proxy-internet.info
 proxy-n-vpn.com
 proxy-search.com
 proxy-seller.com
@@ -3213,6 +3226,7 @@ proxy-youtube.com
 proxy0101.com
 proxy2link.com
 proxy4free.me
+proxy5.net
 proxy62.com
 proxy7.club
 proxyadult.org
@@ -3230,6 +3244,7 @@ proxycloud.net
 proxycloyd.com
 proxycompass.com
 proxycroxy.site
+proxydb.net
 proxydrop.com
 proxydude.red
 proxydude.xyz
@@ -3239,6 +3254,7 @@ proxyen.com
 proxyer.net
 proxyfactory.io
 proxyfish.com
+proxyflows.com
 proxyforfree.eu
 proxyfort.com
 proxyfree.org
@@ -3272,12 +3288,15 @@ proxyprivate.info
 proxyproxy.net
 proxypx.com
 proxypy.org
+proxyrooms.com
 proxyroxy.net
 proxysan.info
+proxyscope.com
 proxyscrape.com
 proxyserver.buzz
 proxyserver.com
 proxyserver.rocks
+proxyserver-free.com
 proxyserverlist24.top
 proxyshare.com
 proxysheep.com
@@ -3293,6 +3312,7 @@ proxysite.site
 proxysite.top
 proxysite.us
 proxysite.video
+proxysitelist.net
 proxysneak.com
 proxysurfing.org
 proxythis.info
@@ -3377,6 +3397,7 @@ boxcat.radio-zvez.info
 testsite.radiohapure.com
 radmin-vpn.com
 radmin-vpn.org
+radminvpn.org
 7afootball.rainbowcup.com
 ns.ral9005.org
 rapidprivacy.com
@@ -3409,6 +3430,7 @@ redhoodie.site
 redproxy.info
 applet.redragon.net
 education.redragon.net
+redschool.info
 redshieldvpn.com
 dns.redvau.lt
 reezus.us
@@ -3452,6 +3474,7 @@ rockwell.website
 dns.roedel.cloud
 romirely.tech
 dns.ronc.ru
+roodel.com
 roogen.com
 roonyx.com
 what.the.aw.root.sx
@@ -3549,6 +3572,7 @@ sec-tunnel.com
 dns.sec511.com
 quiz.teach.secold.com
 secretbrowser.net
+secretproxy.org
 secretsline.biz
 secretsline.org
 secure-vpn.com
@@ -3573,6 +3597,7 @@ imendez.sehol.eu
 dns.seia.io
 dns.seiffert.me
 dns.sellan.fr
+kaelixdebonair.semioptimal.net
 adguard.senthil.us
 dns.serdcebolit.ru
 dns1.serdcebolit.ru
@@ -3797,6 +3822,7 @@ stopcensoring.me
 stormproxies.com
 dns.stormycloud.org
 whatisfunanymore.com.strangled.net
+gyaaat.strangled.net
 squidward.strangled.net
 dns.strassmair.org
 streamvia.com
@@ -3863,6 +3889,7 @@ surfskip.com
 surfsneaker.com
 surfsuark.com
 surfwebsite.org
+surprise.pics
 surtshark.com
 dns.sv-zauner.at
 dns.svoi.dev
@@ -3875,6 +3902,7 @@ switch.ch
 switchvpn.com
 switchvpn.net
 swordvpn.com
+swoshsvpn.com
 dns.sy.st
 nexsos.syac.ca
 dns.syaifullah.com
@@ -3967,6 +3995,7 @@ theproxyer.com
 theproxyfull.com
 theproxyguide.com
 theproxysite.org
+theproxysports.com
 theproxyultra.com
 therabbitvpn.com
 dns.therifleman.name
@@ -4073,11 +4102,13 @@ illegals-in-my-yard.trustmi.cl
 truta.org
 dns.tryk.app
 arxthegoat.ts0880.es
+seible.tsurukawa.org
 doh.ibr.cs.tu-bs.de
 tubeprox.com
 tubeunblock.me
 tubeunblock.net
 tujenasnaszato.xyz
+freodore.tulanerw.org
 tunnelbear.com
 turbohide.org
 turbossh.com
@@ -4157,6 +4188,7 @@ unblockandsurf.com
 unblockanything.com
 unblockblocked.net
 unblockbook.biz
+unblockdirect.com
 unblocked.ac
 unblocked.africa
 unblocked.asia
@@ -4212,6 +4244,7 @@ unblockedsite.pw
 unblockedsite.xyz
 unblockedsiteroute.com
 unblockedsites.net
+unblockedsites.org
 unblockedstreaming.net
 unblockedstreaming.org
 unblockedv4.com
@@ -4280,6 +4313,7 @@ unknownproxy.com
 unlimitedvpn.net
 unlimitedvpnapp.com
 unlocator.com
+unlocklab.io
 unmoor.com
 unrestrict.me
 unrestrictedsurf.com
@@ -4342,7 +4376,9 @@ uswebproxy.com
 utopianpal.com
 utunnel.io
 uvpn.me
+bythebeat.uwgraduation.org
 v.recipes
+edge-v6x.v6.rocks
 dns.vaioswolke.xyz
 doh.valscosmos.com
 valuepremium.us
@@ -4425,7 +4461,6 @@ solidscience.virkamafia.fi
 virtual-browser.com
 call.virtualline.com
 virtualshield.com
-dns.vishalk.com
 vitaproxy.com
 encryption.vlad.md
 vload.net
@@ -4439,6 +4474,7 @@ vornz.com
 vpernet.com
 vpn.ac
 vpn.asia
+vpn.com
 vpn.express
 vpn.ht
 vpn.lat
@@ -4454,6 +4490,7 @@ vpn-professional.company
 key.vpn38.ru
 vpn4all.com
 vpn99.net
+vpnacademy.com
 vpnaccounts.com
 vpnanonym.info
 vpnapp.info
@@ -4463,6 +4500,7 @@ vpnbaron.com
 vpnbook.com
 vpnbookpk.com
 vpnbrowse.com
+vpncenter.com
 vpncentral.com
 vpncity.info
 vpnclientapp.com
@@ -4498,6 +4536,7 @@ vpnmonster.ru
 vpnneo.com
 vpnoneclick.com
 vpnonelove.ru
+vpnonline.com
 vpnoverview.com
 vpnpie.org
 vpnplus.to
@@ -4505,6 +4544,7 @@ vpnprivacy.com
 vpnprivacy.services
 vpnpro.com
 vpnproxy.online
+vpnproxy.org
 vpnproxy.pw
 vpnproxy.site
 vpnproxymaster.app
@@ -4758,6 +4798,7 @@ zerotunnel.com
 zerovpn-app.com
 zexusdigital.online
 dns.zfsystem.tech
+zippyproxy.com
 oh.zjhmz.cn
 doh.zknt.org
 zonevpn.com
