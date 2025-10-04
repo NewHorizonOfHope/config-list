@@ -12,7 +12,6 @@ dns.0ooo.icu
 0x3d.lu
 dns.0x55.net
 hk.100992.xyz
-1010000.online
 jp2.101818.xyz
 seoul.101818.xyz
 sg.101818.xyz
@@ -54,7 +53,6 @@ sg.101818.xyz
 123ultraproxy.com
 123unblocked.com
 12vpx.com
-liverpoolontop.1337.cx
 dns.13evl.com
 dns1.13evl.com
 hk-nnss.150076.xyz
@@ -78,7 +76,6 @@ vpn.1xtrm.com
 adhome.2011101.xyz
 onetwobucklemyshoethreefourbucklesomemore56nike.2022yw.com
 220913.xyz
-dns.23-4.cn
 233py.com
 t2c.240130034.xyz
 dns.240527.xyz
@@ -101,10 +98,8 @@ dns.2poi.com
 2proxyweb.com
 dns.2t9.de
 2ub.top
-30t.online
 doh.30x.me
 dns.320888.xyz
-dnsjp.3300000.xyz
 dnstr.3300000.xyz
 dnstw.3300000.xyz
 dnsyg.3300000.xyz
@@ -267,7 +262,6 @@ adsocialmediamarketing.com
 adultproxy.men
 y3suyx0cg2lewi2dmn.advaitghaisas.in
 advanced.name
-builtlikearat.advanced-orchestra.site
 advancedvpn.com
 tetra.aeins.at
 dns2.afastserver.com
@@ -297,8 +291,6 @@ dns.alanpearce.eu
 dns.albony.xyz
 aldhaferi.store
 dnsnl.alekberg.net
-dnsnl-noads.alekberg.net
-dnsse-noads.alekberg.net
 agh.alematho.de
 ag.alexf.cc
 diskstation.alexpollard.net
@@ -313,7 +305,6 @@ dns.aliyun.com
 httpdns-api.aliyuncs.com
 httpdns-sc.aliyuncs.com
 alleesph.online
-huieurammarda.allez.la
 dns.alloxr.info
 micro.alloxr.info
 vps.alloxr.info
@@ -494,7 +485,6 @@ home.azagra.dev
 vdsn-nl-2.azatmutq.com
 dns.azcom.dev
 learn.azimei.cn
-teachers.azimei.cn
 azirevpn.com
 doh.azoris.ovh
 dns.azsopro.net
@@ -518,7 +508,6 @@ dns.b612.me
 dns.b72.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 baconmania.click
-westhamforever.bad.mn
 filter.badbotdev.xyz
 dns.bai0012.com
 dnscdn.bai0012.com
@@ -610,7 +599,6 @@ blacklogic.com
 essay.gov.blacknapkins.org
 dns1.blackrandcrf.ru
 blackvpn.com
-rx.blackxfiied.xyz
 fennec.blackyfox.net
 doh.de.blahdns.com
 2.dnscrypt-cert.blahdns.com
@@ -704,11 +692,6 @@ dns.brionesserver.net
 britishproxy.com
 agh.broaddy.com
 dns.brono.cloud
-blooket.broomleigh.org
-classroom.broomleigh.org
-goguardian.broomleigh.org
-linewize.broomleigh.org
-schoolwork.broomleigh.org
 brovpn.io
 browsec.com
 browser.lol
@@ -770,7 +753,6 @@ catdns.org
 sg-119.cattery.work
 alidns.cb1999.top
 alidns2.cb1999.top
-cbentertainment.online
 dns2.cbio.top
 doh.ccb-net.it
 fukuda.ccnt.fr
@@ -978,7 +960,6 @@ ca.doh.cloudveil.org
 us.doh.cloudveil.org
 dns.cmrg.net
 adguard.cnbeining.com
-pope.cnblw.me
 doh.cnetwork.cloud
 10bestvpn.co.uk
 adguard.aa4.co.uk
@@ -1049,7 +1030,6 @@ doh.tsmu.co.id
 uk-proxy.co.uk
 unblocksites.co.uk
 dns1.understandingcyber.co.uk
-academy.velolife.co.za
 vpn-proxies.co.cc
 vpn-services.co.cc
 vpncompare.co.uk
@@ -1104,11 +1084,9 @@ blackhole.gugainfo.com.br
 dns.hub.com.de
 adguardcloud.iasm.com.ar
 doge.intinet.com.ar
-dns.joaofidelix.com.br
 dnssp.koretech.com.br
 arrakis.korolyzer.com.br
 lothuscorp.com.br
-packetyo.nanbang.com.tr
 dns.netraptor.com.au
 new-proxy.com.de
 dns.oceanprint.com.br
@@ -1235,7 +1213,6 @@ cybersilent.com
 cyberssh.com
 dns.cybertonic.tech
 dns2.cybrespace.net
-cynntex.fun
 dns.cynthialabs.net
 dns.d365.in
 s2.d3mik.ru
@@ -1265,7 +1242,6 @@ mail.data.haus
 ns.data.haus
 databay.com
 plans.datacommunicationsinc.com
-doh.datacore.ch
 doh.datahata.by
 datatech.icu
 dns.datenquark.de
@@ -1332,7 +1308,6 @@ frank-web.dedyn.io
 k03.dedyn.io
 lol-asha.dedyn.io
 dns.deekshith.in
-deep-henchman-excuse.cfd
 deepwebvpn.net
 doh.defaultroutes.de
 wutidontunderstand.defdc.com
@@ -1541,7 +1516,6 @@ slc01.dnscry.pt
 sof01.dnscry.pt
 sto01.dnscry.pt
 sto02.dnscry.pt
-syd01.dnscry.pt
 syd02.dnscry.pt
 tbs01.dnscry.pt
 tia01.dnscry.pt
@@ -1668,42 +1642,17 @@ dns.dualhosting.eu
 yukito.duanzx.top
 duapps.com
 duba.net
-ad1guard.duckdns.org
 adgrm.duckdns.org
 adguardpi.duckdns.org
-aduma15.duckdns.org
-armm.duckdns.org
-bitly-galatikx.duckdns.org
-cdzopi.duckdns.org
-derekcastle.duckdns.org
-dorkanddoodle.duckdns.org
-eweyo.duckdns.org
-genielee.duckdns.org
 huawaakiskokoa.duckdns.org
-jfeoks.duckdns.org
 jurre-home.duckdns.org
-kalwat.duckdns.org
 kiwifunke.duckdns.org
-kolobok2.duckdns.org
 krtekvpn.duckdns.org
-ldaman.duckdns.org
-leoadguard.duckdns.org
 morgenegg.duckdns.org
-nas1403.duckdns.org
-nqh-dns.duckdns.org
-o--o.duckdns.org
 osefcorp.duckdns.org
-pitchforkwaydns.duckdns.org
 punono.duckdns.org
-quanmeme.duckdns.org
-salvadoserver.duckdns.org
-site-2.duckdns.org
 tungdnsne.duckdns.org
 unixfox.duckdns.org
-wisehomeguard.duckdns.org
-workcavestl.duckdns.org
-x-o-x.duckdns.org
-x861g.duckdns.org
 georgetown.duia.us
 duii.de
 dukun.de
@@ -1762,8 +1711,6 @@ doh.eddi.net
 dns.edgeburnmedia.com
 edgedcircles.com
 dns.edgeworkssystems.ca
-dns.edgy.network
-dns.edison42.dev
 edpuzzle.space
 agh.amber.edu.vn
 dns.tuna.tsinghua.edu.cn
@@ -1782,7 +1729,6 @@ elephantvpn.com
 elgatobypasses.org
 eliatofani.ovh
 dns.eliv.kr
-dns.ellichua.com
 emban-networks.com
 nas.embraced.co
 emeraldeyex.dev
@@ -1844,8 +1790,6 @@ jp.dns.bliod.eu.org
 clic.eu.org
 resolver.dns.eban.eu.org
 doh.excdn.eu.org
-dns.de.futuredns.eu.org
-dns.us.futuredns.eu.org
 doh.greenwood.eu.org
 sweethome.in.eu.org
 fullaccesstointernet.jp.eu.org
@@ -1900,8 +1844,6 @@ socchanpxy.f5.si
 jp1.f7b6h9.tk
 dns.f97.xyz
 faceless.me
-proxy.facil.wtf
-www-proxy.facil.wtf
 pdns.faelix.net
 rdns.faelix.net
 dns.fahr.in
@@ -1970,7 +1912,6 @@ fiberproxy.net
 fiberproxy.us
 fidelius.top
 dns.fifux.be
-vps.filatov.link
 filesdownloader.com
 dns.filipccz.eu
 filipinoray.com
@@ -2015,7 +1956,6 @@ flyvpn.com
 hk154.flyzhouyc.win
 jp193.flyzhouyc.win
 st.flyzhouyc.win
-schoolnotes.followork.net
 gateway.fomichev.cloud
 for-privacy.net
 rf4.forestberrypi.com
@@ -2172,7 +2112,6 @@ adg.geili.me
 nodes.gen4.ninja
 genmirror.com
 genscorp.es
-geoguessr.lol
 adfree-games-at.geometry-games.online
 browser.geometry-games.online
 play-games-at.geometry-games.online
@@ -2292,7 +2231,6 @@ gostarlight.xyz
 gotoproxy.com
 fisdinstructure.gotroot.pw
 gotrusted.com
-fractioncaculator.govt.hu
 gowork.info
 gpreport.us
 gracarno.com
@@ -2304,7 +2242,6 @@ cloud.graphicpoint.pl
 gratisproxy.nl
 gratisvpn.com
 graveofhope.ru
-greatestfreeproxy.com
 dns.green-ping.lol
 adguard.green1052.com
 greenproxy.net
@@ -2333,10 +2270,8 @@ guavi.com
 guestappearance.us
 guidetoworld.link
 dns2.guidocioni.it
-intertravel.guillaumevanstrydonck.be
 homedns.gumeniuk.com
 gumm.org
-domain.guojinloong.cn
 dns.gupthabrothers.in
 guruproxy.net
 dns.gussguss.ovh
@@ -2346,7 +2281,6 @@ gvirabi.com
 gwopboyded.com
 gztech.me
 h-vpn.org
-schoolnotes.h0rst.us
 dns.h0schi.cloud
 dns2.h0schi.cloud
 potatojuice.h0stname.net
@@ -2356,7 +2290,6 @@ adg-nl.h4nt3r.com
 adg-swe.h4nt3r.com
 adguard.h4nt3r.com
 furnandoistrans.hackquest.com
-gopeople.hackquest.com
 ns1.hadan-dns.de
 dns.hahnjo.de
 dns.haka.se
@@ -2391,7 +2324,6 @@ heavenorhell.ru
 dns.hee.ink
 carolinareaper.heeremans.net
 office.heimtec.com
-us-ny-alula.heliumcloud.cc
 sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 dns.hellozhao.com
 helphideme.com
@@ -2472,7 +2404,6 @@ ns2.hjk.kr
 ns2.hjk.me
 jpdns.hker.me
 hmavpn.com
-dns.hnsfwlkj.com
 dns.ho.al
 adguard.hoangcongchuc.com
 pihole1.hoerli.net
@@ -2622,7 +2553,6 @@ rhp.ilove4ndan.com
 ilumu.com
 ilysk.lol
 dns.imaicool.com
-doh.imaletion.de
 noads.imbuffering.com
 dns.imchristian.de
 dns1.imkvq.com
@@ -2645,7 +2575,6 @@ incog.works
 adblock.indianets.net
 indiaproxy.win
 indo-ssh.com
-dns.indust.me
 dns.indybanipal.com
 dns.inforlogia.com
 doh.infracell.net
@@ -2665,7 +2594,6 @@ inpssh.online
 qlf-doh.inria.fr
 d1.insec.link
 srv.insec.link
-dns.insigne.solutions
 premiumtier-network.instadart.net
 instant-vpn.com
 instantunblock.com
@@ -2681,7 +2609,6 @@ dns.invent.hr
 invisv.com
 ion.pm
 dns.cloud.ionutl.ro
-dns.ios.so
 ioxy.de
 iozoi.cn
 ipbuzz.net
@@ -2809,7 +2736,6 @@ vps2.jnraptor.net
 home.jobytan.com
 dns.joey01245.nl
 vpn.jogjacloud.com
-adguard.johanliebert.top
 dns.johndave.me
 johneldenring.lol
 child.joindns4.eu
@@ -2817,7 +2743,6 @@ child-noads.joindns4.eu
 noads.joindns4.eu
 protective.joindns4.eu
 unfiltered.joindns4.eu
-joker81fansbase.site
 opencdn.jomodns.com
 joouddo.ru
 josephfamily.org
@@ -2847,7 +2772,6 @@ justahotm3ss.xyz
 ad.justincounts.com
 dns.justinnetworkingsolutions.com
 sciencerocks.justlearning.net
-gcpsk12.k.vu
 uto1.k.vu
 adguard.k-likhachev.ru
 kind-fox-975.k12biology.com
@@ -2886,7 +2810,6 @@ doh.kel.pe
 kellerbier-home.com
 dns.kellys.pw
 kennethhuang.com
-kepard.com
 dns.kerekes.xyz
 dns.kernel-error.de
 dns.kescher.at
@@ -2949,7 +2872,6 @@ dart.kpsn.org
 dns.kpsn.dev
 pips.kpsn.org
 adblock.krctech.dev
-dns.kremzein.com
 dns.kriswerry.nl
 xray.krnl.eu
 dns.krol.cloud
@@ -2963,7 +2885,6 @@ dns.kukal.cz
 agh.kul-lippek.de
 dns.kusoneko.moe
 dns.kuuhaku.moe
-kx-97795-tr.xyz
 dns.kxy.ink
 dn.kyay006.cn
 joah-is-trash-at-f.o.r.t.n.i.t.e.kyleton.org
@@ -3103,7 +3024,6 @@ doh.lujiacai.top
 lukscasino-542-tr.xyz
 dns.lululu.dev
 dns.luma-medien.com
-lumes.jp
 luminati.io
 luminatinet.com
 pure.lunetra.online
@@ -3220,7 +3140,6 @@ httpdns.meituan.com
 httpdnsvip.meituan.com
 dns.melvin2204.nl
 membean.cf
-mendozasdelivery.com
 meowless.club
 researchedu.mesaayuda.net
 testaghome.meshkov.info
@@ -3253,7 +3172,6 @@ rwkdwpwsyv48.mikopono.nl
 ukns.milangas2.top
 dns.milkpie.one
 hihihi.minecraftnoob.com
-nibba.minecraftnoob.com
 aitkcrev.minhduc.pw
 minilla.store
 miniprox.com
@@ -3282,7 +3200,6 @@ dot.modsh.top
 doh.us.moe.tips
 www-nsc.moebh.me
 adguard.mokocup.dev
-only-shooting-stars-breakthe.moldeo.org
 dns.molinero.dev
 naganohara-yoimiya.momokko.moe
 dns.momou.ch
@@ -4851,6 +4768,7 @@ eu3-browse.startpage.com
 164987e3dc5cdead4517d6b41b351350511fa221-m.proxy1.startpage.com
 174c8fa65cd6b7fac5897fcdf081a0a2318906ce-m.proxy1.startpage.com
 17aeee9cab8fe2aab6b232374575bd4a344c6d03-m.proxy1.startpage.com
+17d11d2bcd052bc07994a929ac7acfe4fb181a6b-m.proxy1.startpage.com
 19712f858fb7e3b2a7c23fa857d1dd134c584100-m.proxy1.startpage.com
 198df4ee5c185033c54e71305655c23dcc7d0a6d-m.proxy1.startpage.com
 19a103392abc58aec85cb811e83c7c2d1c89d4a9-m.proxy1.startpage.com
@@ -4863,6 +4781,7 @@ eu3-browse.startpage.com
 1d7f29b81fcff09000f4b0a2ce3b79f4e9eb6ba8-m.proxy1.startpage.com
 1da3039999eef23268f366d38fab7b02e2493014-m.proxy1.startpage.com
 1dc81c8f207454e8c788111ac09bc625cd86c845-m.proxy1.startpage.com
+1de65412233667b66758ddfd150cb19d967a26c7-m.proxy1.startpage.com
 1ec77e2dbde34d1231044f933724008165b0cbf2-m.proxy1.startpage.com
 20374040a718112b4aaffa7c8b5c9a7b34101f5b-m.proxy1.startpage.com
 20715f4a4fb0ae1e41fb82a3aa35b9d8acf60d5c-m.proxy1.startpage.com
@@ -4928,6 +4847,7 @@ eu3-browse.startpage.com
 3d5012d580d29efcf056d347832a4f75754e7040-m.proxy1.startpage.com
 3de85a0e6202015eb5296098a1ae0a16127ab7ce-m.proxy1.startpage.com
 3ecc406873fb0b3b127ff0c34eb4cd5765b724d2-m.proxy1.startpage.com
+3efce23f9ac1e02768c59fe864233853b9e25057-m.proxy1.startpage.com
 3f0c44bbaa89e8730fdb097b6dd5f5cd75d5b4c4-m.proxy1.startpage.com
 414e8134ee0888cf4c6d4801eafb985e2c6f1cf5-m.proxy1.startpage.com
 433df106f826e738a5ad1e020643feabfff329c7-m.proxy1.startpage.com
@@ -4966,8 +4886,10 @@ eu3-browse.startpage.com
 52bda1984884cf9403d98f8a61d15f4d5734178d-m.proxy1.startpage.com
 53dbbb2aeaa6f76aeb5ce5b31ba108756196138a-m.proxy1.startpage.com
 542cd7e8955076ba190959ce2326106019769c17-m.proxy1.startpage.com
+5468ae37b20a3253e508508bcb88c99b873b1254-m.proxy1.startpage.com
 54953a713d9d41256f1fe30c0609cc775c4f81c7-m.proxy1.startpage.com
 567d11bc5ee4f2e50aec24079bbcf8fde0812a21-m.proxy1.startpage.com
+57283c106f447e63e1b02a9badb22d20ffb7dd95-m.proxy1.startpage.com
 575750063bee0759e96952dde6fa1fbe98afdc7b-m.proxy1.startpage.com
 57de12720b8816744ebde5f9b541940aaa102271-m.proxy1.startpage.com
 580d7cac1af9e6f9160245a95f4a2c5f42240f8e-m.proxy1.startpage.com
@@ -5087,6 +5009,7 @@ eu3-browse.startpage.com
 92f7fab03957b8d9103c55e314768672b275cd01-m.proxy1.startpage.com
 93939528bfaef1d4f5cbdbb3bb52f8f873b4b305-m.proxy1.startpage.com
 93f905c136d60a6d49dbfc46491f7f0d80ffbf9b-m.proxy1.startpage.com
+946933079bf4e52a22a4d42cd40d3fcaf39f4d57-m.proxy1.startpage.com
 9487723323ac070068cc9dd9e9988dc122920c1a-m.proxy1.startpage.com
 94bd199683a2ddd6e268031f39e1f51062802e00-m.proxy1.startpage.com
 94ca3d67c88c715a0e15d3afff7f273e44a5fdfc-m.proxy1.startpage.com
@@ -5095,6 +5018,7 @@ eu3-browse.startpage.com
 954afd5f37fdb00c4b6224ddd36e81c047c9b51b-m.proxy1.startpage.com
 955f849095d97004c42324b89d9313ca797d565e-m.proxy1.startpage.com
 95d5f578e7c6250ca40b4d20c2d09af5e5b05abf-m.proxy1.startpage.com
+97ac93f43d42fbd7fa8b0f8c613dc0f77df8d081-m.proxy1.startpage.com
 97af652bddc193b2abc0875eea978d8c918894b9-m.proxy1.startpage.com
 97c2f0383181e75c68189a8dce68e958ee3f3ad6-m.proxy1.startpage.com
 990aecc433d7a473a1814b430a0baa985dcb304a-m.proxy1.startpage.com
@@ -5106,6 +5030,7 @@ eu3-browse.startpage.com
 9bd22204c23549f40e2e63d0adb3d84d1b80f382-m.proxy1.startpage.com
 9cc63b34a59c2694e1053d31e15e2c3deced436b-m.proxy1.startpage.com
 9d2f936e8e6a82c9420ee2ab2ec660acd40802f0-m.proxy1.startpage.com
+9d3e4f08dcea841fff36acd43cc232323cd010a8-m.proxy1.startpage.com
 9e87bef4f8fc0c149908bd0ec47446a43ac09ef1-m.proxy1.startpage.com
 9ee8e341bb21042f2e7a456671474b71611f049e-m.proxy1.startpage.com
 9f1a041971334f0bbecd0456119b03241a075457-m.proxy1.startpage.com
@@ -5228,6 +5153,7 @@ d2b5bf64d61e054b66a6e3cc8d1fc9d964ab275c-m.proxy1.startpage.com
 d2bdc045a9dd5fb58c044cd7ebb91e719223dc97-m.proxy1.startpage.com
 d35020607b89dad99052743b460ee7135df5caa7-m.proxy1.startpage.com
 d3aa4b70d77931ab38c753315dd55c630a9782cb-m.proxy1.startpage.com
+d3c59d36d390b4a1837cf247fc358bc28654ccd1-m.proxy1.startpage.com
 d4339d8babe1d2a7111743ca2c1ed6e000823a91-m.proxy1.startpage.com
 d4f482cf8daf3c8d4704bbd2c2ea384d92a77406-m.proxy1.startpage.com
 d56bb290e077c04b6dfedf0295a1eb0fac0e5a1d-m.proxy1.startpage.com
@@ -5242,6 +5168,7 @@ d867242d16cb10acc073242a12f0b1720914016e-m.proxy1.startpage.com
 d890a55ceeb9de6c52be430f665c872090158284-m.proxy1.startpage.com
 d8ba58564bef3a021fe82753175ffd430308d292-m.proxy1.startpage.com
 d96e7b9262e4c8d0757dd070cf126dbb5c5f9942-m.proxy1.startpage.com
+d9a14f91153268e10c57ca24f15ac8b96cd8e27e-m.proxy1.startpage.com
 d9ecfd0a68f205ec285a56628e090a98270ffbd0-m.proxy1.startpage.com
 dad15cf062e7bf1ee682c47b86d0650ad57eeb6f-m.proxy1.startpage.com
 dbb71d2a6c50f4c9e9e34932fed90e41fe01b718-m.proxy1.startpage.com
@@ -5252,6 +5179,7 @@ dcab538d9807121e1452f365d33d5c6ad370f6e1-m.proxy1.startpage.com
 dd57be2f4c7501735b7f8ad2c0e96f989d3c8afd-m.proxy1.startpage.com
 ddbbd8bbab889fff7b720781ba2e7e834ae6a7a9-m.proxy1.startpage.com
 de5f463136866a172f73d4d817b8eb491744038b-m.proxy1.startpage.com
+de658488f29f7c95c12bfd3da8084a3182aab6a6-m.proxy1.startpage.com
 dee9c1381f071fd280115d033d2c231f97aaa001-m.proxy1.startpage.com
 df12d60c30984b760442792d786d8016139063d9-m.proxy1.startpage.com
 df50a4d0276376a652669eb1cd087e5e921c322e-m.proxy1.startpage.com
@@ -5293,6 +5221,7 @@ f316cd7d910b994723c32fc871e4c6a91559637f-m.proxy1.startpage.com
 f3b8818f9449081dfcf730e4cebc5422ecd0b840-m.proxy1.startpage.com
 f471495b81d00289c3a600f544e445ce75854901-m.proxy1.startpage.com
 f484816493da801184c5c2103c2f617b721dbf2a-m.proxy1.startpage.com
+f49859b5b4f407921e1c30321f154a2b32854785-m.proxy1.startpage.com
 f4fcab66803adc7ef20dd82608a7a05790a7fb54-m.proxy1.startpage.com
 f5f164489ce28cd1cf1430317efd109bc6ea0e11-m.proxy1.startpage.com
 f70377b6468991006480ef2cbb1c769affb6fccf-m.proxy1.startpage.com
