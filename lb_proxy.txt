@@ -605,6 +605,7 @@ betterproxy.net
 bettervpn.com
 dns.bgeneto.com
 bgvpn.com
+dns.bibica.net
 dns.bibitos.cc
 bigma.org
 httpdns.bilivideo.com
@@ -1461,6 +1462,7 @@ dns0.eu
 doh.dns4all.eu
 doq.dns4all.eu
 doq64.dns4all.eu
+dns4eu.online
 dns4me.net
 adguard-koe.dns64.de
 aroeuyo.dns64.de
@@ -2092,6 +2094,14 @@ sena-and-jacob-yap-too-much.foxgateway.com
 small-kids.foxgateway.com
 stop-it-now-stop-it-now.foxgateway.com
 we-need-more.foxgateway.com
+de-d2.foxyfy.net
+de-f1.foxyfy.net
+dns.foxyfy.net
+es-ma.foxyfy.net
+jp-to.foxyfy.net
+ro-bu.foxyfy.net
+us-ny.foxyfy.net
+us-sj.foxyfy.net
 fptdns.site
 dns.family.fraiss.at
 v7.frame-one.cc
@@ -2429,6 +2439,7 @@ furnandoistrans.hackquest.com
 clean.hadan-dns.de
 ns1.hadan-dns.de
 ns2.hadan-dns.de
+secure.hafnova.com
 dns.hahnjo.de
 dns.haka.se
 dns.hakim.one
@@ -5199,7 +5210,9 @@ eu3-browse.startpage.com
 6384c550625d32cfeee266d5399218d309d39923-m.proxy1.startpage.com
 638b4f77d9568905cb2877ad1c13924bf1cb8205-m.proxy1.startpage.com
 63c64d569ff722e8b165469caaf71acd6f67532e-m.proxy1.startpage.com
+6449aad05f3657067d58409dc381b9f7a33e7d06-m.proxy1.startpage.com
 6450e02fd970dd27c6f69ed7365ecf9567ad0f5b-m.proxy1.startpage.com
+64ca72e383a34bcde74b9bb982def768b52f59b9-m.proxy1.startpage.com
 64fad6449038cc3f2ed0c2e08a887e349ba3c692-m.proxy1.startpage.com
 65e54fc1543d6e3edd120e5cc3cb1ae32f531181-m.proxy1.startpage.com
 66610bad163ebe76ee5d5c8c7dae494f8a84363a-m.proxy1.startpage.com
@@ -8139,6 +8152,7 @@ adguard.tcpu.io
 tcpvpn.com
 dns.teaminfo.fr
 dns-br.leonardo.tec.br
+tecdrive.site
 dns.techcpu.net
 dns1.techeasy.org
 adguard.techlike.in
@@ -8255,6 +8269,7 @@ tildenderek.store
 dns.timboeh.me
 timedns.net
 ad.timefine.org
+timetohide.me
 dns.timkevin.us
 timmes.nl
 adb.timnichollsphotography.com
@@ -8477,6 +8492,7 @@ unblocked4.com
 unblocked4.me
 unblocked5.com
 unblockedbay.com
+unblockedbrowser.com
 unblockedme.com
 unblockedonline.net
 unblockedproxy.info
@@ -8505,6 +8521,7 @@ unblockit.app
 unblockit.club
 unblockit.foo
 unblockit.ltd
+unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pro
@@ -8531,6 +8548,7 @@ unblocksites.org
 unblockvid.com
 unblockvideos.com
 unblockvpn.com
+unblockweb.biz
 unblockweb.co
 unblockweb.one
 unblockweb.org
@@ -8805,6 +8823,7 @@ vpnumbrella.com
 vpnunlimited.com
 vpnunlimitedapp.com
 vpnuse.com
+vpnv6.com
 vpnvip.com
 antispam.vpnvps.com
 vpnwebsite.com
@@ -9083,6 +9102,7 @@ dns.yuu-g.net
 yuvelirtut.website
 yuyuproxy.com
 dns.yuyz.net
+dns.yuzia.cc
 yxorproxy.com
 httpdns.gslb.yy.com
 dns.yyaan.com
