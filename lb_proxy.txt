@@ -904,7 +904,6 @@ cloudbenders.fun
 dns.cloudfiction.eu
 dns.233py.com.cdn.cloudflare.net
 dns.cloudflare.com
-ada.ns.cloudflare.com
 cloudflare-dns.com
 cloudflare-gateway.com
 api.cloudflareclient.com
@@ -1690,6 +1689,7 @@ doh.pub
 doh.sb
 doh.xyz
 dolopo.net
+domain.name
 domainownership.us
 adguard.domorome.wf
 dnsfilter.domotik.us
@@ -1833,6 +1833,7 @@ doh.eddi.net
 dns.edgeburnmedia.com
 edgedcircles.com
 dns.edgeworkssystems.ca
+edgy-dns.com
 edpuzzle.space
 agh.amber.edu.vn
 adblocker.institutobancario.edu.mx
@@ -3934,6 +3935,7 @@ dns.ours.luxe
 dns.ourvau.lt
 proxy.outred.dev
 overplay.net
+oversecure.ltd
 vps-1f675aa1.vps.ovh.us
 vps-33e5a7f3.vps.ovh.us
 ovpn.com
@@ -4816,6 +4818,7 @@ ofer.ox.sjtech.org
 iproyal.sjv.io
 skibidislicers.xyz
 plex.skin57.de
+skipdns.link
 skipns.com
 dns.skrep.eu
 dns.skrep.in
@@ -4951,6 +4954,8 @@ eu-browse.startpage.com
 eu1-browse.startpage.com
 eu2-browse.startpage.com
 eu3-browse.startpage.com
+proxy1.startpage.com
+proxy3.startpage.com
 s4-us2.startpage.com
 us1-browse.startpage.com
 us2-browse.startpage.com
@@ -5135,6 +5140,7 @@ thakkali.teej.xyz
 dns.tefuir0829.cn
 family.dns.teknoholistik.com
 dns.teknologiku.com
+homenet.telecomitalia.it
 dns.telekom.de
 d51538618.access.telenet.be
 guard.telesterion.de
@@ -5951,6 +5957,7 @@ x9fnzrtl4x8pynsf.com
 adguard.xandersalarie.com
 adb-home.xaoimoon.fr
 adb-wan.xaoimoon.fr
+xbcpb668.com
 dns.xcapenet.ru
 dns2.xcapenet.ru
 learn.xcloud.ar
