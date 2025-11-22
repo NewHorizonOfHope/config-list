@@ -245,6 +245,7 @@ adg.acrobyte.org
 adguard.acrobyte.org
 actmobile.com
 adampowell.pro
+adadad.adaptor.cl
 adbl-tslagter.nl
 adblockersite.com
 adblockluna.com
@@ -349,6 +350,7 @@ aluu.xyz
 kintoun.alves.cc
 dns.alvosec.com
 alwaysvpn.com
+bolting.alyaf.com
 amandahugnkiss.org
 amanvpn.com
 ec2-3-139-127-253.us-east-2.compute.amazonaws.com
@@ -555,7 +557,10 @@ sg-dns1.bancuh.com
 sg-dns2.bancuh.com
 barnabech.fr
 base99.com
+anamoxe.baselinux.net
 archlinuxisthebestlol.baselinux.net
+boltnirbytes.baselinux.net
+boltnixe.baselinux.net
 bootnbo.baselinux.net
 nirbolt.baselinux.net
 nirbyteproxbolt.baselinux.net
@@ -844,6 +849,8 @@ ougonokaze.cheftayebeh.ir
 qh.cheftayebeh.ir
 dns.chenu.ch
 adguard.chestnov.ru
+bolteducation.chiangmaiorganics.com
+alejandro-made-this-haha.chickenkiller.com
 coolkidd.chickenkiller.com
 jordanmadethis.chickenkiller.com
 grapesceleste.lobo.chickenkiller.com
@@ -905,6 +912,7 @@ closetruth.date
 dns.cloud-admin.xyz
 doh.cloud-sekeng.com
 dns.cloudfiction.eu
+meow.partedu.club.cdn.cloudflare.net
 dns.233py.com.cdn.cloudflare.net
 learn.wiki-edu.xyz.cdn.cloudflare.net
 dns.cloudflare.com
@@ -951,6 +959,7 @@ d25x2lo7c2cgcg.cloudfront.net
 d26hytpp1egyak.cloudfront.net
 d2aie540xlenvh.cloudfront.net
 d2bt0exxr0npbv.cloudfront.net
+d2cyx9a3blkf0d.cloudfront.net
 d2j70jcgnynkmz.cloudfront.net
 d2jt5ch84ucw3d.cloudfront.net
 d2lc4c1pqsbcnb.cloudfront.net
@@ -963,6 +972,7 @@ d2wkmoh47zvvhf.cloudfront.net
 d2xl5j5majlxvm.cloudfront.net
 d30jxbzqqg5c6b.cloudfront.net
 d30mgm21mrikqh.cloudfront.net
+d31cgxvz8e3t9x.cloudfront.net
 d32z5ni8t5127x.cloudfront.net
 d33nduswak3e8z.cloudfront.net
 d33xcky42h0olw.cloudfront.net
@@ -974,7 +984,9 @@ d39vupl819wjy5.cloudfront.net
 d3b4y213ksr6z5.cloudfront.net
 d3cegil552nnks.cloudfront.net
 d3da4vp433xioa.cloudfront.net
+d3dd5s5ob7khwz.cloudfront.net
 d3dfrde26093iw.cloudfront.net
+d3grgzrk7bgwh8.cloudfront.net
 d3h88i27t2k9za.cloudfront.net
 d3ld64f3x32q9b.cloudfront.net
 d3mbcglufa4kg4.cloudfront.net
@@ -987,11 +999,13 @@ d3vo8ia181ei2.cloudfront.net
 d4q7uy1bdj3do.cloudfront.net
 d560g3bzhkqrf.cloudfront.net
 d8ou8y123d5vy.cloudfront.net
+d9euurorvnlb5.cloudfront.net
 dac0miaxap05t.cloudfront.net
 dbneime5ub7kb.cloudfront.net
 dg98q1fqxxogp.cloudfront.net
 djx5taukzt3mb.cloudfront.net
 djzmgdkxnizyn.cloudfront.net
+dlernb6jn3kq7.cloudfront.net
 dmh2vhxzf0tuf.cloudfront.net
 dqwow4xvbctco.cloudfront.net
 dt4f1zrb25v4h.cloudfront.net
@@ -1010,6 +1024,7 @@ adguard-vn2.cloudmini.net
 9132706292.cloudns.be
 kirov.unicom.cloudns.be
 adguard.veanswart.cloudns.be
+bo.what.cloudns.nz
 zeusvps.cloudns.nz
 cloudnymous.com
 dns.cloudseriousshit.com
@@ -1129,6 +1144,7 @@ isekai.anime.com.my
 shinano.anime.com.my
 anonymous-proxy.com.de
 test.businessconnect.com.tr
+tome.carladutra.com.br
 dns.ceai.com.tw
 dns.cloud88.com.au
 dns.complianceauditores.com.br
@@ -1153,6 +1169,7 @@ uptime.injectoclean.com.mx
 dnssp.koretech.com.br
 arrakis.korolyzer.com.br
 lothuscorp.com.br
+bolteducation.navarajbudha.com.np
 dns.netraptor.com.au
 new-proxy.com.de
 dns.oceanprint.com.br
@@ -1221,6 +1238,7 @@ b.cpfrx.info
 c.cpfrx.info
 e.cpfrx.info
 www.i.cpfrx.info
+104-36-85-232.cprapid.com
 lmasalaka.crabdance.com
 nrusimha.crabdance.com
 rammerhead.crackerstreams.org
@@ -1404,7 +1422,6 @@ doh.denypradana.com
 adguard.depieri.net
 deproxyserver.com
 adguard.dervart.ru
-desec.io
 desertsand.us
 adguard.lege.despagne.net
 adguard.rennes.despagne.net
@@ -2253,6 +2270,7 @@ sm5q237c0.g666gle.me
 gabstorm.com
 cluster-0.gac.edu
 cluster-1.gac.edu
+bolt.galacticrouter.xyz
 sd.galaxysoft.ro
 myapps.instructure.com.galitec.es
 dns.gamban.com
@@ -2365,6 +2383,7 @@ ux.go20.cf
 go2proxy.com
 privacydns.go6lab.si
 goaslen.com
+boltisback.panel-laboralcj.gob.mx
 gobestvpn.com
 dns.goertz.digital
 goingthere.org
@@ -2788,6 +2807,7 @@ adguard01.dns.infrapod.nl
 adguard02.dns.infrapod.nl
 infvpn.com
 ingenmannsland.online
+bolt.inglap.com
 ininja.org
 apidns.kwd.inkuai.com
 httpdns.kwd.inkuai.com
@@ -3245,6 +3265,7 @@ lookingglass.site
 dns.loony-tech.de
 lopana.com
 deweerd.loseyourip.com
+bolt.louis-ip.com
 ddd.loukky.com
 lovekers.cn
 n5.lsasss.com
@@ -3316,6 +3337,7 @@ mapspublications.us
 dns.marasov.id
 dns.marbledfennec.net
 dns.marcbond.uk
+running.marchd.ru
 home.marcrnt.de
 sp.marieblazek.com
 ag.marschi.de
@@ -3507,6 +3529,7 @@ agh-jkt.santainetwork.my.id
 agh1.server.my.id
 agh2.server.my.id
 agh3.server.my.id
+dns1.server.my.id
 dns.velyn.my.id
 dns.vmath.my.id
 ssl-proxy.my-addr.com
@@ -3734,6 +3757,8 @@ ninjabrowse.com
 ninjacloak.com
 ninjavpn.io
 ninjaweb.xyz
+104-36-85-232.nip.io
+104.36.85.232.nip.io
 nirbytes.com
 doh.niyawe.de
 njal.la
@@ -3815,6 +3840,7 @@ dns.nubecita.biz
 dns2.nubecita.biz
 tech.vocab.nucktech.com
 nucleusvpn.com
+boltchillzone.nufszone.com
 doh.nukys.ca
 irgrdns.nullapp.xyz
 dns.nullgate.net
@@ -3963,6 +3989,7 @@ dns.otezz.net
 dns.ours.luxe
 dns.ourvau.lt
 proxy.outred.dev
+bolt.ovaa.cl
 overplay.net
 oversecure.ltd
 vps-1f675aa1.vps.ovh.us
@@ -4008,6 +4035,7 @@ papervpn.info
 paradise-human.shop
 dns.pari.network
 parkviewenglish.buzz
+meow.partedu.club
 pashagame456.com
 paskam.xyz
 a.passcloud.xyz
@@ -4090,6 +4118,7 @@ draco.plan9-ns2.com
 door.plasmadancer.ru
 play5r.com
 playproxy.com
+104-36-85-232.plesk.page
 secure-dns.pleumkungz.com
 thanos.pleumkungz.com
 gaia.plonknet.com
@@ -4109,6 +4138,7 @@ dns.pointless.chat
 pointtoserver.com
 polargrizzly.com
 joo.polishmc.pl
+upon.polishmc.pl
 polisitogel.beauty
 polisitogel.builders
 polisitogel.contractors
@@ -4475,6 +4505,7 @@ dns.api.rackspacecloud.com
 radmin-vpn.com
 radmin-vpn.org
 radminvpn.org
+looking.rainbowcup.com
 raj.pw
 ns.ral9005.org
 dns.ramansarda.com
@@ -4577,6 +4608,8 @@ roogen.com
 roonyx.com
 dns.root.me
 jaiguneeds.root.sx
+alishnekdi.rotorootie.net
+asimplesanirb.rotorootie.net
 dns.rotunneling.net
 rotvpn.com
 roundrockisd.online
@@ -4755,6 +4788,7 @@ alidns.session.pub
 dns.sethost.de
 setupvpn.com
 dns.sev.monster
+bolt-private.dmain.sevecom.com
 sf-helper.com
 pates.services.sfr.fr.casepp.sfr.fr
 sgdns.site
@@ -4963,6 +4997,8 @@ sshocean.com
 sshssl.com
 sshstores.net
 dns.sshub.win
+104-36-85-232.sslip.io
+104.36.85.232.sslip.io
 sslprivateproxy.com
 sslpro.eu
 sslpro.org
@@ -6003,6 +6039,7 @@ dns.tesem.dog
 testvpn.info
 adguard.tetnet.net
 cloud.tezoi.com
+bigchez.thailandhappiness.com
 thankvpn.com
 the-cloak.com
 thebestproxy.info
@@ -6140,6 +6177,7 @@ torrentproxy.net
 torservers.net
 torsona.com
 torvpn.com
+arnoldmiddleyk.totalcare.pk
 rn.totalcare.pk
 totallyacdn.com
 totalvpn.com
@@ -6152,6 +6190,7 @@ ebpmc.tplinkdns.com
 ngk81hc.tplinkdns.com
 dns.tracker.ink
 tradeadspace.info
+104.36.85.232.traefik.me
 trafflink.xyz
 traffmonetizer.com
 resolv1.trash.net
@@ -6179,6 +6218,7 @@ dns.truong.fi
 trust.zone
 dns.trust404.win
 trustedproxies.com
+andrewnotgay.trustmi.cl
 truta.org
 swe.try-dns.com
 dns.tryk.app
@@ -6662,6 +6702,7 @@ darkness.is.my.waifu.cz
 megumin.is.my.waifu.cz
 yunyun.is.my.waifu.cz
 waitfree.us
+44c.wakemeup.ru
 kailovefurries.wakemeup.ru
 walln.com
 wallpap.eu
@@ -6708,6 +6749,7 @@ webproxyusa.com
 scienceclasswork.webredirect.org
 scientist.webredirect.org
 shark-pan.webredirect.org
+104.36.85.232bolt.webs.vc
 webshare.io
 janvet.website.pl
 websitebypass.com
@@ -6941,6 +6983,7 @@ zendproxy.com
 zenmate.com
 zenrows.com
 zenvpn.net
+closetome.zeptoinitiative.org
 adguard-kartoffel.zernico.de
 zerotier.com
 oraclejp01.zerotorez.com
