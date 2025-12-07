@@ -465,6 +465,7 @@ himeko297.asuscomm.com
 xkariak.asuscomm.com
 dns.asysec.com
 adguardhome.atakorah.com
+pulsewire.atamanco.eu
 atlasvpn.com
 next.atomix.in
 vps.atomix.in
@@ -525,6 +526,7 @@ dns.b612.me
 dns.b72.com
 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 baconmania.click
+franzosen.bad.mn
 filter.badbotdev.xyz
 dns.bai0012.com
 dnscdn.bai0012.com
@@ -553,6 +555,7 @@ archlinuxisthebestlol.baselinux.net
 boltnirbytes.baselinux.net
 boltnixe.baselinux.net
 bootnbo.baselinux.net
+gnomedesktop44.baselinux.net
 nirbolt.baselinux.net
 nirbyteproxbolt.baselinux.net
 peninsulaeducation.baselinux.net
@@ -713,6 +716,7 @@ y9iiz61k4yu67jfgcx.boxathome.net
 boxpn.com
 adguard.boykevanvugt.nl
 adguard2.boykevanvugt.nl
+ram.br3xality.org
 dns.brahma.world
 bramka-proxy.pl
 bravedns.com
@@ -1412,7 +1416,6 @@ doh.denypradana.com
 adguard.depieri.net
 deproxyserver.com
 adguard.dervart.ru
-desec.io
 desertsand.us
 adguard.lege.despagne.net
 adguard.rennes.despagne.net
@@ -2070,6 +2073,7 @@ dns.fifux.be
 filesdownloader.com
 dns.filipccz.eu
 filterbypass.me
+learngeometryfr.fin-tech.com
 finchvpn.com
 fineproxy.org
 finevpn.org
@@ -2138,7 +2142,9 @@ jp-to.foxyfy.net
 ro-bu.foxyfy.net
 us-ny.foxyfy.net
 us-sj.foxyfy.net
+securly.com.fpr.net
 hotmoms.fpr.net
+turtlelover.fpr.net
 fptdns.site
 dns.family.fraiss.at
 frandcomfort.us
@@ -2910,6 +2916,7 @@ aghome.jcconnell.com
 dns.jcdn.site
 jcdns.fun
 dns.jd.com
+securly.com.jedimasters.net
 jellyvpn.com
 doh.jeroenhd.nl
 host.jerry-lee.uk
@@ -3284,6 +3291,7 @@ mabuktogel.marketing
 mabuktogel.properties
 mabuktogel.solutions
 v971850.macloud.host
+iloveshrek.madhacker.biz
 dns.mafyuh.io
 guard.magic-pics.tk
 magiccloak.net
@@ -3304,6 +3312,7 @@ malanser.ru
 dns.malhuda.com
 mallocapp.com
 mallocprivacy.com
+rc-1140.malskoy-med.ru
 dns.mandre.dev
 doh.manish.ltd
 adguard.manmademagic.com
@@ -3917,7 +3926,6 @@ openvpn.com
 openvpn-ssh.com
 httpdns.ocloud.oppomobile.com
 httpdns.push.oppomobile.com
-jacksunblocked.malam.or.id
 vercel.or-g.net
 dns.eu-frankfurt-1.oraclecloud.com
 dns.uk-london-1.oraclecloud.com
@@ -3938,7 +3946,6 @@ os4work.com
 oscnl.site
 dns.osmenoga.com
 wireguard.osmenoga.com
-tails.ospa.fi
 ospylac.com
 osqcsmm.shop
 adguard.ota.moe
@@ -4099,15 +4106,6 @@ pointtoserver.com
 polargrizzly.com
 joo.polishmc.pl
 upon.polishmc.pl
-polisitogel.beauty
-polisitogel.builders
-polisitogel.contractors
-polisitogel.cruises
-polisitogel.diy
-polisitogel.green
-polisitogel.hair
-polisitogel.living
-polisitogel.luxe
 polisitogel.show
 polisitogel.webcam
 vps.poly-tank.jp
@@ -4119,7 +4117,6 @@ portssh.com
 adguard.poster.place
 media.logic.postie.org
 potatovpn.io
-itrsa.poteica.com
 dns.powerbs.net
 doh.powerdns.org
 poxy.pl
@@ -4411,7 +4408,6 @@ httpdns.kg.qq.com
 dns.weixin.qq.com
 paydns.weixin.qq.com
 udns.weixin.qq.com
-qqmcfw.tech
 ns1.qquack.org
 log.qrsoft.ru
 dns.qrtz.club
@@ -4468,7 +4464,7 @@ raj.pw
 ns.ral9005.org
 dns.ramansarda.com
 drpepperisbetter.ramonmedina.net
-randn.ru
+clashsoccer.ranftl.org
 rapidprivacy.com
 rapidproxy.us
 rapidvpn.com
@@ -4564,7 +4560,6 @@ roodel.com
 roogen.com
 roonyx.com
 dns.root.me
-jaiguneeds.root.sx
 alishnekdi.rotorootie.net
 asimplesanirb.rotorootie.net
 dns.rotunneling.net
@@ -4594,9 +4589,7 @@ doh.runsel.id
 agh-yz.russel053.com
 drs.rustsword.com
 rustynailspace.com
-rusvpn.com
 rvpn.ws
-myapforums.rwbcode.com
 dns1.ryan-palmer.com
 vpn.rynet.link
 f1.dns.s3cure.me
@@ -4604,7 +4597,6 @@ s4m.tech
 s4m.xyz
 doh.sa-sa.eu
 doq.sa-sa.eu
-scienceforkids.saahee.cn
 adguard.app.sabino.pro
 sabzipolobamahi.nl
 sacarino.es
@@ -4652,7 +4644,6 @@ dns.homenet.saschagaspar.net
 vpn.satadru.dev
 saturnvpn.com
 dns.sbstructure.ir
-defsnldns01.sc-hosting.info
 ns1.sc-lezhi.com
 us.sc92.cn
 dns.scarx.net
@@ -4744,14 +4735,12 @@ servis4u.top
 dns.servizimv.it
 sescloud.club
 alidns.session.pub
-dns.sethost.de
 setupvpn.com
 dns.sev.monster
 bolt-private.dmain.sevecom.com
 sf-helper.com
 pates.services.sfr.fr.casepp.sfr.fr
 sgdns.site
-d2.shabi.icu
 shadeyouvpn.com
 shadowart.online
 shadowsocks.org
@@ -4793,7 +4782,6 @@ kind-magic-164.shuttleproxy.com
 kind-tiger-205.shuttleproxy.com
 old-soul-492.shuttleproxy.com
 nl.dns.shx.su
-itrsa.sic.al
 doh.sidnlabs.nl
 signsservers.ru
 dns.sildom.me
@@ -4805,10 +4793,6 @@ dns.simplylinux.ch
 dns.sindominio.net
 dns.sineone.icu
 sinesprox.cloud
-dnsovertls.sinodun.com
-dnsovertls1.sinodun.com
-dnsovertls2.sinodun.com
-dnsovertls3.sinodun.com
 sinovpn.com
 sitdns.com
 site2unblock.com
@@ -4841,7 +4825,6 @@ test2.adg.siudzinski.net
 test3.adg.siudzinski.net
 test4.adg.siudzinski.net
 adguard.sixxi.de
-made-by-itrsa.sjno.net
 ofer.ox.sjtech.org
 iproyal.sjv.io
 skibidislicers.xyz
@@ -4851,7 +4834,6 @@ skipns.com
 dns.skrep.eu
 dns.skrep.in
 gr.skrsteam.info
-dns.skrzypiec.pl
 skydragoness.com
 skyssh.co
 skyvpn.net
@@ -4916,7 +4898,6 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-03.spectrum.com
 spedo.co
-speeddns.top
 speedify.com
 speedproxy.online
 speedshare.app
@@ -5028,7 +5009,6 @@ studysurf.com
 stupidproxy.com
 la-doh.stuptech.com
 doh.sublime9.xyz
-start.succeed.cl
 doh.suche.org
 suedeproxy.info
 dns.suhaila.dev
@@ -5064,7 +5044,6 @@ surfcovertly.com
 surfdoge.pro
 surfeasy.com
 surfeasy.mobi
-thisisagreat.surfiesta.cl
 surfly.com
 surfmenow.com
 surfmo.com
@@ -5095,7 +5074,6 @@ surprise.pics
 surt.ovh
 surtshark.com
 dns.sv-zauner.at
-adguard.sverzhe.com
 svg33.eu
 dns2.svip.one
 dns.svoi.dev
@@ -5171,6 +5149,8 @@ vps.techrich.net
 dns.teckhawk.be
 tecworx.at
 sifu.tedbuy.com
+meow.teddynunyah.cfd
+rh.teddynunyah.cfd
 thakkali.teej.xyz
 dns.tefuir0829.cn
 family.dns.teknoholistik.com
@@ -5198,7 +5178,6 @@ dns.tesem.dog
 testvpn.info
 adguard.tetnet.net
 cloud.tezoi.com
-bigchez.thailandhappiness.com
 thankvpn.com
 the-cloak.com
 thebestproxy.info
@@ -5406,7 +5385,6 @@ tuxlervpn.com
 tvone.info
 duck.twilightparadox.com
 perdona.my.twilightparadox.com
-schoology2.twilightparadox.com
 twingate.com
 dns.twnic.tw
 twoproxy.net
@@ -5419,6 +5397,7 @@ u-proxy.com
 u8sj3.com
 ublocker.info
 v1.ufamax.eu
+studytimer.ufodns.com
 vless-service.ufodns.com
 ufovpn.io
 ufreevpn.com
@@ -5433,7 +5412,6 @@ ultimatepro.us
 ultimateproxy.net
 ultrabestproxy.com
 doh.ultradns.com
-ultrafastproxy.com
 ultrafun.net
 ultraproxy.biz
 ultrasurf.es
@@ -5723,7 +5701,6 @@ virtualshield.com
 ad.visbran.fr
 vitaproxy.com
 dns.vk09.ru
-dns.vkhudyakov.ru
 vladpro.ru
 dns.vlo.cc
 vload.net
@@ -5738,7 +5715,6 @@ vorlif.org
 vornz.com
 dns.voronin.uk
 vpn.vosjes.cloud
-dns.voyager2.space
 adguard.vozersky.com
 vpernet.com
 killads.vpms.xyz
@@ -5905,7 +5881,6 @@ webproxy.club
 webproxy.com
 webproxy.online
 webproxy.to
-webproxyfree.net
 google.webrathea.org
 scienceclasswork.webredirect.org
 scientist.webredirect.org
@@ -5981,7 +5956,6 @@ wobti.com
 wonderland.ws
 woodbridge.club
 woodenclock.us
-shop.woodworker.cl
 dns.woodyli.dev
 workbypass.com
 workdigi.com
@@ -6067,14 +6041,12 @@ safe.dot.dns.yandex.net
 vinnyisbunslol.yao.cl
 adguard.yare.hk
 agh-hetzner.yasirafique.com
-yasosy.pro
 dns.yatima.tv
 adguardhome.yavuztutcu.net
 lion.yazilimatolye.com
 ychen.cf
 ychen.gq
 yd6n63ptky.com
-adsfysdfgiuy.ydns.eu
 vdska-pl.ydns.eu
 yellowproxy.net
 sg.yepdns.com
