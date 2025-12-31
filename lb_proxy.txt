@@ -2668,7 +2668,7 @@ holavpnrussia.com
 holavpnworld.com
 holax.io
 hi.hollandweather.net
-beta.holyunblocker.org
+holyunblocker.org
 cloud2.holzmannclouddns.de
 socolov.home.ro
 adguard.home-lab-network.com
@@ -3962,6 +3962,7 @@ onlineproxy.eu
 onlineproxy.io
 onlineproxy.us
 adns.onlinetools.rocks
+onlinevpn.app
 adguard.onlyfriends.info
 d.onlyjsmylord.org
 info.onnemaa.ee
@@ -5057,9 +5058,7 @@ eu1-browse.startpage.com
 eu2-browse.startpage.com
 eu3-browse.startpage.com
 proxy1.startpage.com
-proxy2.startpage.com
 proxy3.startpage.com
-proxy5.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
 us2-browse.startpage.com
@@ -5404,6 +5403,8 @@ torguard.biz
 torguard.net
 torguard.org
 nsc.torgues.net
+torproject.com
+torproject.net
 torproject.org
 torrentproxy.co
 torrentproxy.net
@@ -6244,6 +6245,7 @@ zproxy.de
 zproxy.org
 d.zscale.gq
 zscalertwo.net
+zt.al
 ztv.su
 lookup.zucx.net
 dns.zui.lol
