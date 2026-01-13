@@ -4962,6 +4962,7 @@ bolt-private.dmain.sevecom.com
 sf-helper.com
 pates.services.sfr.fr.casepp.sfr.fr
 sgdns.site
+d2.shabi.icu
 shadeyouvpn.com
 shadowart.online
 shadowsocks.org
@@ -5199,7 +5200,9 @@ eu1-browse.startpage.com
 eu2-browse.startpage.com
 eu3-browse.startpage.com
 proxy1.startpage.com
+proxy2.startpage.com
 proxy3.startpage.com
+proxy5.startpage.com
 s4-us2.startpage.com
 us-browse.startpage.com
 us2-browse.startpage.com
@@ -5539,7 +5542,10 @@ topsecure.info
 topsun.pw
 toptip.cc
 topvpn.cc
+topvpn.cn
 topvpnguides.com
+tor-gateways.de
+tor2web.fi
 tor2web.io
 tor2web.it
 tor2web.org
@@ -5551,6 +5557,7 @@ nsc.torgues.net
 torproject.com
 torproject.net
 torproject.org
+torrentprivacy.com
 torrentproxy.co
 torrentproxy.net
 torry.io
@@ -5615,6 +5622,7 @@ dns.tuankhaiit.com
 tuantran.cloud
 tubeprox.com
 tubeunblock.me
+tujenasnaszato.xyz
 freodore.tulanerw.org
 tunnelbear.com
 justdoit.tuquy.com
@@ -5659,6 +5667,7 @@ ultimatepro.us
 ultimateproxy.net
 ultrabestproxy.com
 doh.ultradns.com
+ultrafastproxy.com
 ultrafun.net
 ultraproxy.biz
 ultrasurf.es
@@ -5666,6 +5675,7 @@ ultrasurf.us
 ultravpn.com
 dns.umbrella.com
 doh.umbrella.com
+un404.com
 unasw.eu
 unb.how
 unbl4you.lol
@@ -5763,6 +5773,7 @@ unblockit.meme
 unblockit.one
 unblockit.onl
 unblockit.pro
+unblockit.rsvp
 unblockit.uno
 unblockmate.com
 unblockme.us
@@ -6018,6 +6029,7 @@ vpnmentor.com
 vpnmonster.ru
 vpnmy.ru
 vpnneo.com
+vpnnow.info
 vpnoneclick.com
 vpnonelove.ru
 vpnoverview.com
@@ -6060,6 +6072,7 @@ vpnwebsite.com
 vpnwelt.com
 dns.vps.pw
 antispam.vpsvpn.com
+go.vrpyourself.online
 vtcuong.site
 vuivn.site
 45.32.17.58.vultrusercontent.com
@@ -6076,6 +6089,7 @@ waitfree.us
 44c.wakemeup.ru
 baldwinprepbyjerrydaniels.wakemeup.ru
 kailovefurries.wakemeup.ru
+dns.wakgood.net
 dns.walker.id
 walln.com
 wallpap.eu
@@ -6117,6 +6131,7 @@ webproxy.club
 webproxy.com
 webproxy.online
 webproxy.to
+webproxyusa.com
 google.webrathea.org
 scienceclasswork.webredirect.org
 scientist.webredirect.org
