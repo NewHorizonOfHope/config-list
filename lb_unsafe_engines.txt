@@ -54,6 +54,7 @@ dogpile.com
 search.dojoro.de
 searx.doofpot.nl
 search.dr460nf1r3.org
+wgl.frail.duckdns.org
 dynabyte.ca
 searx.elukerio.org
 searx.ericaftereric.top
@@ -184,6 +185,7 @@ search.st8.at
 suchfeuer.de
 searx.sulu.me
 searx.thegreenwebfoundation.org
+s.tokhmi.xyz
 search.trom.tf
 suche.tromdienste.de
 s.trung.fun
