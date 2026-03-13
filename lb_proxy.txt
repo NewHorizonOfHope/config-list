@@ -7738,7 +7738,6 @@ hxlm.homes
 hxlm.io
 hxlm.org
 hxtvk7y8j.online
-hy5o5ua8gklpqjbqzjaaje8yy.online
 dns.hyas.com
 admin.proxy.hydrovolter.com
 hydroxide.wtf
@@ -12090,6 +12089,7 @@ emby.rasp.tv
 ultramatheducation.raspberryip.com
 rateavon.je
 ratecuts.us
+read.coach.ratnikov.com
 ns2.ravdns.com
 raver-no.ru
 raverno.ru
@@ -12348,6 +12348,7 @@ error404becausepar1scantlose.run.place
 ramy.run.place
 run-away.run.place
 rungame20.com
+runnerpromotion.org
 runnervamp.net
 runnigga.run
 doh.runsel.id
@@ -12394,6 +12395,7 @@ safecloakvpn.com
 safeguardianvpn.com
 safehousetech.com
 safehousevpn.com
+safenetbrowser.com
 dns1.saferbfc.org
 dns2.saferbfc.org
 safersurfing.net
@@ -12466,6 +12468,7 @@ dns2.sarakas.net
 dns.sarilouis.com
 dns.sark.dev
 sascha-rabold.de
+dns.homenet.saschagaspar.net
 vpn.satadru.dev
 satnet.cv
 satori.top
@@ -12978,6 +12981,7 @@ dove.soapagent.com
 dove.soapclient.com
 signup.soapclient.com
 soax.com
+petezahpizza.omega.social-networking.me
 social-welfare.us
 socialnetworkinfo.us
 socks-proxy.net
@@ -13031,6 +13035,7 @@ pk.beat-allegations.spacejamhd.com
 sprague.is.best.spacejamhd.com
 add.balatro.back.cfisd.spacejamhd.com
 botany.classes.spacejamhd.com
+adam.loves.gandhi.spacejamhd.com
 endis.is.goat.spacejamhd.com
 fansblowair.ik.spacejamhd.com
 ho-ho-ho.santas.a.knicker.spacejamhd.com
@@ -13561,6 +13566,7 @@ nsnacho.sytes.net
 virmamp33.sytes.net
 doh.sz-dns.com
 cabin.szendebrassai.com
+math.tests.szk-obihiro.com
 szmbkf5rsqiidboo6.online
 dns.szpadel.ovh
 szvy.xyz
@@ -14130,8 +14136,10 @@ resolv1.trash.net
 resolv2.trash.net
 resolv3.trash.net
 ffd.travelpage.biz
+travelvpn.info
 travelvpn.net
 ns.trcnet.fi
+treatmentarrow.org
 trees.app
 adguard.treexhd.me
 myapps.classlink.trelease.net
@@ -14180,6 +14188,7 @@ trust.zone
 dns.trust404.win
 trustedproxies.com
 truta.org
+truthskip.org
 trutri.org
 truvexia.ru
 truvium.xyz
@@ -14210,7 +14219,6 @@ tui5515.site
 tujenasnaszato.xyz
 tulanek.my
 freodore.tulanerw.org
-tunnel4.com
 tunnelbear.com
 tunxray.site
 learn.how.tupuola.com
@@ -14602,6 +14610,7 @@ ussecondline.com
 dns.usualposts.xyz
 usvpn.cf
 uswebproxy.com
+utauloid.space
 multi.utilicell.com
 utopianpal.com
 utunnel.io
@@ -14630,6 +14639,7 @@ v2ny.co
 v2ny.de
 v2ny.mom
 v2ny.net
+v2ny.one
 v2ny.org
 v2ny.pro
 v2ny.top
@@ -14655,6 +14665,8 @@ v4trojn.xyz
 v6.wiki
 111000.v6.navy
 edge-v6x.v6.rocks
+fancy.v6.army
+fancy1.v6.army
 lawless-zone.v6.rocks
 selenite.v6.army
 cc2.v8er.net
@@ -14789,6 +14801,7 @@ vermontisfake.org
 vernikpro.ru
 virtualenglish.verolook.com
 veronap.republican
+versavpn.com
 veryeducationaltrust.lat
 jahyussif.verymad.net
 vestino.ru
@@ -14911,6 +14924,7 @@ vpn.ac
 vpn.asia
 vpn.com
 vpn.express
+vpn.fail
 vpn.ht
 vpn.lat
 vpn.my
@@ -15000,6 +15014,7 @@ vpnlabs.site
 vpnland.com
 vpnlaunch.com
 vpnliebao.com
+vpnline.info
 vpnlite.net
 api.vpnlumos.com
 vpnly.com
@@ -15055,9 +15070,11 @@ vpnsecure.me
 vpnshazam.com
 vpnshieldapp.com
 vpnside.com
+vpnsites.com
 vpnstunnel.com
 vpnsuper.app
 vpnsuper.com
+vpnsurfguard.com
 vpntoggle.com
 vpntraffic.com
 vpntun.site
@@ -15229,6 +15246,7 @@ web-lets.com
 1uzxr3b3jraw5nlmnvbsikiioud2vilw5.web-networking.com
 web-proxy.site
 web-rated.ie
+petezahismyuncle.crui.web1337.net
 web3clash.com
 web3jsq.com
 web3jsq.pro
@@ -15266,6 +15284,7 @@ browserstephen.webs.vc
 delta.webs.vc
 kahoot67.webs.vc
 sillykitty.webs.vc
+stemprivate4.webs.vc
 webshare.io
 webshots.world
 janvet.website.pl
@@ -16343,6 +16362,7 @@ yagopick.com
 yahagi.vip
 yalmoro.ru
 yaltro.ru
+dns.yameenassotally.com
 email.yan.ch
 2.dnscrypt-cert.browser.yandex.net
 dns.yandex.net
@@ -16471,6 +16491,7 @@ your-freedom.de
 www.itrsa.home.next.youradbyus.com
 yourcheat.com
 yourinternetproxy.info
+yourvpn.info
 v22013121930515853.yourvserver.net
 youtu0.com
 youtu1.xyz
