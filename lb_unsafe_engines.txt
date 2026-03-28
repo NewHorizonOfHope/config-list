@@ -36,7 +36,6 @@ search.aol.co.uk
 websearch.excite.co.jp
 searx.com.au
 search.cronobox.one
-searx.cthd.icu
 searxng.cups.moe
 searx.daetalytica.io
 search.darkness.services
