@@ -989,6 +989,7 @@ e105l6mnx3.execute-api.eu-west-3.amazonaws.com
 sd3n0344di.execute-api.eu-west-3.amazonaws.com
 zlhp6jksk5.execute-api.eu-west-3.amazonaws.com
 apps-ivacy.s3.amazonaws.com
+brd-sdk-app-packages.s3.amazonaws.com
 elite-s3-bucket.s3.amazonaws.com
 fastestvpn.s3.amazonaws.com
 privateinternetaccess-storage.s3.amazonaws.com
@@ -9007,6 +9008,7 @@ dn.kyay006.cn
 kydiypro.xyz
 agh.kyusang.win
 dns.kzrz.pl
+l-cdn.com
 l-gayte.net
 dns.l337.site
 l4bor.com
@@ -9716,6 +9718,7 @@ dns.michelo.cl
 ss.microbaidu.com
 microvpn.com
 proxysmart.microyiappstudio.com
+www-proxy.midoghanam.site
 dns.midping.ir
 math.midtech.cl
 best-dev24.mielone.org
@@ -10998,6 +11001,7 @@ vps-33e5a7f3.vps.ovh.us
 vps-d38e82a1.vps.ovh.us
 ovpn.com
 ovpn.to
+dns.ovpn.bond
 ovpnspider.com
 owlhouduan.com
 owlvpn.net
@@ -11757,6 +11761,7 @@ proxyserver.rocks
 proxyserver-free.com
 proxyserverlist24.top
 proxyshade.com
+proxyshare.app
 proxyshare.com
 proxysheep.com
 proxysite.cc
@@ -13309,6 +13314,8 @@ stolitomsonvpn.com
 stop-block.com
 stopcensoring.me
 storefront.ink
+storj.io
+storjshare.io
 stormproxies.com
 dns.stormycloud.org
 adguard.strafer.dk
@@ -13638,6 +13645,7 @@ taoqituclash.com
 taoqitujichang.com
 taoqitussr.com
 dns.tapawan.ca
+tardigrade.io
 dns0.tardishost.ru
 dns1.tardishost.ru
 adguard.taufner.net
