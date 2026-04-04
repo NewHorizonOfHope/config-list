@@ -10633,6 +10633,7 @@ notaproxy.xyz
 notebooklamb.space
 notely.lol
 easyschool.notesninjas.com
+nothingtohide.nl
 noticepure.com
 notlong.com
 notorioussymbol.space
@@ -10659,6 +10660,7 @@ noxcrow.net
 noyourmean.xyz
 dns.npe.bz
 adguard.npglocal.com
+npscalculator.online
 nqma.net
 nrz.homes
 nrz.monster
@@ -11763,6 +11765,7 @@ proxyserverlist24.top
 proxyshade.com
 proxyshare.app
 proxyshare.com
+proxyshare.dev
 proxysheep.com
 proxysite.cc
 proxysite.cloud
@@ -12196,7 +12199,6 @@ restaurantgift.us
 restena.lu
 dns.retakecs.com
 rethinkdns.com
-reurl.cc
 revelio.top
 revko.info
 rewardpumpkin.com
@@ -13314,8 +13316,6 @@ stolitomsonvpn.com
 stop-block.com
 stopcensoring.me
 storefront.ink
-storj.io
-storjshare.io
 stormproxies.com
 dns.stormycloud.org
 adguard.strafer.dk
@@ -13645,7 +13645,6 @@ taoqituclash.com
 taoqitujichang.com
 taoqitussr.com
 dns.tapawan.ca
-tardigrade.io
 dns0.tardishost.ru
 dns1.tardishost.ru
 adguard.taufner.net
