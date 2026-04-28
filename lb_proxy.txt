@@ -1031,6 +1031,7 @@ i4frgxs0s5.execute-api.us-east-1.amazonaws.com
 n8z7zwivjg.execute-api.us-east-1.amazonaws.com
 tb2hgc4485.execute-api.us-east-1.amazonaws.com
 w6wgmwa4bd.execute-api.us-east-1.amazonaws.com
+brightdata-app-production-app-bucket.s3.us-east-1.amazonaws.com
 mellowtel-bucket.s3.us-east-1.amazonaws.com
 msstore-submissions.s3.us-east-1.amazonaws.com
 xv-client-json-configuration.s3.us-east-1.amazonaws.com
@@ -2086,6 +2087,7 @@ aaron.listens.to.mango.phonk.bine.me
 bingle.icu
 math.help.bingo-list.com
 bingojiasu.com
+biolabshop.cc
 biolicious.online
 bio.biologyscholar.org
 bold-energy-129.biologyscholar.org
@@ -12901,6 +12903,7 @@ personalvpn.com
 personaly.click
 pervilo.ru
 dns.pesaventofilippo.com
+pesoalbay.live
 adguard.peterge.de
 petervpn.com
 petezahgames.com
