@@ -3466,6 +3466,28 @@ adguardhome.favrep.ovh
 dns.faze.dev
 ns0.fdn.fr
 ns1.fdn.fr
+vpn.fdn.fr
+vpn-rw.fdn.fr
+vpn1.fdn.fr
+vpn1-rw.fdn.fr
+vpn10.fdn.fr
+vpn10-rw.fdn.fr
+vpn2.fdn.fr
+vpn2-rw.fdn.fr
+vpn3.fdn.fr
+vpn3-rw.fdn.fr
+vpn4.fdn.fr
+vpn4-rw.fdn.fr
+vpn5.fdn.fr
+vpn5-rw.fdn.fr
+vpn6.fdn.fr
+vpn6-rw.fdn.fr
+vpn7.fdn.fr
+vpn7-rw.fdn.fr
+vpn8.fdn.fr
+vpn8-rw.fdn.fr
+vpn9.fdn.fr
+vpn9-rw.fdn.fr
 juicewrld.feathertechno.com
 agh.feblab.click
 dns1.feear.se
@@ -6363,6 +6385,7 @@ fcbjhnk.sodfjksdflkdsf.searchegpt.com
 proxy.searchfiles.de
 geo.searchgpy.com
 gesture.searchgpy.com
+mathhelp4858.searchgpy.com
 dns.searom.ovh
 dns.seby.io
 doh.seby.io
@@ -6711,6 +6734,7 @@ dns.struchkov.dev
 dns.stud.cloud
 educationalmath.studyingsciencethemes.one
 la-doh.stuptech.com
+doh.sublime9.xyz
 epsteinfuckhermalinda.subsoniclabs.com
 epsteinkilltwinksefn.subsoniclabs.com
 hermalindalopezisstinkyandblack.subsoniclabs.com
@@ -6904,6 +6928,7 @@ foil.thanatos.com
 math.thanatos.com
 voidnettty.thanatos.com
 typingpractice.theantzfarm.space
+unplatonicallydiybt.theantzfarm.space
 www.3.theartieschaffer.com
 www.94.theartieschaffer.com
 www.p.theartieschaffer.com
@@ -6941,6 +6966,8 @@ jalenhurtsthegoat.thehomeserver.net
 kylespringiseeyou.thehomeserver.net
 adguard.theil.dev
 ela.smart.thelecks.com
+important.thelmadejager.info
+m.thelmadejager.click
 yh.themcgoughs.org
 class.skill.theo.mx
 explore.theoceanforest.com
@@ -7019,6 +7046,7 @@ wdjkxlvcksedfe.wkljicvesdf.top7.mx
 how.prep.topmoto.pl
 chart.train.topone.cl
 nsc.torgues.net
+center.k12.mo.us.tornotluk.in
 arnoldmiddleyk.totalcare.pk
 rn.totalcare.pk
 doh.totoro.pub
@@ -7038,6 +7066,7 @@ ebpmc.tplinkdns.com
 ngk81hc.tplinkdns.com
 homes.tr25.cn
 jump.tr25.cn
+dns.tracker.ink
 schools.tradekinginternational.com
 access.traders-friend.com
 205.209.125.106.traefik.me
@@ -7201,6 +7230,7 @@ glintkeepthisasecret.undoanarchy.rocks
 interstellerkeepthisasecret.undoanarchy.rocks
 quasarkeepthisasecret.undoanarchy.rocks
 selenitekeepthisasecret.undoanarchy.rocks
+voidkeepthisasecret.undoanarchy.rocks
 dns.unerror.network
 ines.zfn.uni-bremen.de
 galaxy.unibutton.com
@@ -7228,6 +7258,8 @@ clever-math.v119.com
 hamburger.v119.com
 prodigy-learning.v119.com
 sssdfg.v119.com
+111000.v6.navy
+fancy.v6.army
 cc2.v8er.net
 luminal.vacte.org
 dns.vaguthu.mv
@@ -7356,6 +7388,7 @@ idontlikecookiesbrowniesarebettterngl.vlad.md
 theworldisfallingapartinmeteors.vlad.md
 dns.vlo.cc
 dns.vmisch.tech
+dns.vod11.xyz
 tutoring.services.voievodate.ro
 httpdns.volcengineapi.com
 dns.volsap.ovh
@@ -7592,6 +7625,7 @@ dns.xv.fi
 app.xvpncdn.com
 dns.xwdmw.xyz
 dns.xwu.us
+v2.xx3210766.live
 dns.xydustc.me
 v1.xylto.com
 dns.y2f.xyz
@@ -7696,6 +7730,10 @@ dns.zky666.fun
 xyz2.zmjflow.com
 xyz3.zmjflow.com
 dns.zmobiletech.com
+mathstudyhub.o.zoho.to
+lone.zoho.to
+meadow.zoho.to
+securly.zoho.to
 01100010011011000110111101100011011010110110110101100101.zone.id
 cooluniverse-galaxy.zone.id
 doxy.zone.id
@@ -7729,7 +7767,6 @@ dns.zzuhacker.cn
 02akgaayi2fi3xkdi13s0jtxj.online
 041ad0cfb636.xyz
 04a0f262f2f391ead91af1f0ecc6ef3a.top
-04bsox5tuyzbhndhrkphxt8t.online
 0538c3060b94774da3ee011552255739.top
 069538.xyz
 06f7d4f2f41cbff183fa241167a3c7444b3cf00c.com
@@ -7739,7 +7776,6 @@ dns.zzuhacker.cn
 09vpn.com
 0a7velfsvpgyy.online
 0ms.dev
-0olnsejxo1cbravdmlarpeb.online
 0x3d.lu
 103prxy.com
 104prxy.com
@@ -7796,7 +7832,6 @@ dns.zzuhacker.cn
 191262.xyz
 191268.xyz
 1929.work
-1aclash.com
 1and1-dns.de
 1bfwu5d5n.online
 1clickvpn.com
@@ -7849,7 +7884,6 @@ dns.zzuhacker.cn
 2fastsurfer.eu
 2fastsurfer.us
 2govpn.com
-2kclash.com
 2mrk0bvkkye.online
 2poigv.xyz
 2proxy.de
@@ -15310,6 +15344,7 @@ quickcache.website
 quickkq.com
 quickprox.com
 quickproxies.com
+quickq-jsq.com
 quickqjiasu.net
 quicksilvervpn.com
 quintex.com
@@ -15490,6 +15525,7 @@ robovpn.com
 rock1314.com
 rocketjiasu.net
 rocketnews.site
+rocketprox.com
 rocketube.online
 rocketvpn.net
 rockwell.website
@@ -15870,9 +15906,12 @@ sitescrack.host
 sitespeedtest.net
 sitesunblocked.com
 siteunblock.org
+siteunblock.xyz
+siteunblocked.club
 siteunblocked.lol
 siteunblocked.space
 siteunblocked.website
+siteunblocked.xyz
 sitework.info
 sitx2.cc
 sjaarzmo.com
@@ -15884,6 +15923,7 @@ skipns.com
 skycoin.com
 skydragoness.com
 skyfireworld.com
+skynetwork.info
 skysaver.net
 skyssh.co
 skytreeapi.com
@@ -15962,6 +16002,7 @@ speedin.in
 speedinpc.com
 speedlynk.com
 speedprintvisit.com
+speedproxy.online
 speedshare.app
 speedssh.com
 speedstream.click
@@ -16232,6 +16273,7 @@ svip666888.com
 svtfwqhb.com
 swapip.com
 swcloud.io
+sweetline.info
 swiftcdn.org
 swiftclouds.xyz
 swissvpn.net
@@ -16347,13 +16389,17 @@ themebm.com
 thenotionplus.top
 thenuke.org
 theproxies.net
+theproxy.cc
+theproxy.club
 theproxy.dev
 theproxy.ink
+theproxy.io
 theproxy.lol
 theproxy.red
 theproxy.vip
 theproxy.work
 theproxy2.biz
+theproxy2.com
 theproxya.org
 theproxyer.com
 theproxyguide.com
@@ -16409,6 +16455,8 @@ timevip.ir
 timevpns.com
 timmes.nl
 timurpoyraz.com
+tinf0il.tech
+tinfoil-is-ass.xyz
 tipext.com
 tiptop-vpn.com
 tiptopvpn.biz
@@ -16609,6 +16657,7 @@ turbovpn.com
 turbovpn.mom
 turbovpnapp.net
 turkmenvibe.ru
+turmericrecipes.com
 tuskythehusky.tech
 tutoring4free.org
 tuvpn.com
@@ -16622,6 +16671,7 @@ twekblwn.com
 twhd.online
 twhd.site
 twingate.com
+twoproxy.net
 twtevsyz.com
 txqq.pro
 tylervpn.help
@@ -17077,6 +17127,7 @@ videomy.online
 videonew.online
 videoplayerviewer.com
 videoproxy.site
+videounblock.com
 videounblocked.com
 videounblocker.net
 videovideoplayer.org
@@ -17176,6 +17227,7 @@ vpn-os.help
 vpn-planetvpn.net
 vpn-private.net
 vpn-professional.company
+vpn-quick.com
 vpn-russia.app
 vpn-shield.help
 vpn-simple.com
@@ -17210,6 +17262,7 @@ vpnacademy.com
 vpnaccounts.com
 vpnaddsplus.com
 vpnadguard.info
+vpnagent.com
 vpnanonym.info
 vpnapk.mom
 vpnapp.help
@@ -17402,6 +17455,7 @@ vpnshazam.com
 vpnshieldapp.com
 vpnside.com
 vpnsites.com
+vpnstatus.site
 vpnstore.help
 vpnstunnel.com
 vpnsuper.app
@@ -17515,6 +17569,7 @@ weather-doc.com
 weathercloudapp.com
 web-kuailian.cn
 web-kuailian.com
+web-kuailian.net
 web-letsvpn.org
 web-proxy.site
 web-rated.ie
@@ -17537,6 +17592,7 @@ weboproxy.com
 webpro.xyz
 webproxy.club
 webproxy.com
+webproxy.online
 webproxy.to
 webproxy.us
 webproxyusa.com
@@ -17735,6 +17791,7 @@ xervolia.ru
 xf.kg
 xfer.au
 xftld.org
+xfxssr.com
 xfxssr.me
 xfxvpn.life
 xg8tw7gfox.site
@@ -18324,6 +18381,7 @@ zorrovpn.io
 zorvian.com
 zougloub.eu
 zpath.net
+zproxy.de
 zproxy.org
 zqazgydo.cc
 zqntvkud.cc
