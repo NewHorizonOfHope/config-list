@@ -2016,6 +2016,7 @@ dns1.understandingcyber.co.uk
 dns.unknown-universe.co.uk
 sainttech.veranda.co.id
 yes.vets.co.il
+doh.vpsdns.co.za
 dns.walshnet.co.uk
 long.live.gaup.webconstructions.co.uk
 crandall.kirkinator.webconstructions.co.uk
@@ -5238,6 +5239,7 @@ howaboutweexecuten.nicher.cl
 lightspeedmenolike.nicher.cl
 dns.nick-slowinski.de
 dns.nicolas.vip
+doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 doh-own-recursion.nicolas-dorriere.fr
 doh-random-upstream.nicolas-dorriere.fr
 dns1.nielsdb.be
@@ -6161,6 +6163,7 @@ dns.serdcebolit.ru
 dns1.serdcebolit.ru
 forzalaquila.servebeer.com
 privatnas.servebeer.com
+doh.serverhost.no
 adguard.servernation.xyz
 node9.servernode.store
 ikeepgooning.serverpit.com
@@ -6317,6 +6320,7 @@ doh-01.spectrum.com
 doh-02.spectrum.com
 doh-03.spectrum.com
 sainttech.spencerbosworth.com
+www-testus.spiderprx.com
 www-proxy.spin.rip
 dns.spirio.fr
 soadfjrksf.lasdkfj.sportconceptmedia.ru
@@ -14989,7 +14993,6 @@ sitenable.ch
 sitenable.com
 sitenable.in
 sitenable.org
-sitescrack.host
 sitespeedtest.net
 sitesunblocked.com
 siteunblock.org
@@ -15620,6 +15623,8 @@ towctro.cn
 towersflowerss.com
 towervpn.com
 tproxy.ink
+tproxy.mom
+tproxyru.live
 tpymainx01.ru
 tq8izzzrqtktkdoarptl3u.online
 tqqzrbjd.com
