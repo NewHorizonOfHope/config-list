@@ -1906,6 +1906,7 @@ garlandisd.almotek.co.za
 educationbooks.boxrepublic.co.za
 adguard.cell.co.id
 dns.chaosen3.co.uk
+ct1doh.cipherdns.co.za
 jb1doh.cipherdns.co.za
 dns-01.computerservices.co.nz
 dns-02.computerservices.co.nz
@@ -3457,6 +3458,7 @@ dns.gearworks.app
 bg.geek.nz
 dns.geekbyte.de
 adg.geili.me
+www-proxy.gelaxiz.xyz
 nodes.gen4.ninja
 dns.geohide.ru
 play-games-at.geometry-games.online
@@ -16176,6 +16178,7 @@ vpn-service.us
 vpn-shield.help
 vpn-simple.com
 vpn-sky.info
+vpn-th.net
 vpn-tn.com
 vpn-toggle.com
 vpn-tube.com
