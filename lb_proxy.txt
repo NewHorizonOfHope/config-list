@@ -332,6 +332,8 @@ dns.akbxr.com
 dns.albony.xyz
 tech.vcsa.alcrb.ru
 dnsnl.alekberg.net
+odoh-target.alekberg.net
+odoh-target-noads-se.alekberg.net
 agh.alematho.de
 diskstation.alexpollard.net
 management.alexpollard.net
@@ -2238,7 +2240,6 @@ smartpn.creographix.at
 tromp.creographix.at
 vcsa.creographix.at
 adguard.crestfallen.de
-dns.criena.net
 dns.itsec.crolla.net
 fern.crosbreaker.dev
 bx3.cdn.gh-pages.cryodome.com
@@ -13107,6 +13108,7 @@ nekobox.tools
 nekoray.help
 nekoray.org
 nelsonleung.org
+neo-vpn.ink
 neodon-vpn.com
 neonos.me
 nerbix.xyz
@@ -13712,6 +13714,7 @@ pingvpn.com
 pinkproxy.xyz
 pinweb.info
 piplvpn.com
+piproxies.com
 pipster.org
 pipster.ru
 pipstervpn.help
@@ -16351,6 +16354,7 @@ vpnteam.store
 vpntelegram.info
 vpntoggle.com
 vpntraffic.com
+vpntrustway.online
 vpntun.site
 vpntunnel.com
 vpntunnel.se
