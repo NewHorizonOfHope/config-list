@@ -2485,6 +2485,7 @@ smartpn.creographix.at
 tromp.creographix.at
 vcsa.creographix.at
 adguard.crestfallen.de
+dns.criena.net
 dns.itsec.crolla.net
 fern.crosbreaker.dev
 bx3.cdn.gh-pages.cryodome.com
@@ -7980,6 +7981,7 @@ astroutercn.com
 astrovpn.co
 at5w361xq.online
 atejiasu.com
+atlast9hdp.info
 atlasvpn.com
 atlasvpn.net
 atomapi.com
@@ -10491,7 +10493,9 @@ flornavo.ru
 flornic.ru
 flowvpn.com
 flrnneprlkqiz.online
+flux3ni5o.info
 fluxenta.click
+fluxmxd18.info
 flxzeiow.com
 flyall.me
 flycatvipaff.cc
@@ -11968,6 +11972,7 @@ joindns4.in
 joinfufeitizi.com
 joinguoneijichang.com
 joinhaita.com
+joinmassive.com
 joinyongjiumianfeijichang.com
 joldoojv.com
 jolmira.ru
@@ -12998,6 +13003,7 @@ miku.hair
 miku.lat
 milanavpn.com
 milanopuma.ir
+milo1fmyz.info
 milou.cc
 miltran.ru
 minilla.store
@@ -13932,6 +13938,7 @@ peach-garage.com
 peadg.com
 peekproxy.com
 peekvpn.online
+peer2profit.com
 peer2profit.in
 peets.pro
 peiqianjc.com
