@@ -2485,7 +2485,6 @@ smartpn.creographix.at
 tromp.creographix.at
 vcsa.creographix.at
 adguard.crestfallen.de
-dns.criena.net
 dns.itsec.crolla.net
 fern.crosbreaker.dev
 bx3.cdn.gh-pages.cryodome.com
@@ -3344,6 +3343,7 @@ secured.global.ssl.fastly.net
 selenite.global.ssl.fastly.net
 us4-ubg.global.ssl.fastly.net
 zva-186.global.ssl.fastly.net
+waterfox-ohttp-relay.fastly-edge.com
 adh.fastpacefixit.info
 hence.fatdiary.org
 api.fatibara.com
@@ -6828,6 +6828,7 @@ support.warning.cx
 dns.warpnine.de
 dns.warrior.fr
 overcloaked.was-on-decayeds-island.xyz
+dooh.waterfox.net
 cdn.waterloomath.com
 domeq.waw.pl
 dns.wdnts.eu
@@ -7136,7 +7137,6 @@ dns.zzuhacker.cn
 123bay.org
 123book.info
 123book.org
-123down.org
 123fr.info
 123free.info
 123goproxy.com
@@ -7149,12 +7149,9 @@ dns.zzuhacker.cn
 123proxy.app
 123proxy.me
 123roms.com
-123rooms.net
 123sports.org
 123streaming.org
-123sumo.net
 123torr.com
-123unblocked.com
 123xhj.com
 12vpn.help
 12vpx.com
@@ -8673,7 +8670,6 @@ btc4animals.com
 btcloud.xyz
 btguard.com
 btjpydcn.com
-btunnel.in
 btxqplrw.com
 buaswhxr.com
 bubbleset.com
@@ -11773,7 +11769,6 @@ ipdatafone.net
 ipfly.net
 ipfreely.io
 iphoneget.fyi
-ipinator.com
 iplama.com
 ipnproxy.com
 iportal.me
