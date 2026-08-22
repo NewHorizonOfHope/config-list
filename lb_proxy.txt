@@ -3904,7 +3904,6 @@ guard.keiper.net
 doh.kekew.info
 doh.kekew.racing
 doh3.kekew.info
-doh.kel.pe
 dns.kempkens.org
 dns.kerekes.xyz
 dns.kernel-error.de
@@ -4404,7 +4403,6 @@ ae-fuj-w-p-1.nashkan.net
 ae-fuj-w-p-2.nashkan.net
 ae-fuj-w-p-3.nashkan.net
 ae-fuj-w-p-4.nashkan.net
-at-wie-w-p-1.nashkan.net
 au-syd-w-f-1.nashkan.net
 au-syd-w-p-1.nashkan.net
 de-fra-w-f-1.nashkan.net
@@ -4414,7 +4412,6 @@ de-fra-w-p-1.nashkan.net
 de-fsn-w-p-1.nashkan.net
 fi-hel-w-f-2.nashkan.net
 fi-hel-w-p-1.nashkan.net
-fr-gra-w-p-1.nashkan.net
 gb-cov-w-f-1.nashkan.net
 gb-cov-w-f-2.nashkan.net
 gb-cov-w-p-1.nashkan.net
@@ -7127,6 +7124,7 @@ applegame.xyz
 appleiosfree.com
 appleproxy.com
 applevpnapp.com
+application-vpnzo.com
 applied-privacy.net
 appo-kuailian.com
 appriver.online
@@ -13315,7 +13313,6 @@ prevent.run
 prflux.xyz
 prgoorzz.cc
 primeproxy23.info
-princez.uk
 printruns.us
 printtools.us
 privacy.io
@@ -14301,8 +14298,6 @@ soverin.shop
 sovpn.cc
 sowhatstory.com
 spacedns.org
-spaceship.com
-spaceship-cdn.com
 spacevpn.io
 spbyjzu.cn
 spedo.co
@@ -15845,6 +15840,7 @@ wabs8nuc.com
 wadsworthyouthbasketball.org
 waitfree.us
 waiwangjiasu.net
+wakou-engineering-univ.site
 waladunit.com
 walln.com
 wallpap.eu
@@ -16154,6 +16150,7 @@ xmrth.com
 xmrth.lol
 xmyjsq.com
 xn--14ra41gd24b.xyz
+xn--1qqp3f85dcwcez1inzc.com
 xn--2vxn29amga.cc
 xn--44q907fa2408a.com
 xn--4gq62f52gdss.com
@@ -16163,6 +16160,8 @@ xn--6nq44r2uh9rhj7f.com
 xn--80aeak3akfgk.xn--p1acf
 xn--80aecoigf4aatn.xn--p1ai
 xn--9kq050gk1z.com
+xn--9kq10ek4nfj1bly0a.org
+xn--9kqr48j.com
 xn--9kqrm7t.com
 xn--9kqrm7t.net
 xn--9kqu74cfu3b.com
@@ -16181,9 +16180,14 @@ xn--fhq389femyc1d.com
 xn--fiq626gzzgkv2a.com
 xn--fiqs8s9rjgsr.com
 xn--fiqy4bl9l81zp7skjc1xd.com
+xn--h5q13wxxnwubd52b.org
+xn--h5q36vepk.com
+xn--h5q84a86ft33f1ej.com
 xn--huajicloud-cn3r594m.com
 xn--kbtz2zn3ab56c.com
 xn--mes358aby2apfg.com
+xn--mes358akvk7hn.com
+xn--mes358ar69azba.com
 xn--mest5a943ag8x.com
 xn--mesz5hn9e3rh.com
 xn--nexitally-459pk42i.com
@@ -16192,6 +16196,7 @@ xn--prome-h02iv96g.com
 xn--rss276g.net
 xn--rss276g.xyz
 xn--rsso18bk2j97ggmu.com
+xn--ssrdog-u40k507h.com
 xn--v3csa3bs8i.com
 xn--vpn-0m8e007c.com
 xn--vpn-0w2et10mvkyb.com
@@ -16222,12 +16227,19 @@ xn--xnun88j.net
 xn--yfrp36ea9901a.com
 xn--yfrp5enpj81a6w4d.com
 xn--yfrw1g0upg04amnn.com
+xn--yfrw1g210bq2x1bg.com
+xn--yfrw1ghyc0w6f55d.com
 xn--yfrw1glt6awpb6x3e.xyz
+xn--yfrw1gnycd39eggi.com
+xn--yfrw1gow2d4chrxa.com
 xn--yfrw1goy3egzffc.com
+xn--yfrw1gu5rpi5bscj.org
+xn--yfrx4ay7cq52em5r.com
 xn--yrs494l.com
 xn--yun-2t1ej483a.com
 xn--z4vu10a.com
 xn--zuup71g88ae4i.com
+xn--zwwa296b.com
 xolvento.ru
 xomverta.ru
 xonlrnrujxbx.com
