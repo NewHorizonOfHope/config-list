@@ -3235,7 +3235,6 @@ hebe.freedynamicdns.org
 dns.freemyemail.com
 walhalla.freemyip.com
 zuk.freemyip.com
-www-server.freewebsproxy.com
 dns.freopc.fr
 vvv.freya.moe
 dns.freyja.pw
@@ -4141,7 +4140,6 @@ endiscracker.loseyourip.com
 hamster67.loseyourip.com
 iwillnot.loseyourip.com
 ddd.loukky.com
-www-proxy.lovekeli.uk
 relay.lsaccess.cf
 n5.lsasss.com
 dns.lsho.top
@@ -14062,6 +14060,7 @@ schoology.college
 schoology123.org
 schoolooks.com
 schoolsprepared.org
+schoolverification.me
 schoolwebproxy.com
 schulhelfer-mathe-deutsch.de
 sciencenews.cc
