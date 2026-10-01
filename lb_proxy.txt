@@ -279,6 +279,8 @@ shield.afixer.app
 owo.rawr.africa.com
 dns.study.africa.com
 research.africa.com
+all-nets.ir.agianaytan.info
+koochamoon.ir.agianaytan.info
 gov.yale.agmlabs.com
 blitz.ahadns.com
 blitz-setup.ahadns.com
@@ -466,6 +468,7 @@ vanheim.ff.avast.com
 vpn-sd.ff.avast.com
 vpn.avg.tools.avast.com
 vps.avc.cx
+all-devices.ir.awedsj.info
 dnstx.axhy.cc
 visit-portugal.axsetubal.pt
 dns.axto.me
@@ -705,6 +708,9 @@ blooket.broomleigh.org
 classroom.broomleigh.org
 goguardian.broomleigh.org
 schoolwork.broomleigh.org
+habib-lisanser.browncolor.info
+pintrest-cool.browncolor.info
+range-sal.browncolor.info
 home.bruckmoser.it
 81.brudnowski.eu
 81xyz.brudnowski.eu
@@ -719,6 +725,9 @@ romathebest.bumbleshrimp.com
 dns.burgas.pro
 dns.busold.ws
 dns.butterfly87.sbs
+becarefull.bypased.info
+math-test.bypased.info
+vizhzhzhzhzh.bypased.info
 dns.c0ntroller.de
 jujuba.cafuringa.org
 dns.cahlen.com
@@ -1027,6 +1036,7 @@ httpdns.cctv.com
 1999369668.rsc.cdn77.org
 httpdns.c.cdnhwc2.com
 httpdns1.cc.cdnhwc5.com
+cdn1.cdntide.org
 adguard.cedoman.com
 dns.cert.ee
 pds.cfornas.casa
@@ -1859,27 +1869,25 @@ adguard.cnbeining.com
 adguard.aa4.co.uk
 dns.adriason.co.uk
 teamspeak.adriason.co.uk
-are.ajjab.co.uk
 securesurfvpn.all.co.tz
 safedns.allover.co.za
 safedns2.allover.co.za
-white.antony-gordon.co.uk
 noon.begir.co.uk
 panir.begir.co.uk
-moh1.benzcls.co.uk
-moh2.benzcls.co.uk
 educationbooks.boxrepublic.co.za
 adguard.cell.co.id
 dns.chaosen3.co.uk
 silver.ciaude.co.uk
 good.cipservice.co.uk
+great.cipservice.co.uk
 sd.cipservice2.co.uk
+ir.closcloud.co.uk
 dns-01.computerservices.co.nz
 dns-02.computerservices.co.nz
-turk.dasy2k1.co.uk
 adg.datamatter.co.za
 pihole.datamatter.co.za
 adguard.discounthost.co.uk
+im.dumaniltd.co.uk
 dns.eliv.co.kr
 at.foltmeingop.co.uk
 bale.foltmeingop.co.uk
@@ -1894,15 +1902,16 @@ dns.gayanalysing.co.uk
 dns.gi.co.id
 ai.golgoli1.co.uk
 irogallery.golgoli1.co.uk
+digi.golgoli2.co.uk
+fruit.golgoli2.co.uk
 hadaf.golgoli2.co.uk
+name.golgoli2.co.uk
 run.golgoli2.co.uk
-for.you.goooalir.co.uk
-azadi.goooalir.co.uk
+shoes.golgoli2.co.uk
 for-iran.goooalir.co.uk
 nab.goooalir.co.uk
 paydar.goooalir.co.uk
 soh5.goooalir.co.uk
-soheil.goooalir.co.uk
 tassian.goooalir.co.uk
 vasle.goooalir.co.uk
 focus.utopia.gzone.co.kr
@@ -1910,6 +1919,7 @@ dns.hashemlabs.co.uk
 ccc.horizon555.co.uk
 ag.hostme.co.il
 ixl.math.hsf.co.za
+support.infinityhalo.co.uk
 mashti.just-money.co.uk
 dns.kloiber.co.at
 dns2.kloiber.co.at
@@ -1922,9 +1932,19 @@ dns-three.lins.co.tt
 guard.lumusimc.co.uk
 ir.makkers.co.uk
 craft.malavanann.co.uk
+media.mangoseason2.co.uk
+static.mangoseason3.co.uk
+cdn.mangoseason4.co.uk
+api.mangoseason5.co.uk
+img.mangoseason6.co.uk
+web.mangoseason7.co.uk
 ssh.meow0.co.uk
 bastani.mikhay.co.uk
+lavashak.mikhay.co.uk
+nooshabe.mikhay.co.uk
+pashmak.mikhay.co.uk
 pofak.mikhay.co.uk
+shampoo.mikhay.co.uk
 mio.mozitop.co.uk
 puot.mozitop.co.uk
 ving.mozitop.co.uk
@@ -1945,6 +1965,7 @@ opsecmastur.nowhearthis.co.uk
 dns.nzxti5.co.uk
 dns.oliviertv.co.za
 adam.poolaki.co.uk
+bache.poolaki.co.uk
 chrismylove.qr-code.co.za
 lightspeed.qr-code.co.za
 mathnotes.qr-code.co.za
@@ -1974,9 +1995,11 @@ dns.walshnet.co.uk
 agh.workfordemo.co.in
 qadim.zhigool.co.uk
 10bestvpn.co.uk
+3etare.co.uk
 accessvpn.co.uk
 ahvaz.co.uk
 akashiro.co.id
+alhosein.co.uk
 antidnsvpn.co.cc
 binhexsolutions.co.uk
 bo0ji.co.uk
@@ -1986,12 +2009,16 @@ clearvpn.co.uk
 croxyproxy.co.in
 crusnik80.co.za
 ddelay.co.uk
+din5gli2.co.uk
+dingi3.co.uk
 diskcrmvpn.co.cc
+exiscos.co.uk
 hax.co.id
 insteadvpn.co.cc
+jhndoes.co.uk
 lamnia.co.uk
-mamadali.co.uk
-mamadgoli.co.uk
+mangoseason1.co.uk
+mangoseason8.co.uk
 my-private-network.co.uk
 ninjaproxy.co.uk
 noblocc.co.uk
@@ -2001,7 +2028,6 @@ nordvpn.co.uk
 nordvpn.co.za
 onlineproxy.co.uk
 pooblet.co.za
-porsorate.co.uk
 proxay.co.uk
 proxify.co.uk
 proxyserver.co.in
@@ -2019,7 +2045,6 @@ surfshark.co.uk
 surfshark.co.za
 surfvpn.co.cc
 tigervpns.co.uk
-torobchesho.co.uk
 uk-proxy.co.uk
 unblocksites.co.uk
 vanillacoke.co.uk
@@ -2175,6 +2200,7 @@ dns.connect.fail
 dns.consoro.eu
 dns.containerpi.com
 mathnotes.contem.bz
+doh.contentkeeper.net
 dns.controld.com
 doh.controld.com
 freedns.controld.com
@@ -2767,6 +2793,9 @@ yuudai-shadow.easterndns.com
 yuzu.easterndns.com
 dns.easyhns.com
 ajh.eats-logi.lol
+khobi-alhamdolelah.ebimarh.info
+mashti-khan.ebimarh.info
+rond-hamrahaval.ebimarh.info
 emis-kf-homework.echofx.com
 emis-tech.echofx.com
 barbecue.echoparklake.com
@@ -2790,6 +2819,7 @@ dns.efficientdocuments.com
 cloud.efreakbnc.net
 vpn.egorrko.ru
 adguard.eischmann.cz
+dns.ekinao.com
 dd.elashri.net
 hole.elbschloss.xyz
 dns.electrotm.org
@@ -3048,6 +3078,7 @@ testpilot.firefox.com
 adg.fiyaajans.com
 dns.fizz.studio
 resolve.fknw.de
+kampozit-gonde.flashspder.info
 doh.flashstart.com
 dns.flatuslifir.is
 dns.flightspace.net
@@ -3151,7 +3182,6 @@ dns.api.gandi.net
 dns.beta.gandi.net
 guide.terms.gatpp.com
 adguard.gattow.com
-full-vasl.ir-xyz.gdhbvjshjrf.info
 learnvcsa.gearenergy.com
 dns.gearworks.app
 bg.geek.nz
@@ -3245,6 +3275,8 @@ clever.issuesloggingin.hndifhidalgo.gob.mx
 dns.goertz.digital
 eime.goip.de
 dohsg.goitoi.co
+haji-jan.golabkashan.info
+moatar.golabkashan.info
 dns.goldplate.org
 fkey-api.golink.dev
 fkey-stat.golink.dev
@@ -3355,7 +3387,6 @@ ordns.he.net
 731.masi.ir.he6fhd.ru
 dh1.masi.ir.he6fhd.ru
 gov.minds.healthplantender.com
-for.dear-iranian-people.com.heazshddd.info
 dns.hee.ink
 carolinareaper.heeremans.net
 office.heimtec.com
@@ -3363,6 +3394,7 @@ sdfergrdewdwdawdwdszdsadsadas.helixarcade.space
 dns.hellozhao.com
 vibecoding.help4bali.org
 dns.henek.ru
+recordzan.herfeibash.info
 dns.herkhof.nl
 betternet-backend.herokuapp.com
 yandhi.herokuapp.com
@@ -3414,7 +3446,8 @@ mypihole.hopto.org
 stroveer.hopto.org
 voyagerz.hopto.org
 dns.horcrux.vip
-ghasam-be-shab.hosiyaman.info
+comback-all.hosiyaman.info
+strong.hosiyaman.info
 dns.internal.hosmatic.com
 v1552270.hosted-by-vdsina.ru
 noah1.hosteriafutaleufu.cl
@@ -3712,7 +3745,6 @@ ijustwanttstowork.dsylexia.jdymqic.shop
 doh.jeroenhd.nl
 host.jerry-lee.uk
 dns.jerryw.cn
-iran.mother.ir.jetish.info
 adguard.jfchenier.ca
 dns.jhangy.us
 dns.jichi.io
@@ -3955,6 +3987,9 @@ africadns1.liquidtelecom.net
 africadns2.liquidtelecom.net
 sers.lirlab.su
 dns.listo.click
+p.lite64.click
+p.lite64.top
+p.lite64.xyz
 dns.lithvik.com
 dns.litong.dev
 blade.lixd.club
@@ -3966,9 +4001,6 @@ playernation.localization.ee
 playernationorg.localization.ee
 flat.loisy.it
 nas-fusion.loisy.it
-ajab.lolauth.info
-nakhand-mesvak-gerone.lolauth.info
-nakoshimon-jomong.lolauth.info
 an.loliconapp.top
 adguard.londonwebnerd.cloud
 doh.dns1.lonet.org
@@ -4004,7 +4036,6 @@ dns.lvolland.fr
 orau.lz0724.com
 orjp4.lz0724.com
 addns1.m-it.ro
-ir.macauley.info
 purchase.machines.asia
 v971850.macloud.host
 dns.mafyuh.io
@@ -4076,9 +4107,11 @@ httpdns.meituan.com
 httpdnsmultiapi.meituan.com
 httpdnsmultiapivip.meituan.com
 httpdnsvip.meituan.com
+7gh.ir.ir.ir.meli-n12.info
 s47n.ir.ir.ir.meli-n12.info
 s7n.ir.ir.ir.meli-n12.info
 sn.ir.ir.ir.meli-n12.info
+4rg.ir.meli-n13.info
 dns.melvin2204.nl
 recap.utopia.menorahscrazyblog.com
 testaghome.meshkov.info
@@ -4089,10 +4122,6 @@ dns.mh4ckt3mh4ckt1c4s.xyz
 esel.stusta.mhn.de
 muli.stusta.mhn.de
 securenet.mhsystems.net
-estevia.miandoabs.info
-gardeshgar.miandoabs.info
-h2o.miandoabs.info
-sarma.miandoabs.info
 next.miao.ninja
 world.prep.micatonetwork.net
 dns.michelo.cl
@@ -4115,7 +4144,6 @@ aitkcrev.minhduc.pw
 api.miningbest.com
 dns.mipauns.com
 guard.miracloud.fr
-ultra.mishutkin.click
 netcup.mismat.ch
 httpdns.browser.miui.com
 dns.miyun1.com
@@ -5146,9 +5174,15 @@ korridor.semia-infra.net
 adguard.senthil.us
 forzalaquila.servebeer.com
 privatnas.servebeer.com
+dpi.server-space52.info
+opt.server-space52.info
 proxy-daemi-s1.server-space52.info
 proxy-daemi-s2.server-space52.info
 proxy-daemi-s3.server-space52.info
+server1.server-space52.info
+server2.server-space52.info
+server3.server-space52.info
+server4.server-space52.info
 doh.serverhost.no
 adguard.servernation.xyz
 node9.servernode.store
@@ -5413,7 +5447,6 @@ adguard.superstefan.win
 dns.superstefan.win
 ams01-n.surf-p.com
 dns.surfsharkdns.com
-relay.surfvpn.app
 bashful-stretch.surge.sh
 best-dock.surge.sh
 bumpy-picture.surge.sh
@@ -5525,7 +5558,6 @@ thakkali.teej.xyz
 books.quiz.teeman.org
 dns.tefuir0829.cn
 family.dns.teknoholistik.com
-khiar.telbet.app
 homenet.telecomitalia.it
 dns.telekom.de
 d51538618.access.telenet.be
@@ -5633,9 +5665,6 @@ how.prep.topmoto.pl
 chart.train.topone.cl
 nsc.torgues.net
 center.k12.mo.us.tornotluk.in
-main.tosenortejarat.info
-rich-and-ckleck.tosenortejarat.info
-turkish-kish-mish.tosenortejarat.info
 doh.totoro.pub
 chronicle14.tplinkdns.com
 ebpmc.tplinkdns.com
@@ -6033,6 +6062,7 @@ dns.xiumu.org
 dns.xivilay.dev
 dns.xlion.tw
 cloud.xn--4gq62f52gdss.asia
+ir.xn--ds-bja.info
 gw-1.xn--ehqx7tcnnope.com
 doh.xorlet.ru
 state.mass.xpatholiday.com
@@ -6065,7 +6095,6 @@ endis.ydns.eu
 poobungus.ydns.eu
 rammer3-haihu-bynyanko.ydns.eu
 sg.yepdns.com
-should.be.wake.up.ir.yfdhjderkig.info
 adguard.ygd.lol
 edge-intl.ygjs.org
 ns6.ygy.ru
@@ -7494,7 +7523,6 @@ bigma.org
 bigmoney.cc
 bigquerycdn.com
 bikeshopthe.org
-binamon.ir
 bingle.icu
 bingojiasu.com
 biolabshop.cc
@@ -11284,7 +11312,6 @@ koolyunfannpv.com
 kopcm.ru
 korannarrow.com
 korzhov.dev
-kostyanchekloh.lol
 koxy.de
 koyeb.app
 kproxy.asia
@@ -12519,6 +12546,7 @@ obhodvpn.help
 obokicygo.tattoo
 obscura.net
 obscurenamelab.shop
+obscuro.top
 obylrchr.com
 oceanbrowser.co
 oceancloud.asia
@@ -12598,7 +12626,6 @@ onlineproxy.co
 onlineproxy.eu
 onlineproxy.io
 onlineproxy.us
-onlinetutorials.info
 onlinevpn.app
 onlyrabbit02.sbs
 onyx7.com
@@ -14466,7 +14493,6 @@ topiran.baby
 topman8848.com
 toppal.tech
 toppeopleverse.top
-topproxt.asia
 topsecure.info
 topspeedvpn.homes
 topstudio.one
@@ -14524,7 +14550,6 @@ tproxyru.live
 tptn0rhbtj.info
 tqqzrbjd.com
 tqrad.com
-tqwrf6t2g.space
 tradeadspace.info
 traffix.uz
 trafflink.xyz
@@ -15984,6 +16009,7 @@ youtu7.shop
 youtube-proxy.com
 youtube-unblocker.com
 youtubefreeproxy.net
+youtubeunblocked.live
 youtujc.com
 youtulink3.top
 youtunice.com
